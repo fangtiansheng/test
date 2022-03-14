@@ -1,0 +1,870 @@
+1、38 North
+2、Acton Institute
+3、Allegheny Institute for Public Policy
+4、American Action Network
+5、American Civil Rights Union
+6、American Enterprise Institute for Public Policy Research (AEI)
+7、American Institute for Economic Research
+8、American Israel Public Affairs Committee
+9、American Iranian Council
+10、American Foreign Policy Council (AFPC)
+11、American Security Council Foundation
+12、Analysis Group
+13、Atlantic Council
+14、Atlas Network
+15、Berggruen Institute
+16、Beacon Hill Institute
+17、Berkeley Roundtable on the International Economy (BRIE)
+18、Belfer Center for Science and International Affairs
+19、Bipartisan Policy Center
+20、Buckeye Institute
+21、Carnegie Council for Ethics in International Affairs
+22、Carnegie Endowment for International Peace (CEIP)
+23、Adam Smith Institute (ASI)
+24、Africa Research Institute (ARI)
+25、Bow Group
+26、Bruges Group
+27、CANZUK International
+28、Centre for Cities
+29、Centre for Economic Policy Research (CEPR)
+30、Centre for London
+31、Centre for Policy Studies (CPS)
+32、Centre for the Economics of Education (CEE)
+33、Chatham House
+34、European Council on Foreign Relations (ECFR)
+35、Foreign Policy Centre (FPC)
+36、Green Alliance
+37、Hansard Society
+38、Institute for Government
+39、Institute for Fiscal Studies (IFS)
+40、Institute for Jewish Policy Research
+41、Institute for Strategic Dialogue
+42、Institute of Economic Affairs (IEA)
+43、International Institute for Strategic Studies (IISS)
+44、LSE IDEAS
+45、Localis
+46、Joseph Rowntree Foundation
+47、National Institute of Economic and Social Research
+48、New City Initiative
+49、New Policy Institute
+50、Open Europe
+51、Polar Research and Policy Initiative
+52、Policy Connect
+53、Asian Development Bank
+54、Daiwa Institute of Research Group (DIR）
+55、Economic Research Institute for Northeast Asia (ERINA)
+56、Fujitsu Research Institute（FRI）
+57、Genron NPO (言論ＮＰＯ)
+58、Hitachi Research Institute（HRI)
+59、Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO)
+60、Institute for International Socio-Economic Studies (IISE)
+61、Economic and Social Research Institute
+62、Japan Institute of International Affairs (JIIA)
+63、Mitsubishi UFJ Research and Consulting
+64、Mizuho Research Institute
+65、Nakasone Yasuhiro Peace Institute
+66、National Institute for Research Advancement
+67、NLI Research Institute
+68、Nomura Research Institute （NRI）
+69、Research Institute of Economy, Trade and Industry (RIETI)
+70、United Nations University (UNU)
+71、Sumitomo Mitsui Trust Research Institute
+72、Center for European Economic Research (ZEW)
+73、Centre for European Policy
+74、Friedrich Ebert Foundation
+75、Atlantic Community
+76、Friedrich Naumann Foundation
+77、German Council on Foreign Relations
+78、German Institute for International and Security Affairs (SWP)
+79、German Institute of Global and Area Studies
+80、German Institute for Economic Research (DIW)
+81、Heinrich Böll Foundation
+82、Kiel Institute for the World Economy (IfW)
+83、Konrad Adenauer Foundation
+84、Ifo Institute - Leibniz Institute for Economic Research
+85、Stiftung Neue Verantwortung
+86、Rosa Luxemburg Foundation
+87、Peace Research Institute Frankfurt
+88、Walter Eucken Institut
+89、Australian Strategic Policy Institute (ASPI)
+90、Centre for Independent Studies (CIS)
+91、Committee for Economic Development of Australia (CEDA)
+92、Centre for Policy Development
+93、East Asian Bureau of Economic Research (EABER)
+94、Development Policy Centre
+95、Lowy Institute
+96、Grattan Institute
+97、Mannkal Economic Education Foundation
+98、Institute of Public Affairs (IPA)
+99、Strategic and Defence Studies Centre (SDSC)
+100、Prosper Australia
+101、The Australia Institute
+102、Per Capita
+103、Center for Immigration Studies
+104、Center for Freedom and Prosperity (CFP)
+105、Center for Automotive Research (CAR)
+106、Ripon Society
+107、Rockefeller Institute of Government
+108、Roosevelt Institute Campus Network
+109、Seven Pillars Institute
+110、Show-Me Institute
+111、South Asian Center for Reintegration and Independent Research
+112、SRI International
+113、Streit Council
+114、Tax Foundation
+115、Texas Public Policy Foundation
+116、The Arctic Institute – Center for Circumpolar Security Studies
+117、The Century Foundation
+118、The Conference Board
+119、The Hampton Institute
+120、The Heartland Institute
+121、The Lugar Center
+122、The Stimson Center
+123、The Washington Institute for Near East Policy
+124、Third Way
+125、Thomas B. Fordham Institute
+126、United States Institute of Peace
+127、Urban Institute
+128、Jewish Institute for National Security of America
+129、Joint Center for Political and Economic Studies
+130、Levy Economics Institute
+131、Lexington Institute
+132、Mackinac Center for Public Policy
+133、McKinsey Global Institute (MGI)
+134、National Bureau of Asian Research
+135、National Bureau of Economic Research (NBER)
+136、National Policy Institute
+137、Niskanen Center
+138、Pacific Research Institute
+139、Pew Research Center
+140、 Pioneer Institute
+141、Policy Matters Ohio
+142、Potomac Institute for Policy Studies
+143、Progressive Policy Institute
+144、Prosperity Now (Corporation for Enterprise Development (CFED))
+145、Public Policy Institute of California
+146、RAND Corporation
+147、 Reason Foundation
+148、Center for a New American Security (CNAS)
+149、Center for Advanced Defense Studies
+150、Center for American Progress (CAP)
+151、Center for Development and Strategy (CDS)
+152、Center for Immigration Studies
+153、Center for International Security and Cooperation
+154、Center for Media and Democracy (CMD)
+155、Center for Naval Analysis
+156、Center for Public Integrity (CPI)
+157、Center for Public Justice
+158、Center for Security Policy
+159、Center for Strategic and Budgetary Assessments (CSBA)
+160、Center for Strategic and International Studies (CSIS)
+161、Center for the National Interest
+162、Center for Transatlantic Relations
+163、Center on Budget and Policy Priorities (CBPP)
+164、Center on Global Interests
+165、Chicago Council on Global Affairs
+166、Committee for a Responsible Federal Budget (CRFB)
+167、Committee for Economic Development of The Conference Board（CED）
+168、Competitive Enterprise Institute (CEI)
+169、Constitution Project
+170、Council on Competitiveness
+171、CUTS International
+172、Demos
+173、Drum Major Institute for Public Policy (DMI)
+174、EastWest Institute
+175、Economic Opportunity Institute (EOI)
+176、Economic Policy Institute (EPI)
+177、Employment Policies Institute
+178、Federation for American Immigration Reform (FAIR)
+179、Foreign Policy Initiative
+180、Foreign Policy Research Institute
+181、Foundation for Defense of Democracies
+182、Commodity Futures Trading Commission(CFTC)
+183、Congress
+184、Congressional Budget Office
+185、Council of Economic Advisers
+186、Department of Commerce
+187、Department of Justice
+188、Department of State
+189、Department of the Interior
+190、Department of the Treasury
+191、Federal Deposit Insurance Corporation (FDIC)
+192、Federal Housing Finance Agency
+193、Federal Reserve Bank of Atlanta
+194、Federal Reserve Bank of Boston
+195、Federal Reserve Bank of Chicago
+196、Federal Reserve Bank of Cleveland
+197、Consumer Financial Protection Bureau (CFPB)
+198、Federal Reserve Bank of Dallas
+199、Foundation for Economic Education (FEE)
+200、Gatestone Institute
+201、German Marshall Fund of the United States
+202、Global Trade Watch
+203、GlobalSecurity
+204、Goldwater Institute
+205、Group of Thirty
+206、Heartland Institute
+207、Hispanic American Center for Economic Research (HACER)
+208、Hoover Institution
+209、Independence Institute (II)
+210、Independent Institute
+211、India, China & America Institute
+212、Institute for New Economic Thinking (INET)
+213、Institute for Science and International Security
+214、Institute for Women's Policy Research (IWPR)
+215、Institute on Taxation and Economic Policy
+216、Inter-American Dialogue
+217、Islands Society
+218、Israel Policy Forum
+219、J Street
+220、James A. Baker III Institute for Public Policy
+221、James Madison Institute
+222、Alliance for Financial Inclusion (AFI)
+223、African Development Bank (AfDB)
+224、Asian Development Bank (ADB)
+225、Asian Infrastructure Investment Bank (AIIB)
+226、Bank for International Settlements (BIS)
+227、Black Sea Trade and Development Bank (BSTDB)
+228、Council of Europe Development Bank (CEB)
+229、Eurasian Development Bank (EDB)
+230、European Bank for Reconstruction and Development (EBRD)
+231、European Free Trade Association (EFTA)
+232、Financial Action Task Force (FATF)
+233、Inter-American Development Bank (IADB)
+234、International Centre for Settlement of Investment Disputes (ICSID)
+235、International Development Association (IDA)
+236、International Monetary Fund (IMF)
+237、Islamic Development Bank (IDB)
+238、Multilateral Investment Guarantee Agency (MIGA)
+239、New Development Bank (NDB)
+240、OPEC Fund for International Development (OFID)
+241、Organisation for Economic Co-operation and Development (OECD)
+242、Organization of the Black Sea Economic Cooperation
+243、United Nations (UN)
+244、West African Development Bank (WADB)
+245、World Bank
+246、World Customs Organization (WCO)
+247、World Trade Organization (WTO)
+248、Z/Yen
+249、WebRoots Democracy
+250、Unlock Democracy
+251、United Nations Association – UK
+252、The Wilberforce Society
+253、The Constitution Society
+254、The Cobden Centre
+255、The Centre for Cross Border Studies
+256、Social Market Foundation
+257、Social Affairs Unit
+258、Conference Board of Canada
+259、Federal Reserve Bank of Kansas City
+260、Federal Reserve Bank of Minneapolis
+261、Federal Reserve Bank of New York
+262、Federal Reserve Bank of Philadelphia
+263、Federal Reserve Bank of San Francisco
+264、Federal Reserve Bank of St. Louis
+265、Financial Crimes Enforcement Network (FinCEN)
+266、Federal Trade Commission (FTC)
+267、Federal Reserve Board (FRB)
+268、Cascade Policy Institute
+269、General Accountability Office (GAO)
+270、Government Publishing Office (Catalog of U.S. Government Publications, CGP)
+271、National Credit Union Administration (NCUA)
+272、Office of the Comptroller of the Currency (OCC)
+273、International Finance Corporation (IFC)
+274、International Bank for Reconstruction and Development (IBRD)
+275、U.S. International Trade Commission (USITC)
+276、Small Business Administration
+277、Senate House
+278、Securities and Exchange Commission (SEC)
+279、Canadian International Council (CIC)
+280、Canadian Global Affairs Institute
+281、Canadian Centre for Policy Alternatives (CCPA)
+282、Canada West Foundation
+283、Caledon Institute of Social Policy
+284、C.D. Howe Institute
+285、Broadbent Institute
+286、Atlantic Provinces Economic Council
+287、Atlantic Institute for Market Studies (AIMS)
+288、Asia Pacific Foundation of Canada (APF Canada)
+289、Canadian Tax Foundation
+290、Centre for International Governance Innovation (CIGI)
+291、Australian Institute of International Affairs (AIIA)
+292、United States Studies Centre
+293、The Sydney Institute
+294、New Zealand Initiative
+295、Institute of Policy Studies
+296、Maxim Institute
+297、Centre for Strategic Studies New Zealand
+298、Oklahoma Policy Institute
+299、Committee for Economic Development of The Conference Board（CED）
+300、Fraser Institute
+301、The North-South Institute (NSI)
+302、The Institute for Research on Public Policy (IRPP)
+303、School of Public Policy and Governance (SPPG)
+304、Public Policy Forum (PPF)
+305、Montreal Economic Institute (MEI)
+306、Macdonald–Laurier Institute (MLI)
+307、International Institute for Sustainable Development (IISD)
+308、Frontier Centre for Public Policy (FCPP)
+309、Selsdon Group
+310、Scottish Constitutional Commission
+311、Science Policy Research Unit
+312、New Economics Foundation
+313、ResPublica
+314、Reform
+315、Progress
+316、Politeia
+317、Policy Studies Institute
+318、Policy Network
+319、Policy Exchange
+320、Next Century Foundation
+321、Jimmy Reid Foundation
+322、International Institute for Environment and Development
+323、Institute for Public Policy Research
+324、Center for Economic and Policy Research (CEPR)
+325、Institute for Democracy and Economic Affairs
+326、Fedesarrollo
+327、Hellenic Foundation for European and Foreign Policy
+328、Danish Institute for International Studies (DIIS)
+329、Copenhagen Institute for Futures Studies
+330、Centre for Political Studies (CEPOS)
+331、International Centre for Black Sea Studies
+332、Centre of Planning and Economic Research
+333、Center of Research for Development (CIDAC)
+334、Research Institute of the Finnish Economy (ETLA)
+
+339、S. Rajaratnam School of International Studies
+340、Singapore Institute of International Affairs (SIIA)
+341、World Economic Forum
+342、Amadeus Institute
+343、Economic and Social Research Institute (ESRI)
+344、Institute of International and European Affairs
+345、Think Tank for Action on Social Change (TASC)
+346、Horasis
+347、Centre for Development and Enterprise
+348、Geneva Centre for the Democratic Control of Armed Forces
+349、Free Market Foundation
+350、Millennium Institute
+351、Israel Democracy Institute
+352、Institute for National Security Studies (INSS)
+353、Avenir Suisse
+354、South African Institute of International Affairs
+355、Institute for Security Studies
+356、Jerusalem Center for Public Affairs
+357、Centre on Asia and Globalisation
+358、Turkish Economic and Social Studies Foundation
+359、GPoT Center
+360、Centre for Economics and Foreign Policy Studies (EDAM)
+361、Jerusalem Institute for Policy Research (JIPR)
+362、Reut Institute
+363、Stockholm International Peace Research Institute
+364、Institute for International Economic Studies (IIES)
+365、Captus
+366、Begin–Sadat Center for Strategic Studies
+367、Centre for Fair Political Analysis
+368、Foraus
+369、Association for Liberal Thinking (ALT)
+370、Center for European Renewal
+371、Finnish Institute of International Affairs (FIIA)
+372、European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）
+373、Real Instituto Elcano
+374、Fundación Alternativas
+375、Barcelona Centre for International Affairs
+376、Federal Reserve Bank of San Francisco
+377、Japan Center for Economic Research (JCER)
+378、Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO)
+379、The Casimir Pulaski Foundation
+380、Sobieski Institute
+381、Kosciuszko Institute
+382、Institute of International Affairs
+383、Netherlands Bureau for Economic Policy Analysis (CPB)
+384、Netherlands Institute for Multiparty Democracy
+385、Edmund Burke Foundation
+386、Clingendael, Netherlands Institute of International Relations
+387、Trinità dei Monti
+388、demosEUROPA - Centre for European Strategy
+389、Centre for Eastern Studies
+390、Center for Social and Economic Research (CASE)
+391、Adam Smith Centre
+392、Friends of Europe
+393、European Policy Centre (EPC)
+394、European Centre for International Political Economy (ECIPE)
+395、Egmont Group of Financial Intelligence Units
+396、EGMONT – The Royal Institute for International Relations
+397、Centre for European Policy Studies (CEPS)
+398、Bruegel
+399、Centre d'Etudes Prospectives et d'Informations Internationales (CEPII)
+400、French Institute of International Relations（IFRI)
+401、Jacques Delors Institute
+401、Institut Montaigne
+402、Gracques
+403、Institut des Relations Internationales et Strategiques (IRIS)
+404、European Laboratory of Political Anticipation (LEAP2020)
+405、French Institute of International Relations（IFRI)
+406、French Institute of International Relations（IFRI)
+407、Center for Economic and Social Development (CESD)
+408、International Growth Centre (IGC)
+409、Kenya Institute for Public Policy Research and Analysis (KIPPRA)
+410、African Economic Research Consortium (AERC)
+411、Centro de Estudio de la Realidad Economica y Social (CERES)
+412、Economics Institute
+413、Institute for Public Affairs
+414、Federal Reserve Bank of Minneapolis
+415、Federal Reserve Bank of St. Louis
+416、Federal Reserve Bank of Philadelphia
+417、Federation of Euro-Asian Stock Exchanges (FEAS)
+418、Valdai Discussion Club
+419、Moscow State Institute of International Relations (MGIMO)
+420、Institute of World Economy and International Relations (IMEMO RAS)
+421、Center for Fiscal Policy (CFP)
+422、Center for Economic and Financial Research (CEFIR)
+423、Carnegie Moscow Center
+424、Analytical Center for the Government of the Russian Federation
+425、India Council for Research on International Economic Relations(ICRIER)
+426、International Centre for Policy Studies
+427、Centro Brasileiro de Relacoes Internacionais (CEBRI)
+428、Fundacao Armando Alvares Penteado (FAAP)
+429、Fundacao Getulio Vargas (FGV)
+430、Asan Institute for Policy Studies
+431、Korea Development Institute (KDI)
+432、Korea Institute for International Economic Policy (KIEP)
+433、New Economic School – Georgia
+434、Sejong Institute
+435、Bangladesh Institute of Law and International Affairs (BILIA)
+436、Centre for Policy Dialogue (CPD)
+437、African Centre for Development and Strategic Studies
+438、National Institute of Policy and Strategic Studies
+439、Nigerian Institute of International Affairs
+440、Bangladesh Institute of Development Studies (BIDS)
+441、Institute of World Economics and Politics (IWEP)
+442、Organization for Social Science Research in Eastern and Southern Africa (OSSREA)
+443、Albanian Institute for International Studies (AIIS)
+444、University of Asia and the Pacific
+445、Centro de Estudios Publicos (CEP)
+446、IMANI Center for Policy and Education
+447、Libertad y Desarrollo (LyD)
+448、Economic Research Institute for ASEAN and East Asia (ERIA)
+449、Centre for Strategic and International Studies
+450、LIRNEasia
+451、Institute of Regional Studies
+452、Institute of Policy Studies
+453、Applied Economics Research Centre
+454、Consejo Argentino para las Relaciones Internacionales (CARI)
+455、Centro de Implementacion de Politicas Publicas para la Equidad y el Crecimiento (CIPPEC)
+456、Egyptian Center for Economic Studies (ECES)
+457、Austrian Institute of Economic Research (WIFO)
+458、Vienna Institute for International Economic Studies (WIIW)
+459、Georgian Foundation for Strategic and International Studies
+460、Razumkov Centre
+461、Strategic Foresight Group
+462、Chennai Centre for China Studies
+463、Pakistan Institute of Development Economics
+464、Centre for Public Policy Research
+465、Centre for Civil Society
+466、Association for Democratic Reforms
+467、Islamabad Policy Research Institute
+468、Pakistan Institute of International Affairs
+469、Itinera Institute
+470、Lakshman Kadirgamar Institute of International Relations and Strategic Studies
+471、Institute of Applied Economic Research
+472、Institute for Social and Economic Analyses (ISEA)
+473、Social Policy and Development Centre
+474、Sustainable Development Policy Institute
+475、Financial Crimes Enforcement Network (FinCEN)
+476、AARP Public Policy Institute
+477、Adam Smith Foundation
+478、Arkansas Policy Foundation
+479、Chicago Community Trust
+480、Citizens Policy Foundation
+481、Council On Foundation
+482、Economic Policy Institute
+483、Ford Foundation
+484、Foundation for Rational Economics and Education
+485、Future of American Democracy Foundation
+486、Georgia Public Policy Foundation
+487、Horowitz Foundation For Social Policy
+488、International Republican Institute
+489、John William Pope Foundation
+490、Kettering Foundation
+491、Land Policy Institute
+492、MacArthur Foundation
+493、NASW Foundation
+494、Netherland-America Foundation
+495、New York Community Trust
+496、Oklahoma Policy Institute
+497、OpenGov Foundation
+498、Participatory Politics Foundation
+499、Randolph Foundation
+500、Rockefeller Institute of Government
+501、Russell Sage Foundation
+502、Scaife Foundations
+503、Silicon Valley Community Foundation
+504、Smith Richardson Foundation
+505、Spark Policy Institute
+506、Stanley Foundation
+507、Sunlight Foundation
+508、Texas Public Policy Foundation
+509、The Boston Foundation
+510、The Heritage Foundation
+511、The U.S.- China Policy Foundation
+512、Tulsa Community Foundation
+513、United Nations Foundation
+513、Tellus Institute
+514、World Affairs Councils of America
+515、Oregon Center for Public Policy
+516、Pacific Forum International
+516、New Democrat Network
+517、New America Foundation
+518、Philadelphia Society
+519、Ludwig von Mises Institute
+520、McCain Institute
+521、Manhattan Institute for Policy Research (MI)
+522、Migration Policy Institute
+523、Milken Institute
+524、Middle East Forum
+525、John S. Watson Institute for Public Policy
+526、Institute for Policy Studies (IPS)
+527、Jamestown Foundation
+528、Hudson Institute
+529、Cato Institute
+530、Center for Governmental Research (CGR)
+531、City Mayors Foundation
+532、Brand EU
+533、Common Weal
+534、Constitution Unit
+535、Stockholm Network
+536、Henry Jackson Society
+537、Vivekananda International Foundation
+538、Ratio Institute
+539、Institut Choiseul for International Politics and Geoeconomics
+540、Institute for US and Canadian Studies
+541、Institute for International Political Studies (ISPI)
+542、International Strategic Research Organization
+543、Financial Conduct Authority
+544、Concord Coalition
+545、Peterson Institute for International Economics (PIIE)
+1、Africa Center for Strategic Studies
+2、Asia Society Policy Institute（ASPI）
+3、Aspen Institute
+4、Atlantic Council
+5、Arctic Institute
+6、Center for a New American Security (CNAS)
+7、Center for American Progress (CAP)
+8、Center for Data Innovation
+9、Center for European Policy Analysis
+10、Center for the National Interest (CFTNI), FKA Nixon Center
+11、Center for National Policy (CNP)
+12、Center on Budget and Policy Priorities (CBPP)
+13、Congressional Research Service
+14、Council on Foreign Relations (CFR)
+15、Demand Progress Education Fund
+16、Earth institute
+17、Federation for American Immigration Reform (FAIR)
+18、Global Trade Analysis Project （GTAP)
+19、Hoover Institution
+20、Hudson Institute
+21、Institute for Defense Analysis
+22、Institute for Religion and Democracy (IRD)
+23、Information Technology and Innovative Foundation
+24、Levy Institute
+25、Lugar Center
+26、Library of Congress
+27、Mercatus Center
+28、New York Law Journal
+29、Open Markets Institute
+30、Open Society Foundations (OSF), FKA Open Society Institute
+31、Pacific Council on International Policy
+32、Pamplin College of Business
+33、Project for the Study of the 21st Century (PS21)
+34、Public Citizen
+35、Resources for the Future
+36、Stimson Center
+37、The Peter G、Peterson Foundation
+38、US-China Economic and Security Review Commission (USCC)
+39、Washington Center for Equitable Growth （WEGC）
+40、Williams Mullen
+41、Wilson Center, FKA Woodrow Wilson International Center for Scholars
+42、Woodrow Wilson International Center for Scholars
+43、Adam Smith Institute (ASI)
+44、Amnesty International (AI)
+45、Centre for European Reform (CER)
+46、Centre for Progressive Capitalism
+47、Cesran International
+48、Development Initiatives
+49、European Council on Foreign Relations (ECFR)
+50、European Leadership Network
+51、Institute for Fiscal Studies (IFS)
+52、Institute of Economic Affairs (IEA)
+53、International Institute for Strategic Studies (IISS)
+54、Legatum Institute
+55、Overseas Development Institute (ODI)
+56、Oxford Council on Good Governance (OCGG)
+57、Reform
+58、Royal United Services Institute (RUSI)
+59、Canada 2020
+60、Canadian Taxpayers Federation
+61、Eco-Fiscal Commission
+62、Global Network for Africa’s Prosperity (GNAP)
+63、Mackenzie Institute
+64、Mowat Center
+65、Pembina Institute
+66、TRT World Research Centre
+67、Canon Institute for Global Studies
+68、Center for Strategic and International Studies (CSIS)
+69、Economic and Social Research Institute
+70、Institute of Developing Economies, Japan External Trade Organization (IDEJETRO)
+71、Institute of Energy Economics, Japan (IEEJ)
+72、Institute of International and Strategic Studies (IISS)
+73、Institute for International Policy Studies (IIPS)
+74、Japan Institute of International Affairs (JIIA)
+75、Japan Policy Research Institute (PRI)
+76、NLI Research Institute
+77、Research Institute of Economy, Trade and Industry (RIETI)
+78、Sasakawa Peace Foundation
+79、Tokyo Foundation
+80、Bertelsmann Foundation
+81、Center for European Economic Research (ZEW)
+82、Centre for Global Cooperation Research
+83、Deutsches Institut für Wirtschaftsforschung (DIW)
+84、Duesseldorf Center for Competition Economics (DICE)
+85、Ecologic Institute
+86、European Stability Initiative
+87、Jacques Delors Institut
+88、German Development Institute (DIE)
+89、German Institute for International and Security Affairs (SWP)
+90、Institute for Advanced Sustainability Studies
+91、Kiel Institute for the World Economy (IfW)
+92、Koerber Foundation
+93、Potsdam Institute for Climate Impact Research
+94、Transparency International (TI)
+95、Australia China Relations Institute (ACRI)
+96、Institute for Economics and Peace (IEP)
+97、Institute for Regional Security
+98、Grattan Institute
+99、Institute for Economics and Peace (IEP)
+100、Institute for Policy Analysis of Conflict
+101、Lowy Institute for International Policy
+102、Brookings Institution
+103、Carnegie Endowment for International Peace
+104、Centre for the Study of Developing Societies (CSDS)
+105、Development Alternatives (DA)
+106、Hindu Centre for Politics and Public Policy
+107、Indian Council of World Affairs (ICWA)
+108、Institute of Economic Growth (IEG)
+109、Integrated Research and Action for Development (IRADe)
+110、Alternate Solutions Institute
+111、Area Study Centre for Far East and Southeast Asia (FESEA)
+112、Center for Research on Economic and Social Transformation (CREST)
+113、Policy Research Institute of Market Economy
+114、Adviser on Strategic Foresight
+115、European Organisation for Security
+116、Foundation for European Progressive Studies (FEPS)
+117、German Marshall Fund
+118、International Crisis Group (ICG)
+119、Lisbon Council for Economic Competitiveness and Social Renewal
+120、Security and Defence Agenda (SDA)
+121、Arava Institute
+122、Avinoam Bar, FKA Jewish People Policy Institute (JPPPI)
+123、International Institute for Counter-Terrorism (ICT)
+124、Israel Center for Social and Economic Progress (ICSEP)
+125、Jerusalem Institute for Market Studies
+126、Kohelet Policy Forum
+127、Maurice Falk Institute for Economic Research
+128、Moshe Dayan Center for Middle Eastern and African Studies
+129、Casimir Pulaski Foundation (CPF)
+130、Center for Economic Analysis (CenEA)
+131、Center for International Relations (CIR)
+132、demosEUROPA - Centre for European Strategy
+133、Institute of Economics
+134、Polish Institute of International Affairs (PISM)
+135、WISE Europa
+136、Carnegie Endowment for International Peace Moscow Center
+137、Center for Economic and Financial Research (CEFIR)
+138、Centre for Independent Social Research
+139、Economic Expert Group (EEG)
+140、Independent Institute for Social Policy (IISP)
+141、Institute for Applied Economic Studies
+142、Institute for Urban Economics (IUE)
+143、Gaidar Institute for Economic Policy (IEP)
+144、Primakov Institute of World Economy and International Relations (IMEMO)
+145、Russian International Affairs Council (RIAC)
+146、St、Petersburg Center for Humanities and Political Studies
+147、Centre d'Etudes et de Recherches Internationales (CERI)
+148、European Union Institute for Security Studies (EUISS)
+149、Fondation Robert Schuman
+150、Fondation pour la Recherche Strategique (FRS)
+151、Fondation pour l'Innovation Politique (Fondapol)
+152、Institut de Recherche Strategique de l'Ecole Militaire
+153、Institute for Research in Economic and Fiscal Issues (IREF)
+154、Institut des Relations Internationales et Strategiques (IRIS)
+
+
+
+
+159、Institut Molinari
+160、Notre Europe Jacques Delors Institut
+161、Action Institute
+162、Centro Studi Internazionali (Ce.S.I.)
+163、Fondazione Eni Enrico Mattei (FEEM)
+164、Institute for International Political Studies (ISPI)
+165、International Center for Climate Governance (ICCG)
+166、Istituto Affari Internazionali (IAI)
+167、Istituto Bruno Leoni (IBL)
+168、Torino World Affairs Institute
+169、Clingendael, Netherlands Institute of International Relations
+170、European Centre for Development Policy Management (ECDPM)
+171、Center for Strategic Research (SAM)
+172、Istanbul Policy Center
+173、Institute of Defence and Strategic Studies (IDSS)
+174、Institute of Southeast Asian Studies (ISEAS)
+175、Asia Competitiveness Institute (ACI)
+176、Singapore Institute of International Affairs (SIIA)
+177、Political Risks Assessment Group
+178、Ecologic Foundation
+179、New Zealand Institute of International Affairs (NZIIA)
+180、Centro Brasileiro de Análise e Planejamento (CEBRAP)
+181、Danish Institute for International Studies (DIIS)
+182、Korea Energy Economics Institute (KEEI)
+183、African Centre for the Constructive Resolution of Disputes (ACCORD)
+184、EuroMeSCo
+185、Fundacion para el Analisis y los Estudios Sociales (FAES)
+186、Real Instituto Elcano
+187、European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE)
+188、Centro de Investigacion y Docencia Economicas (CIDE)
+189、Fundacion Idea
+190、Al-Ahr am Center for Political and Strategic Studies (ACPSS)
+191、Innovations in Politics Institute
+192、Corporación de Estudios para Latinoamérica (CIEPLAN)
+193、NHH Norwegian School of Economics
+194、Bank for International Settlements (BIS)
+195、European Bank for Reconstruction and Development (EBRD)
+196、International Bank for Reconstruction and Development (IBRD)
+197、Economic Policy Institute
+198、Ford Foundation
+199、Tulsa Community Foundation
+741、Issam Fares Institute for Public Policy and International Affairs (IFI)
+428、Kansas Policy Institute
+455、Project 2049 Institute
+385、Claremont Institute
+239、Kuhn Foundation
+694、Nigerian Economic Summit Group
+653、Eudoxa
+657、Timbro
+672、McGuinness Institute
+621、Israel Council on Foreign Relations
+649、Future Italy
+648、European University Institute
+487、Centre for Economic and Social Inclusion
+600、The Takshashila Institution
+263、Observer Research Foundation (ORF)
+604、Institute of Strategic Studies Islamabad
+129、Jerusalem Institute for Market Studies 
+643、Institut Choiseul for International Politics and Geoeconomics
+280、Horowitz Foundation For Social Policy
+552、Asian Development Bank Institute (ADBI)
+216、International Development Association (IDA)
+747、A.T. Kearney Global Business Policy Council (GBPC)
+748、Accenture Institue for High Performance
+749、Bloomberg BNA
+750、Boston Consulting Group (BCG)
+751、Center for International Development (CID)
+752、Cohen Group
+753、Control Risks Group
+754、E.Y., FKA Ernst & Young
+755、GovLab, Deloitte
+756、IBM Institute ofr Business Value
+757、Kissinger Associates
+758、Kreller Business Information Group
+759、Kroll Associates
+760、Medley Global Advisors
+761、Mossavar-Rahmani Center for Business and Government, Harvard University
+762、National Center for Public Policy Research (NCPPR)
+763、National Venture Capital Association
+764、Oxford Analytica
+765、PricewaterhouseCoopers (PwC)
+766、Roubini Global Economics (RGE)
+767、Smith Brandon International Inc.
+768、Yale Center for the Study of Globalization
+769、Aegis
+770、Deloitte Touche Tohmatsu
+771、Economist Intelligence Unit (EIU)
+772、Frontier Horizons
+773、IDEAS
+774、Institute for Development Studies
+775、Tax payers Alliance
+776、Center for International Policy Studies
+777、China Institute
+778、Facultad Latinoamericana de Ciencias Sociales (FLACSO)
+779、Asia Pacific Initiative
+780、Economic and Social Research Institute
+781、Japan Institute for International Development
+782、Institute for Ecological Economy Research (IÖW)
+783、Institute of Labor Economics (IZA)
+784、Macroeconomic Policy Institute (IMK)
+785、Centre for Internet and Society (CIS)
+786、Delhi Policy Group (DPG)
+787、Foundation for Democratic Reforms
+788、Gateway House: Indian Council on Global Relations
+789、India Foundation
+790、Indira Gandhi Institute of Development Research (IGIDR)
+791、Institute for Public Enterprise
+792、National Council of Applied Economic Research (NCAER)
+793、Van Leer Jerusalem Institute (VLJI)
+794、Fundacja Forum Obywatelskiego Rozwoju (FOR)
+795、Jagiellonian Club's Centre of Analysis
+796、National Institute for Strategic Studies
+797、Institute of Economy of the Russian Academy of Sciences (EDIRC)
+798、Institute for Sustainable Development and International Relations
+799、KPMG
+800、Center for Turkey's Economic and Strategic Studies
+801、Economic Policy Research Foundation of Turkey
+802、East Asian Institute (EAI)
+803、Fundación de Investigaciones Económicas Latinoamericanas (FIEL)
+804、Latin American Security and Defence Network (RESDAL)
+805、BRICS Policy Center
+806、Botswana Institute for Development Policy Analysis (BIDPA)
+807、Ateneo Center for Economic Research and Development (ACERD)
+808、Initiatives for International Dialogue (IID)
+809、Institute for Strategic and Development Studies (ISDS)
+810、Korea Economic Research Institute
+811、Samsung Economic Research Institute (SERI)
+812、Institute of Policy Studies of Sri Lanka (IPS)
+813、Centre for Poverty Analysis (CEPA)
+814、Institute for National Security Studies
+815、Institute of National Capacity Studies (INCS)
+816、Vietnam Institute for American Studies
+60、Oxford Council on Good Governance (OCGG)
+521、Scottish Global Forum
+137、Institute of Economics
+138、Polish Institute of International Affairs (PISM)
+143、Economic Expert Group (EEG)
+602、Institute of Policy Studies
+724、Institute of World Economics and Politics (IWEP)
+366 Center for Development and Strategy
+1、Beacon Center of Tennessee
+2、Canpaign Finance Institute
+3、Center for Financial Inclusion
+4、Center for International Private Enterprise
+5、Center for International Trade and Security
+6、Center for the Study of American Business, Washington University in St. Louis (CSAB)
+7、Center for an Urban Future
+8、Corporation for Enterprise Development
+9、Economic Growth Center, Yale University (EGC)
+10、Economic Innovation Group
+11、Global Financial Integrity
+12、Joint  Center for Housing Studies
+13、Lincoin Instite of Land Policy
+14、Maine Center for Economic Policy
+15、Natural Resource Governance Institute
+16、NORC at the University of Chicago
+17、Northeast-Midwest Institute
+18、Political and Economic Research Council
+19、W.E. Upjohn Institute for Employment Resaerch
+20、Centre for Local Economic Strategies
+21、Institute of Economics, Russian Academy of Sciences (RAS)
+22、NUS-East Asian Institute (EAI)
+23、Institute of Governance and Policy Studies
+24、Samsung Economic Research Institute (SERI)
+25、Financial Stability Board
+26、Analysis Group
+27、The Heritage Foundation
