@@ -1,0 +1,3836 @@
+[{
+    "key": "GlobalSecurity",
+    "doc_count": 68787,
+    "seven_days_count": 535,
+    "abbreviation": ""
+}, {
+    "key": "data.gov",
+    "doc_count": 272893,
+    "seven_days_count": 319,
+    "abbreviation": ""
+}, {
+    "key": "United Nations (UN)",
+    "doc_count": 149531,
+    "seven_days_count": 131,
+    "abbreviation": "UN"
+}, {
+    "key": "African Development Bank (AfDB)",
+    "doc_count": 24176,
+    "seven_days_count": 117,
+    "abbreviation": "AfDB"
+}, {
+    "key": "Department of State",
+    "doc_count": 12683,
+    "seven_days_count": 91,
+    "abbreviation": "State"
+}, {
+    "key": "International Bank for Reconstruction and Development (IBRD)",
+    "doc_count": 154916,
+    "seven_days_count": 58,
+    "abbreviation": "IBRD"
+}, {
+    "key": "Ludwig von Mises Institute",
+    "doc_count": 16921,
+    "seven_days_count": 45,
+    "abbreviation": "Ludwig"
+}, {
+    "key": "Department of Justice",
+    "doc_count": 45180,
+    "seven_days_count": 44,
+    "abbreviation": "Justice"
+}, {
+    "key": "Manhattan Institute for Policy Research (MI)",
+    "doc_count": 17795,
+    "seven_days_count": 29,
+    "abbreviation": "MI"
+}, {
+    "key": "International Development Association (IDA)",
+    "doc_count": 2481,
+    "seven_days_count": 29,
+    "abbreviation": "IDA"
+}, {
+    "key": "American Institute for Economic Research",
+    "doc_count": 17839,
+    "seven_days_count": 28,
+    "abbreviation": "AIER"
+}, {
+    "key": "Federal Reserve Board (FRB)",
+    "doc_count": 123697,
+    "seven_days_count": 24,
+    "abbreviation": "FRB"
+}, {
+    "key": "James A. Baker III Institute for Public Policy",
+    "doc_count": 12212,
+    "seven_days_count": 22,
+    "abbreviation": "JBIFPP"
+}, {
+    "key": "RAND Corporation",
+    "doc_count": 28604,
+    "seven_days_count": 21,
+    "abbreviation": "RAND"
+}, {
+    "key": "Foundation for Rational Economics and Education",
+    "doc_count": 8620,
+    "seven_days_count": 21,
+    "abbreviation": "FFREE"
+}, {
+    "key": "Department of the Treasury",
+    "doc_count": 19429,
+    "seven_days_count": 20,
+    "abbreviation": "Treasury"
+}, {
+    "key": "Hellenic Foundation for European and Foreign Policy",
+    "doc_count": 4167,
+    "seven_days_count": 19,
+    "abbreviation": "HFEFP"
+}, {
+    "key": "Global Trade Watch",
+    "doc_count": 3031,
+    "seven_days_count": 18,
+    "abbreviation": "GTW"
+}, {
+    "key": "United States Institute of Peace",
+    "doc_count": 9896,
+    "seven_days_count": 17,
+    "abbreviation": "USIP"
+}, {
+    "key": "Bank for International Settlements (BIS)",
+    "doc_count": 20032,
+    "seven_days_count": 16,
+    "abbreviation": "BIS"
+}, {
+    "key": "U.S. International Trade Commission (USITC)",
+    "doc_count": 16978,
+    "seven_days_count": 16,
+    "abbreviation": "USITC"
+}, {
+    "key": "Center for a New American Security (CNAS)",
+    "doc_count": 7783,
+    "seven_days_count": 16,
+    "abbreviation": ""
+}, {
+    "key": "Pacific Research Institute",
+    "doc_count": 5179,
+    "seven_days_count": 16,
+    "abbreviation": "PRI"
+}, {
+    "key": "The Conference Board",
+    "doc_count": 4178,
+    "seven_days_count": 16,
+    "abbreviation": "TCB"
+}, {
+    "key": "Centre for Economic Policy Research (CEPR)",
+    "doc_count": 9387,
+    "seven_days_count": 15,
+    "abbreviation": "CFEPR"
+}, {
+    "key": "Congressional Budget Office",
+    "doc_count": 21210,
+    "seven_days_count": 13,
+    "abbreviation": "CBO"
+}, {
+    "key": "Adam Smith Institute (ASI)",
+    "doc_count": 13505,
+    "seven_days_count": 13,
+    "abbreviation": "ASI"
+}, {
+    "key": "Institute for International Political Studies (ISPI)",
+    "doc_count": 2929,
+    "seven_days_count": 13,
+    "abbreviation": "ISPI"
+}, {
+    "key": "Inter-American Dialogue",
+    "doc_count": 7698,
+    "seven_days_count": 12,
+    "abbreviation": "IAD"
+}, {
+    "key": "Belfer Center for Science and International Affairs",
+    "doc_count": 17601,
+    "seven_days_count": 11,
+    "abbreviation": "BHI"
+}, {
+    "key": "Institute of Labor Economics (IZA)",
+    "doc_count": 17330,
+    "seven_days_count": 11,
+    "abbreviation": "IZA"
+}, {
+    "key": "Center for Development and Strategy (CDS)",
+    "doc_count": 12170,
+    "seven_days_count": 11,
+    "abbreviation": "CDS"
+}, {
+    "key": "Peterson Institute for International Economics (PIIE)",
+    "doc_count": 9163,
+    "seven_days_count": 11,
+    "abbreviation": "PIIE"
+}, {
+    "key": "Vivekananda International Foundation",
+    "doc_count": 5570,
+    "seven_days_count": 11,
+    "abbreviation": "VIF"
+}, {
+    "key": "Department of Commerce",
+    "doc_count": 3544,
+    "seven_days_count": 11,
+    "abbreviation": "Commerce"
+}, {
+    "key": "Department of the Interior",
+    "doc_count": 84837,
+    "seven_days_count": 10,
+    "abbreviation": "Interior"
+}, {
+    "key": "World Bank",
+    "doc_count": 72379,
+    "seven_days_count": 10,
+    "abbreviation": "WB"
+}, {
+    "key": "International Monetary Fund (IMF)",
+    "doc_count": 22588,
+    "seven_days_count": 10,
+    "abbreviation": "IMF"
+}, {
+    "key": "Competitive Enterprise Institute (CEI)",
+    "doc_count": 17317,
+    "seven_days_count": 10,
+    "abbreviation": "CEI"
+}, {
+    "key": "Institute for Development Studies",
+    "doc_count": 13519,
+    "seven_days_count": 10,
+    "abbreviation": "IDS"
+}, {
+    "key": "European Bank for Reconstruction and Development (EBRD)",
+    "doc_count": 12489,
+    "seven_days_count": 10,
+    "abbreviation": "EBRD"
+}, {
+    "key": "Institute of Economic Affairs (IEA)",
+    "doc_count": 11156,
+    "seven_days_count": 10,
+    "abbreviation": "IEA"
+}, {
+    "key": "Russian International Affairs Council (RIAC)",
+    "doc_count": 8022,
+    "seven_days_count": 10,
+    "abbreviation": "RIAC"
+}, {
+    "key": "New Zealand Initiative",
+    "doc_count": 6627,
+    "seven_days_count": 10,
+    "abbreviation": "NZI"
+}, {
+    "key": "Foreign Policy Initiative",
+    "doc_count": 5071,
+    "seven_days_count": 10,
+    "abbreviation": "FPI"
+}, {
+    "key": "New America Foundation",
+    "doc_count": 19048,
+    "seven_days_count": 9,
+    "abbreviation": "NEAF"
+}, {
+    "key": "Center for American Progress (CAP)",
+    "doc_count": 19007,
+    "seven_days_count": 9,
+    "abbreviation": "CAP"
+}, {
+    "key": "Libertad y Desarrollo (LyD)",
+    "doc_count": 3402,
+    "seven_days_count": 9,
+    "abbreviation": "LyD"
+}, {
+    "key": "Overseas Development Institute (ODI)",
+    "doc_count": 10645,
+    "seven_days_count": 8,
+    "abbreviation": "ODI"
+}, {
+    "key": "Oklahoma Policy Institute",
+    "doc_count": 8336,
+    "seven_days_count": 8,
+    "abbreviation": "OPI"
+}, {
+    "key": "Stimson Center",
+    "doc_count": 6328,
+    "seven_days_count": 8,
+    "abbreviation": ""
+}, {
+    "key": "Institute on Taxation and Economic Policy",
+    "doc_count": 5705,
+    "seven_days_count": 8,
+    "abbreviation": "IOTAEP"
+}, {
+    "key": "World Customs Organization (WCO)",
+    "doc_count": 4606,
+    "seven_days_count": 8,
+    "abbreviation": "WCO"
+}, {
+    "key": "Bruegel",
+    "doc_count": 3724,
+    "seven_days_count": 8,
+    "abbreviation": "Bruegel"
+}, {
+    "key": "Department of Homeland Security",
+    "doc_count": 3562,
+    "seven_days_count": 8,
+    "abbreviation": "Homeland"
+}, {
+    "key": "Polar Research and Policy Initiative",
+    "doc_count": 490,
+    "seven_days_count": 8,
+    "abbreviation": "PRPI"
+}, {
+    "key": "Securities and Exchange Commission (SEC)",
+    "doc_count": 24669,
+    "seven_days_count": 7,
+    "abbreviation": "SEC"
+}, {
+    "key": "Urban Institute",
+    "doc_count": 10478,
+    "seven_days_count": 7,
+    "abbreviation": "Urban"
+}, {
+    "key": "Acton Institute",
+    "doc_count": 10344,
+    "seven_days_count": 7,
+    "abbreviation": "Acton"
+}, {
+    "key": "Institute for Sustainable Development and International Relations",
+    "doc_count": 5301,
+    "seven_days_count": 7,
+    "abbreviation": "ISDIR"
+}, {
+    "key": "Potsdam Institute for Climate Impact Research",
+    "doc_count": 1308,
+    "seven_days_count": 7,
+    "abbreviation": ""
+}, {
+    "key": "Federal Trade Commission (FTC)",
+    "doc_count": 35905,
+    "seven_days_count": 6,
+    "abbreviation": "FTC"
+}, {
+    "key": "Inter-American Development Bank (IADB)",
+    "doc_count": 20686,
+    "seven_days_count": 6,
+    "abbreviation": "IADB"
+}, {
+    "key": "Centre for European Policy Studies (CEPS)",
+    "doc_count": 15759,
+    "seven_days_count": 6,
+    "abbreviation": "CEPS"
+}, {
+    "key": "Frontier Centre for Public Policy (FCPP)",
+    "doc_count": 7807,
+    "seven_days_count": 6,
+    "abbreviation": "FCPP"
+}, {
+    "key": "Economic and Social Research Institute (ESRI)",
+    "doc_count": 6036,
+    "seven_days_count": 6,
+    "abbreviation": "ESRI"
+}, {
+    "key": "Bipartisan Policy Center",
+    "doc_count": 4380,
+    "seven_days_count": 6,
+    "abbreviation": "BPC"
+}, {
+    "key": "C.D. Howe Institute",
+    "doc_count": 3925,
+    "seven_days_count": 6,
+    "abbreviation": "CDHI"
+}, {
+    "key": "French Institute of International Relations（IFRI)",
+    "doc_count": 3484,
+    "seven_days_count": 6,
+    "abbreviation": "IFRI"
+}, {
+    "key": "Economic Research Institute for ASEAN and East Asia (ERIA)",
+    "doc_count": 2870,
+    "seven_days_count": 6,
+    "abbreviation": "ERIA"
+}, {
+    "key": "Centre for Eastern Studies",
+    "doc_count": 2713,
+    "seven_days_count": 6,
+    "abbreviation": "CES"
+}, {
+    "key": "Israel Democracy Institute",
+    "doc_count": 2134,
+    "seven_days_count": 6,
+    "abbreviation": "IDI"
+}, {
+    "key": "International Institute for Strategic Studies (IISS)",
+    "doc_count": 1844,
+    "seven_days_count": 6,
+    "abbreviation": "IISS"
+}, {
+    "key": "Daiwa Institute of Research Group(DIR)",
+    "doc_count": 696,
+    "seven_days_count": 6,
+    "abbreviation": ""
+}, {
+    "key": "Mackinac Center for Public Policy",
+    "doc_count": 24894,
+    "seven_days_count": 5,
+    "abbreviation": "MCFPP"
+}, {
+    "key": "Commodity Futures Trading Commission(CFTC)",
+    "doc_count": 20158,
+    "seven_days_count": 5,
+    "abbreviation": "CFTC"
+}, {
+    "key": "Science Policy Research Unit",
+    "doc_count": 11011,
+    "seven_days_count": 5,
+    "abbreviation": "SPR"
+}, {
+    "key": "Tax Foundation",
+    "doc_count": 10762,
+    "seven_days_count": 5,
+    "abbreviation": "Tax"
+}, {
+    "key": "Fraser Institute",
+    "doc_count": 6574,
+    "seven_days_count": 5,
+    "abbreviation": "Fraser"
+}, {
+    "key": "American Foreign Policy Council (AFPC)",
+    "doc_count": 5041,
+    "seven_days_count": 5,
+    "abbreviation": "AFPC"
+}, {
+    "key": "Center for International Private Enterprise",
+    "doc_count": 3167,
+    "seven_days_count": 5,
+    "abbreviation": "CIPE"
+}, {
+    "key": "Policy Exchange",
+    "doc_count": 1909,
+    "seven_days_count": 5,
+    "abbreviation": "PE"
+}, {
+    "key": "Center for International Development (CID)",
+    "doc_count": 1584,
+    "seven_days_count": 5,
+    "abbreviation": "CID"
+}, {
+    "key": "Austrian Institute of Economic Research (WIFO)",
+    "doc_count": 11422,
+    "seven_days_count": 4,
+    "abbreviation": "WIFO"
+}, {
+    "key": "Barcelona Centre for International Affairs",
+    "doc_count": 9522,
+    "seven_days_count": 4,
+    "abbreviation": "BCIA"
+}, {
+    "key": "International Growth Centre (IGC)",
+    "doc_count": 6195,
+    "seven_days_count": 4,
+    "abbreviation": "IGC"
+}, {
+    "key": "Canadian Centre for Policy Alternatives (CCPA)",
+    "doc_count": 5224,
+    "seven_days_count": 4,
+    "abbreviation": "CCPA"
+}, {
+    "key": "Consumer Financial Protection Bureau (CFPB)",
+    "doc_count": 4726,
+    "seven_days_count": 4,
+    "abbreviation": "CFPB"
+}, {
+    "key": "Jagiellonian Club's Centre of Analysis",
+    "doc_count": 3759,
+    "seven_days_count": 4,
+    "abbreviation": "JCCA"
+}, {
+    "key": "Center for Data Innovation",
+    "doc_count": 2686,
+    "seven_days_count": 4,
+    "abbreviation": "CDI"
+}, {
+    "key": "Friends of Europe",
+    "doc_count": 2023,
+    "seven_days_count": 4,
+    "abbreviation": "FE"
+}, {
+    "key": "Fondation Robert Schuman",
+    "doc_count": 1920,
+    "seven_days_count": 4,
+    "abbreviation": ""
+}, {
+    "key": "Asian Infrastructure Investment Bank (AIIB)",
+    "doc_count": 683,
+    "seven_days_count": 4,
+    "abbreviation": "AIIB"
+}, {
+    "key": "Africa Center for Strategic Studies",
+    "doc_count": 22654,
+    "seven_days_count": 3,
+    "abbreviation": "ACSS"
+}, {
+    "key": "MacArthur Foundation",
+    "doc_count": 15927,
+    "seven_days_count": 3,
+    "abbreviation": "MAF"
+}, {
+    "key": "Federal Reserve Bank of Minneapolis",
+    "doc_count": 12913,
+    "seven_days_count": 3,
+    "abbreviation": "Minneapolis"
+}, {
+    "key": "Gateway House: Indian Council on Global Relations",
+    "doc_count": 6131,
+    "seven_days_count": 3,
+    "abbreviation": "GHICGR"
+}, {
+    "key": "Open Society Foundations (OSF), FKA Open Society Institute",
+    "doc_count": 5862,
+    "seven_days_count": 3,
+    "abbreviation": ""
+}, {
+    "key": "Montreal Economic Institute (MEI)",
+    "doc_count": 5349,
+    "seven_days_count": 3,
+    "abbreviation": "MEI"
+}, {
+    "key": "Research Institute of Economy, Trade and Industry (RIETI)",
+    "doc_count": 5317,
+    "seven_days_count": 3,
+    "abbreviation": "RIETI"
+}, {
+    "key": "Fundacja Forum Obywatelskiego Rozwoju (FOR)",
+    "doc_count": 4690,
+    "seven_days_count": 3,
+    "abbreviation": "FOR"
+}, {
+    "key": "Allegheny Institute for Public Policy",
+    "doc_count": 4581,
+    "seven_days_count": 3,
+    "abbreviation": "AIPP"
+}, {
+    "key": "Kiel Institute for the World Economy (IfW)",
+    "doc_count": 4131,
+    "seven_days_count": 3,
+    "abbreviation": "IfW"
+}, {
+    "key": "Lincoin Instite of Land Policy",
+    "doc_count": 3841,
+    "seven_days_count": 3,
+    "abbreviation": "LCIT"
+}, {
+    "key": "Danish Institute for International Studies (DIIS)",
+    "doc_count": 3401,
+    "seven_days_count": 3,
+    "abbreviation": "DIIS"
+}, {
+    "key": "Financial Crimes Enforcement Network (FinCEN)",
+    "doc_count": 3277,
+    "seven_days_count": 3,
+    "abbreviation": "FinCEN"
+}, {
+    "key": "Washington Center for Equitable Growth （WEGC）",
+    "doc_count": 2770,
+    "seven_days_count": 3,
+    "abbreviation": "WEGC"
+}, {
+    "key": "World Economic Forum",
+    "doc_count": 2228,
+    "seven_days_count": 3,
+    "abbreviation": "WECF"
+}, {
+    "key": "Committee for Economic Development of The Conference Board（CED）",
+    "doc_count": 2198,
+    "seven_days_count": 3,
+    "abbreviation": "CED"
+}, {
+    "key": "Economic Opportunity Institute (EOI)",
+    "doc_count": 2137,
+    "seven_days_count": 3,
+    "abbreviation": "EOI"
+}, {
+    "key": "Foreign Policy Research Institute",
+    "doc_count": 1812,
+    "seven_days_count": 3,
+    "abbreviation": "FPRI"
+}, {
+    "key": "Atlantic Provinces Economic Council",
+    "doc_count": 1683,
+    "seven_days_count": 3,
+    "abbreviation": "APEC"
+}, {
+    "key": "Centre for Cities",
+    "doc_count": 1590,
+    "seven_days_count": 3,
+    "abbreviation": "CFC"
+}, {
+    "key": "New Economics Foundation",
+    "doc_count": 1427,
+    "seven_days_count": 3,
+    "abbreviation": "NEF"
+}, {
+    "key": "Avenir Suisse",
+    "doc_count": 773,
+    "seven_days_count": 3,
+    "abbreviation": "Avenir"
+}, {
+    "key": "Kansas Policy Institute",
+    "doc_count": 766,
+    "seven_days_count": 3,
+    "abbreviation": "KPI"
+}, {
+    "key": "Georgian Foundation for Strategic and International Studies",
+    "doc_count": 585,
+    "seven_days_count": 3,
+    "abbreviation": "GFSIS"
+}, {
+    "key": "Canada 2020",
+    "doc_count": 513,
+    "seven_days_count": 3,
+    "abbreviation": "Canada"
+}, {
+    "key": "Public Policy Forum (PPF)",
+    "doc_count": 481,
+    "seven_days_count": 3,
+    "abbreviation": "PPF"
+}, {
+    "key": "CANZUK International",
+    "doc_count": 447,
+    "seven_days_count": 3,
+    "abbreviation": "CANZUK"
+}, {
+    "key": "National Institute for Strategic Studies",
+    "doc_count": 294,
+    "seven_days_count": 3,
+    "abbreviation": "NISS"
+}, {
+    "key": "Office of the Comptroller of the Currency (OCC)",
+    "doc_count": 51024,
+    "seven_days_count": 2,
+    "abbreviation": "OCC"
+}, {
+    "key": "Institute for Policy Studies (IPS)",
+    "doc_count": 9802,
+    "seven_days_count": 2,
+    "abbreviation": ""
+}, {
+    "key": "Canadian Global Affairs Institute",
+    "doc_count": 7908,
+    "seven_days_count": 2,
+    "abbreviation": "CGAI"
+}, {
+    "key": "Mossavar-Rahmani Center for Business and Government, Harvard University",
+    "doc_count": 5179,
+    "seven_days_count": 2,
+    "abbreviation": "MRCBG"
+}, {
+    "key": "Center for Financial Inclusion",
+    "doc_count": 4530,
+    "seven_days_count": 2,
+    "abbreviation": "CFFCI"
+}, {
+    "key": "Policy Matters Ohio",
+    "doc_count": 4270,
+    "seven_days_count": 2,
+    "abbreviation": "PMO"
+}, {
+    "key": "Heinrich Böll Foundation",
+    "doc_count": 4215,
+    "seven_days_count": 2,
+    "abbreviation": "Heinrich"
+}, {
+    "key": "Migration Policy Institute",
+    "doc_count": 3808,
+    "seven_days_count": 2,
+    "abbreviation": "MPI"
+}, {
+    "key": "W.E. Upjohn Institute for Employment Resaerch",
+    "doc_count": 3769,
+    "seven_days_count": 2,
+    "abbreviation": "UPJOHN"
+}, {
+    "key": "The Cobden Centre",
+    "doc_count": 3252,
+    "seven_days_count": 2,
+    "abbreviation": "TCC"
+}, {
+    "key": "Centre for Internet and Society (CIS)",
+    "doc_count": 3113,
+    "seven_days_count": 2,
+    "abbreviation": "CIS"
+}, {
+    "key": "Third Way",
+    "doc_count": 2192,
+    "seven_days_count": 2,
+    "abbreviation": "Third"
+}, {
+    "key": "Federation of Euro-Asian Stock Exchanges (FEAS)",
+    "doc_count": 2157,
+    "seven_days_count": 2,
+    "abbreviation": "FEAS"
+}, {
+    "key": "Economic Policy Institute",
+    "doc_count": 2021,
+    "seven_days_count": 2,
+    "abbreviation": "ECPI"
+}, {
+    "key": "Centre for Policy Studies (CPS)",
+    "doc_count": 2003,
+    "seven_days_count": 2,
+    "abbreviation": "CPS"
+}, {
+    "key": "The Peter G. Peterson Foundation",
+    "doc_count": 1716,
+    "seven_days_count": 2,
+    "abbreviation": "PGPF"
+}, {
+    "key": "NHH Norwegian School of Economics",
+    "doc_count": 1656,
+    "seven_days_count": 2,
+    "abbreviation": "NHHNSE"
+}, {
+    "key": "Financial Stability Board",
+    "doc_count": 1457,
+    "seven_days_count": 2,
+    "abbreviation": "FSB"
+}, {
+    "key": "EGMONT – The Royal Institute for International Relations",
+    "doc_count": 1294,
+    "seven_days_count": 2,
+    "abbreviation": "EGMONT"
+}, {
+    "key": "Economic Innovation Group",
+    "doc_count": 1230,
+    "seven_days_count": 2,
+    "abbreviation": "EIG"
+}, {
+    "key": "Financial Action Task Force (FATF)",
+    "doc_count": 1035,
+    "seven_days_count": 2,
+    "abbreviation": "FATF"
+}, {
+    "key": "National Council of Applied Economic Research (NCAER)",
+    "doc_count": 883,
+    "seven_days_count": 2,
+    "abbreviation": "NCAER"
+}, {
+    "key": "Council of Europe Development Bank (CEB)",
+    "doc_count": 869,
+    "seven_days_count": 2,
+    "abbreviation": "CEB"
+}, {
+    "key": "Fundación Alternativas",
+    "doc_count": 791,
+    "seven_days_count": 2,
+    "abbreviation": "FA"
+}, {
+    "key": "Delhi Policy Group (DPG)",
+    "doc_count": 766,
+    "seven_days_count": 2,
+    "abbreviation": "DPG"
+}, {
+    "key": "African Economic Research Consortium (AERC)",
+    "doc_count": 732,
+    "seven_days_count": 2,
+    "abbreviation": "AERC"
+}, {
+    "key": "Rockefeller Institute of Government",
+    "doc_count": 586,
+    "seven_days_count": 2,
+    "abbreviation": "RIG"
+}, {
+    "key": "EuroMeSCo",
+    "doc_count": 519,
+    "seven_days_count": 2,
+    "abbreviation": "EuroMeSCo"
+}, {
+    "key": "International Finance Corporation (IFC)",
+    "doc_count": 490,
+    "seven_days_count": 2,
+    "abbreviation": "IFC"
+}, {
+    "key": "WISE Europa",
+    "doc_count": 390,
+    "seven_days_count": 2,
+    "abbreviation": "WISE"
+}, {
+    "key": "Future Italy",
+    "doc_count": 172,
+    "seven_days_count": 2,
+    "abbreviation": "Future"
+}, {
+    "key": "Chicago Community Trust",
+    "doc_count": 166,
+    "seven_days_count": 2,
+    "abbreviation": "CCT"
+}, {
+    "key": "Federal Reserve Bank of Atlanta",
+    "doc_count": 14473,
+    "seven_days_count": 1,
+    "abbreviation": "Atlanta"
+}, {
+    "key": "everycrsreport.com",
+    "doc_count": 12408,
+    "seven_days_count": 1,
+    "abbreviation": ""
+}, {
+    "key": "Federal Reserve Bank of Cleveland",
+    "doc_count": 12203,
+    "seven_days_count": 1,
+    "abbreviation": "Cleveland"
+}, {
+    "key": "Korea Development Institute (KDI)",
+    "doc_count": 11193,
+    "seven_days_count": 1,
+    "abbreviation": "KDI"
+}, {
+    "key": "Federal Reserve Bank of Boston",
+    "doc_count": 10473,
+    "seven_days_count": 1,
+    "abbreviation": "Boston"
+}, {
+    "key": "Earth institute",
+    "doc_count": 8331,
+    "seven_days_count": 1,
+    "abbreviation": ""
+}, {
+    "key": "German Development Institute (DIE)",
+    "doc_count": 8128,
+    "seven_days_count": 1,
+    "abbreviation": "DIE"
+}, {
+    "key": "Milken Institute",
+    "doc_count": 7264,
+    "seven_days_count": 1,
+    "abbreviation": "Milken"
+}, {
+    "key": "Fedesarrollo",
+    "doc_count": 6769,
+    "seven_days_count": 1,
+    "abbreviation": "Fedesarrollo"
+}, {
+    "key": "Concord Coalition",
+    "doc_count": 6447,
+    "seven_days_count": 1,
+    "abbreviation": "Concord"
+}, {
+    "key": "World Trade Organization (WTO)",
+    "doc_count": 6384,
+    "seven_days_count": 1,
+    "abbreviation": "WTO"
+}, {
+    "key": "Finnish Institute of International Affairs (FIIA)",
+    "doc_count": 5450,
+    "seven_days_count": 1,
+    "abbreviation": "FIIA"
+}, {
+    "key": "Prosperity Now (Corporation for Enterprise Development (CFED))",
+    "doc_count": 4164,
+    "seven_days_count": 1,
+    "abbreviation": "CFED"
+}, {
+    "key": "Centre d'Etudes Prospectives et d'Informations Internationales (CEPII)",
+    "doc_count": 3882,
+    "seven_days_count": 1,
+    "abbreviation": "CEPII"
+}, {
+    "key": "Asian Development Bank Institute (ADBI)",
+    "doc_count": 3509,
+    "seven_days_count": 1,
+    "abbreviation": "ADBI"
+}, {
+    "key": "James Madison Institute",
+    "doc_count": 3473,
+    "seven_days_count": 1,
+    "abbreviation": "JMI"
+}, {
+    "key": "United States Studies Centre",
+    "doc_count": 2606,
+    "seven_days_count": 1,
+    "abbreviation": "USSC"
+}, {
+    "key": "Economic Policy Research Foundation of Turkey",
+    "doc_count": 2400,
+    "seven_days_count": 1,
+    "abbreviation": "EPRFT"
+}, {
+    "key": "Federation for American Immigration Reform (FAIR)",
+    "doc_count": 2278,
+    "seven_days_count": 1,
+    "abbreviation": ""
+}, {
+    "key": "United Nations Foundation",
+    "doc_count": 2203,
+    "seven_days_count": 1,
+    "abbreviation": "UNF"
+}, {
+    "key": "Clingendael, Netherlands Institute of International Relations",
+    "doc_count": 2117,
+    "seven_days_count": 1,
+    "abbreviation": "CNIIR"
+}, {
+    "key": "Levy Economics Institute",
+    "doc_count": 1818,
+    "seven_days_count": 1,
+    "abbreviation": "Levy"
+}, {
+    "key": "Research Institute of the Finnish Economy (ETLA)",
+    "doc_count": 1813,
+    "seven_days_count": 1,
+    "abbreviation": "ETLA"
+}, {
+    "key": "Canada West Foundation",
+    "doc_count": 1758,
+    "seven_days_count": 1,
+    "abbreviation": "CWF"
+}, {
+    "key": "Ford Foundation",
+    "doc_count": 1589,
+    "seven_days_count": 1,
+    "abbreviation": "Ford"
+}, {
+    "key": "European Free Trade Association (EFTA)",
+    "doc_count": 1370,
+    "seven_days_count": 1,
+    "abbreviation": "EFTA"
+}, {
+    "key": "Foraus",
+    "doc_count": 1328,
+    "seven_days_count": 1,
+    "abbreviation": "Foraus"
+}, {
+    "key": "Politeia",
+    "doc_count": 1326,
+    "seven_days_count": 1,
+    "abbreviation": "Politeia"
+}, {
+    "key": "Organization of the Black Sea Economic Cooperation",
+    "doc_count": 1065,
+    "seven_days_count": 1,
+    "abbreviation": "OTBSEC"
+}, {
+    "key": "Reform",
+    "doc_count": 1024,
+    "seven_days_count": 1,
+    "abbreviation": "Reform"
+}, {
+    "key": "Black Sea Trade and Development Bank (BSTDB)",
+    "doc_count": 917,
+    "seven_days_count": 1,
+    "abbreviation": "BSTDB"
+}, {
+    "key": "Broadbent Institute",
+    "doc_count": 894,
+    "seven_days_count": 1,
+    "abbreviation": "BI"
+}, {
+    "key": "European Centre for International Political Economy (ECIPE)",
+    "doc_count": 860,
+    "seven_days_count": 1,
+    "abbreviation": "ECIPE"
+}, {
+    "key": "New Development Bank (NDB)",
+    "doc_count": 831,
+    "seven_days_count": 1,
+    "abbreviation": "NDB"
+}, {
+    "key": "Policy Connect",
+    "doc_count": 829,
+    "seven_days_count": 1,
+    "abbreviation": "Policy"
+}, {
+    "key": "Oregon Center for Public Policy",
+    "doc_count": 757,
+    "seven_days_count": 1,
+    "abbreviation": "OCPP"
+}, {
+    "key": "Centre for Local Economic Strategies",
+    "doc_count": 734,
+    "seven_days_count": 1,
+    "abbreviation": "CLES"
+}, {
+    "key": "Center for an Urban Future",
+    "doc_count": 703,
+    "seven_days_count": 1,
+    "abbreviation": "NYCF"
+}, {
+    "key": "Centre for London",
+    "doc_count": 703,
+    "seven_days_count": 1,
+    "abbreviation": "CFL"
+}, {
+    "key": "Institut Choiseul for International Politics and Geoeconomics",
+    "doc_count": 677,
+    "seven_days_count": 1,
+    "abbreviation": "ICIPG"
+}, {
+    "key": "New Zealand Institute of International Affairs (NZIIA)",
+    "doc_count": 504,
+    "seven_days_count": 1,
+    "abbreviation": "NZIIA"
+}, {
+    "key": "Employment Policies Institute",
+    "doc_count": 496,
+    "seven_days_count": 1,
+    "abbreviation": "EPPI"
+}, {
+    "key": "The Casimir Pulaski Foundation",
+    "doc_count": 399,
+    "seven_days_count": 1,
+    "abbreviation": "TCPF"
+}, {
+    "key": "Centre for Economics and Foreign Policy Studies (EDAM)",
+    "doc_count": 367,
+    "seven_days_count": 1,
+    "abbreviation": "EDAM"
+}, {
+    "key": "Randolph Foundation",
+    "doc_count": 278,
+    "seven_days_count": 1,
+    "abbreviation": "RF"
+}, {
+    "key": "Land Policy Institute",
+    "doc_count": 266,
+    "seven_days_count": 1,
+    "abbreviation": "LPI"
+}, {
+    "key": "Institute of Economy of the Russian Academy of Sciences (EDIRC)",
+    "doc_count": 798543,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Organisation for Economic Co-operation and Development (OECD)",
+    "doc_count": 266699,
+    "seven_days_count": 0,
+    "abbreviation": "OECD"
+}, {
+    "key": "General Accountability Office (GAO)",
+    "doc_count": 254854,
+    "seven_days_count": 0,
+    "abbreviation": "GAO"
+}, {
+    "key": "nasonline",
+    "doc_count": 148119,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "loc.gov",
+    "doc_count": 97865,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Edmund Burke Foundation",
+    "doc_count": 90680,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Asian Development Bank (ADB)",
+    "doc_count": 73619,
+    "seven_days_count": 0,
+    "abbreviation": "ADB"
+}, {
+    "key": "Atlantic Council",
+    "doc_count": 64137,
+    "seven_days_count": 0,
+    "abbreviation": "Atlantic"
+}, {
+    "key": "National Bureau of Economic Research (NBER)",
+    "doc_count": 55305,
+    "seven_days_count": 0,
+    "abbreviation": "NBER"
+}, {
+    "key": "Amnesty International (AI)",
+    "doc_count": 43562,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Cato Institute",
+    "doc_count": 36052,
+    "seven_days_count": 0,
+    "abbreviation": "Cato"
+}, {
+    "key": "Heartland Institute",
+    "doc_count": 27619,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Foundation for Economic Education (FEE)",
+    "doc_count": 27014,
+    "seven_days_count": 0,
+    "abbreviation": "FEE"
+}, {
+    "key": "Wilson Center, FKA Woodrow Wilson International Center for Scholars",
+    "doc_count": 25225,
+    "seven_days_count": 0,
+    "abbreviation": "Wilson"
+}, {
+    "key": "The Heritage Foundation",
+    "doc_count": 24391,
+    "seven_days_count": 0,
+    "abbreviation": "Heritage"
+}, {
+    "key": "The Heartland Institute",
+    "doc_count": 22371,
+    "seven_days_count": 0,
+    "abbreviation": "Heartland"
+}, {
+    "key": "Independent Institute",
+    "doc_count": 21988,
+    "seven_days_count": 0,
+    "abbreviation": "Independent"
+}, {
+    "key": "Federal Reserve Bank of New York",
+    "doc_count": 21634,
+    "seven_days_count": 0,
+    "abbreviation": "Newyork"
+}, {
+    "key": "American Enterprise Institute for Public Policy Research (AEI)",
+    "doc_count": 20811,
+    "seven_days_count": 0,
+    "abbreviation": "AEI"
+}, {
+    "key": "Financial Conduct Authority",
+    "doc_count": 17602,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Conference Board of Canada",
+    "doc_count": 17334,
+    "seven_days_count": 0,
+    "abbreviation": "CBC"
+}, {
+    "key": "Small Business Administration",
+    "doc_count": 16541,
+    "seven_days_count": 0,
+    "abbreviation": "SBA"
+}, {
+    "key": "Federal Reserve Bank of Dallas",
+    "doc_count": 15219,
+    "seven_days_count": 0,
+    "abbreviation": "Dallas"
+}, {
+    "key": "Center for Strategic and International Studies (CSIS)",
+    "doc_count": 14668,
+    "seven_days_count": 0,
+    "abbreviation": "CSIS"
+}, {
+    "key": "Observer Research Foundation (ORF)",
+    "doc_count": 14186,
+    "seven_days_count": 0,
+    "abbreviation": "ORF"
+}, {
+    "key": "Public Citizen",
+    "doc_count": 14177,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Carnegie Endowment for International Peace (CEIP)",
+    "doc_count": 13837,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "German Institute for Economic Research (DIW)",
+    "doc_count": 13630,
+    "seven_days_count": 0,
+    "abbreviation": "DIW"
+}, {
+    "key": "Center for European Economic Research (ZEW)",
+    "doc_count": 13433,
+    "seven_days_count": 0,
+    "abbreviation": "ZEW"
+}, {
+    "key": "Reason Foundation",
+    "doc_count": 13348,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Deutsches Institut für Wirtschaftsforschung (DIW)",
+    "doc_count": 12739,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "AARP Public Policy Institute",
+    "doc_count": 12135,
+    "seven_days_count": 0,
+    "abbreviation": "AARP"
+}, {
+    "key": "McKinsey Global Institute (MGI)",
+    "doc_count": 12124,
+    "seven_days_count": 0,
+    "abbreviation": "MGI"
+}, {
+    "key": "Center for Economic and Policy Research (CEPR)",
+    "doc_count": 11761,
+    "seven_days_count": 0,
+    "abbreviation": "CEPR"
+}, {
+    "key": "Hoover Institution",
+    "doc_count": 11605,
+    "seven_days_count": 0,
+    "abbreviation": "Hoover"
+}, {
+    "key": "Istituto Bruno Leoni (IBL)",
+    "doc_count": 11163,
+    "seven_days_count": 0,
+    "abbreviation": "IBL"
+}, {
+    "key": "European Council on Foreign Relations (ECFR)",
+    "doc_count": 11037,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center on Budget and Policy Priorities (CBPP)",
+    "doc_count": 10977,
+    "seven_days_count": 0,
+    "abbreviation": "CBPP"
+}, {
+    "key": "Eudoxa",
+    "doc_count": 10874,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The National Academies Press",
+    "doc_count": 10702,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Foundation for Defense of Democracies",
+    "doc_count": 10362,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "National Center for Public Policy Research (NCPPR)",
+    "doc_count": 10132,
+    "seven_days_count": 0,
+    "abbreviation": "NCPPR"
+}, {
+    "key": "Scottish Global Forum",
+    "doc_count": 10026,
+    "seven_days_count": 0,
+    "abbreviation": "SGF"
+}, {
+    "key": "Texas Public Policy Foundation",
+    "doc_count": 9868,
+    "seven_days_count": 0,
+    "abbreviation": "TPPF"
+}, {
+    "key": "Royal United Services Institute (RUSI)",
+    "doc_count": 9734,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Federal Reserve Bank of Chicago",
+    "doc_count": 9650,
+    "seven_days_count": 0,
+    "abbreviation": "Chicago"
+}, {
+    "key": "Sunlight Foundation",
+    "doc_count": 9514,
+    "seven_days_count": 0,
+    "abbreviation": "Sunlight"
+}, {
+    "key": "Mercatus Center",
+    "doc_count": 9395,
+    "seven_days_count": 0,
+    "abbreviation": "MERCA"
+}, {
+    "key": "Center for Turkey's Economic and Strategic Studies",
+    "doc_count": 9360,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Federal Reserve Bank of Philadelphia",
+    "doc_count": 9288,
+    "seven_days_count": 0,
+    "abbreviation": "Philadelphia"
+}, {
+    "key": "Council of Economic Advisers",
+    "doc_count": 9190,
+    "seven_days_count": 0,
+    "abbreviation": "CEA"
+}, {
+    "key": "Federal Deposit Insurance Corporation (FDIC)",
+    "doc_count": 8996,
+    "seven_days_count": 0,
+    "abbreviation": "FDIC"
+}, {
+    "key": "Fundacao Getulio Vargas (FGV)",
+    "doc_count": 8948,
+    "seven_days_count": 0,
+    "abbreviation": "FGV"
+}, {
+    "key": "International Institute for Environment and Development",
+    "doc_count": 8755,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "KPMG",
+    "doc_count": 8616,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Korea Economic Research Institute",
+    "doc_count": 8254,
+    "seven_days_count": 0,
+    "abbreviation": "KERI"
+}, {
+    "key": "Centro Brasileiro de Relacoes Internacionais (CEBRI)",
+    "doc_count": 8089,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Asian Development Bank",
+    "doc_count": 7855,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Fiscal Studies (IFS)",
+    "doc_count": 7799,
+    "seven_days_count": 0,
+    "abbreviation": "IFS"
+}, {
+    "key": "Constitution Unit",
+    "doc_count": 7591,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre d'Etudes et de Recherches Internationales (CERI)",
+    "doc_count": 7411,
+    "seven_days_count": 0,
+    "abbreviation": "CERI"
+}, {
+    "key": "Center for Immigration Studies",
+    "doc_count": 7362,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "European University Institute",
+    "doc_count": 7081,
+    "seven_days_count": 0,
+    "abbreviation": "EUI"
+}, {
+    "key": "Association for Democratic Reforms",
+    "doc_count": 7050,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Pew Research Center",
+    "doc_count": 6962,
+    "seven_days_count": 0,
+    "abbreviation": "PRC"
+}, {
+    "key": "Gatestone Institute",
+    "doc_count": 6855,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Boston Consulting Group (BCG)",
+    "doc_count": 6747,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Council on Foreign Relations (CFR)",
+    "doc_count": 6532,
+    "seven_days_count": 0,
+    "abbreviation": "CFR"
+}, {
+    "key": "The Australia Institute",
+    "doc_count": 6517,
+    "seven_days_count": 0,
+    "abbreviation": "Autstralia"
+}, {
+    "key": "Accenture Institue for High Performance",
+    "doc_count": 6513,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of Southeast Asian Studies (ISEAS)",
+    "doc_count": 6441,
+    "seven_days_count": 0,
+    "abbreviation": "ISEAS"
+}, {
+    "key": "Institute for Religion and Democracy (IRD)",
+    "doc_count": 6430,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Information Technology and Innovative Foundation",
+    "doc_count": 6379,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "New Democrat Network",
+    "doc_count": 6356,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for European Reform (CER)",
+    "doc_count": 6312,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Konrad Adenauer Foundation",
+    "doc_count": 6225,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "German Marshall Fund",
+    "doc_count": 6200,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for International Governance Innovation (CIGI)",
+    "doc_count": 6123,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Economic Policy Institute (EPI)",
+    "doc_count": 5967,
+    "seven_days_count": 0,
+    "abbreviation": "EPI"
+}, {
+    "key": "Institute for Public Policy Research",
+    "doc_count": 5919,
+    "seven_days_count": 0,
+    "abbreviation": "IPPR"
+}, {
+    "key": "American Civil Rights Union",
+    "doc_count": 5818,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Demos",
+    "doc_count": 5706,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of Applied Economic Research",
+    "doc_count": 5702,
+    "seven_days_count": 0,
+    "abbreviation": "IAER"
+}, {
+    "key": "Committee for a Responsible Federal Budget (CRFB)",
+    "doc_count": 5661,
+    "seven_days_count": 0,
+    "abbreviation": "CRFB"
+}, {
+    "key": "The Institute for Research on Public Policy (IRPP)",
+    "doc_count": 5564,
+    "seven_days_count": 0,
+    "abbreviation": "IRPP"
+}, {
+    "key": "Valdai Discussion Club",
+    "doc_count": 5561,
+    "seven_days_count": 0,
+    "abbreviation": "VDC"
+}, {
+    "key": "Center for Public Integrity (CPI)",
+    "doc_count": 5453,
+    "seven_days_count": 0,
+    "abbreviation": "CPI"
+}, {
+    "key": "Peace Research Institute Frankfurt",
+    "doc_count": 5193,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for Media and Democracy (CMD)",
+    "doc_count": 5050,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "LIRNEasia",
+    "doc_count": 5046,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "S. Rajaratnam School of International Studies",
+    "doc_count": 4978,
+    "seven_days_count": 0,
+    "abbreviation": "SRSIS"
+}, {
+    "key": "National Institute of Economic and Social Research",
+    "doc_count": 4824,
+    "seven_days_count": 0,
+    "abbreviation": "N IESR"
+}, {
+    "key": "National Credit Union Administration (NCUA)",
+    "doc_count": 4788,
+    "seven_days_count": 0,
+    "abbreviation": "NCUA"
+}, {
+    "key": "Social Policy and Development Centre",
+    "doc_count": 4778,
+    "seven_days_count": 0,
+    "abbreviation": "SPDC"
+}, {
+    "key": "International Center for Climate Governance (ICCG)",
+    "doc_count": 4702,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Resources for the Future",
+    "doc_count": 4669,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Pacific Forum International",
+    "doc_count": 4592,
+    "seven_days_count": 0,
+    "abbreviation": "PFI"
+}, {
+    "key": "Center for Freedom and Prosperity (CFP)",
+    "doc_count": 4561,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "CUTS International",
+    "doc_count": 4508,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Macdonald–Laurier Institute (MLI)",
+    "doc_count": 4494,
+    "seven_days_count": 0,
+    "abbreviation": "MLI"
+}, {
+    "key": "Lexington Institute",
+    "doc_count": 4319,
+    "seven_days_count": 0,
+    "abbreviation": "Lexington"
+}, {
+    "key": "Institute of International Affairs",
+    "doc_count": 4064,
+    "seven_days_count": 0,
+    "abbreviation": "IIA"
+}, {
+    "key": "Primakov Institute of World Economy and International Relations (IMEMO)",
+    "doc_count": 4046,
+    "seven_days_count": 0,
+    "abbreviation": "IMEMO"
+}, {
+    "key": "International Institute for Sustainable Development (IISD)",
+    "doc_count": 4001,
+    "seven_days_count": 0,
+    "abbreviation": "IISD"
+}, {
+    "key": "Federal Reserve Bank of St. Louis",
+    "doc_count": 3996,
+    "seven_days_count": 0,
+    "abbreviation": "Louis"
+}, {
+    "key": "Chicago Council on Global Affairs",
+    "doc_count": 3925,
+    "seven_days_count": 0,
+    "abbreviation": "CCOGA"
+}, {
+    "key": "European Stability Initiative",
+    "doc_count": 3911,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Public Policy Institute of California",
+    "doc_count": 3850,
+    "seven_days_count": 0,
+    "abbreviation": "PPIC"
+}, {
+    "key": "Institute for Science and International Security",
+    "doc_count": 3741,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institut Molinari",
+    "doc_count": 3614,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Williams Mullen",
+    "doc_count": 3600,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Ecologic Institute",
+    "doc_count": 3570,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Atlantic Institute for Market Studies (AIMS)",
+    "doc_count": 3486,
+    "seven_days_count": 0,
+    "abbreviation": "AIMS"
+}, {
+    "key": "Federal Reserve Bank of Kansas City",
+    "doc_count": 3474,
+    "seven_days_count": 0,
+    "abbreviation": "Kansas"
+}, {
+    "key": "Institut de Recherche Strategique de l'Ecole Militaire",
+    "doc_count": 3442,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Pakistan Institute of Development Economics",
+    "doc_count": 3435,
+    "seven_days_count": 0,
+    "abbreviation": "PIDE"
+}, {
+    "key": "Centre for Policy Dialogue (CPD)",
+    "doc_count": 3432,
+    "seven_days_count": 0,
+    "abbreviation": "CPD"
+}, {
+    "key": "",
+    "doc_count": 3430,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Independence Institute (II)",
+    "doc_count": 3420,
+    "seven_days_count": 0,
+    "abbreviation": "II"
+}, {
+    "key": "Center for Naval Analysis",
+    "doc_count": 3403,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Cascade Policy Institute",
+    "doc_count": 3347,
+    "seven_days_count": 0,
+    "abbreviation": "Cascade"
+}, {
+    "key": "European Centre for Development Policy Management (ECDPM)",
+    "doc_count": 3327,
+    "seven_days_count": 0,
+    "abbreviation": "ECDPM"
+}, {
+    "key": "Joseph Rowntree Foundation",
+    "doc_count": 3179,
+    "seven_days_count": 0,
+    "abbreviation": "JRF"
+}, {
+    "key": "Institute of Policy Studies of Sri Lanka (IPS)",
+    "doc_count": 3088,
+    "seven_days_count": 0,
+    "abbreviation": "IPS"
+}, {
+    "key": "Pembina Institute",
+    "doc_count": 3076,
+    "seven_days_count": 0,
+    "abbreviation": "Pembina"
+}, {
+    "key": "Transparency International (TI)",
+    "doc_count": 3030,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of World Economy and International Relations (IMEMO RAS)",
+    "doc_count": 2976,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Fundacao Armando Alvares Penteado (FAAP)",
+    "doc_count": 2933,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Council on Competitiveness",
+    "doc_count": 2896,
+    "seven_days_count": 0,
+    "abbreviation": "COC"
+}, {
+    "key": "Institute of Energy Economics, Japan (IEEJ)",
+    "doc_count": 2886,
+    "seven_days_count": 0,
+    "abbreviation": "IEEJ"
+}, {
+    "key": "Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO)",
+    "doc_count": 2885,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Pioneer Institute",
+    "doc_count": 2880,
+    "seven_days_count": 0,
+    "abbreviation": "Pioneer"
+}, {
+    "key": "Russell Sage Foundation",
+    "doc_count": 2875,
+    "seven_days_count": 0,
+    "abbreviation": "RSF"
+}, {
+    "key": "Federal Reserve Bank of San Francisco",
+    "doc_count": 2834,
+    "seven_days_count": 0,
+    "abbreviation": "Sanfrancisco"
+}, {
+    "key": "Real Instituto Elcano",
+    "doc_count": 2817,
+    "seven_days_count": 0,
+    "abbreviation": "REIE"
+}, {
+    "key": "Analysis Group",
+    "doc_count": 2816,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Lowy Institute for International Policy",
+    "doc_count": 2807,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Women's Policy Research (IWPR)",
+    "doc_count": 2785,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "German Institute for International and Security Affairs (SWP)",
+    "doc_count": 2771,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "International Strategic Research Organization",
+    "doc_count": 2733,
+    "seven_days_count": 0,
+    "abbreviation": "ISRO"
+}, {
+    "key": "Facultad Latinoamericana de Ciencias Sociales (FLACSO)",
+    "doc_count": 2720,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Multilateral Investment Guarantee Agency (MIGA)",
+    "doc_count": 2692,
+    "seven_days_count": 0,
+    "abbreviation": "MIGA"
+}, {
+    "key": "Niskanen Center",
+    "doc_count": 2668,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Z/Yen",
+    "doc_count": 2609,
+    "seven_days_count": 0,
+    "abbreviation": "Yen"
+}, {
+    "key": "IBM Institute ofr Business Value",
+    "doc_count": 2519,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Korea Institute for International Economic Policy (KIEP)",
+    "doc_count": 2514,
+    "seven_days_count": 0,
+    "abbreviation": "KIEP"
+}, {
+    "key": "SRI International",
+    "doc_count": 2514,
+    "seven_days_count": 0,
+    "abbreviation": "SRI"
+}, {
+    "key": "Grattan Institute",
+    "doc_count": 2491,
+    "seven_days_count": 0,
+    "abbreviation": "Grattan"
+}, {
+    "key": "Economic and Social Research Institute",
+    "doc_count": 2468,
+    "seven_days_count": 0,
+    "abbreviation": "EASRI"
+}, {
+    "key": "West African Development Bank (WADB)",
+    "doc_count": 2453,
+    "seven_days_count": 0,
+    "abbreviation": "WADB"
+}, {
+    "key": "Progressive Policy Institute",
+    "doc_count": 2433,
+    "seven_days_count": 0,
+    "abbreviation": "PPI"
+}, {
+    "key": "International Republican Institute",
+    "doc_count": 2428,
+    "seven_days_count": 0,
+    "abbreviation": "IRI"
+}, {
+    "key": "Center for Economic and Financial Research (CEFIR)",
+    "doc_count": 2394,
+    "seven_days_count": 0,
+    "abbreviation": "CEFIR"
+}, {
+    "key": "South African Institute of International Affairs",
+    "doc_count": 2390,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Government",
+    "doc_count": 2360,
+    "seven_days_count": 0,
+    "abbreviation": "IG"
+}, {
+    "key": "Center for Strategic and Budgetary Assessments (CSBA)",
+    "doc_count": 2354,
+    "seven_days_count": 0,
+    "abbreviation": "CSBA"
+}, {
+    "key": "Jamestown Foundation",
+    "doc_count": 2346,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Natural Resource Governance Institute",
+    "doc_count": 2293,
+    "seven_days_count": 0,
+    "abbreviation": "RESGOV"
+}, {
+    "key": "Centro de Estudios Publicos (CEP)",
+    "doc_count": 2232,
+    "seven_days_count": 0,
+    "abbreviation": "CEP"
+}, {
+    "key": "Centro Studi Internazionali (Ce.S.I.)",
+    "doc_count": 2228,
+    "seven_days_count": 0,
+    "abbreviation": "CeSI"
+}, {
+    "key": "German Marshall Fund of the United States",
+    "doc_count": 2225,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Democracy and Economic Affairs",
+    "doc_count": 2223,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "India Council for Research on International Economic Relations(ICRIER)",
+    "doc_count": 2210,
+    "seven_days_count": 0,
+    "abbreviation": "ICRIER"
+}, {
+    "key": "Institute of Strategic Studies Islamabad",
+    "doc_count": 2130,
+    "seven_days_count": 0,
+    "abbreviation": "ISSI"
+}, {
+    "key": "Netherlands Bureau for Economic Policy Analysis (CPB)",
+    "doc_count": 2095,
+    "seven_days_count": 0,
+    "abbreviation": "CPB"
+}, {
+    "key": "Strategic Foresight Group",
+    "doc_count": 2091,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Islamic Development Bank (IDB)",
+    "doc_count": 2014,
+    "seven_days_count": 0,
+    "abbreviation": "IDB"
+}, {
+    "key": "Gaidar Institute for Economic Policy (IEP)",
+    "doc_count": 1974,
+    "seven_days_count": 0,
+    "abbreviation": "GIEP"
+}, {
+    "key": "Atlantic Community",
+    "doc_count": 1969,
+    "seven_days_count": 0,
+    "abbreviation": "AC"
+}, {
+    "key": "East Asian Institute (EAI)",
+    "doc_count": 1956,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "EastWest Institute",
+    "doc_count": 1949,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Middle East Forum",
+    "doc_count": 1941,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Fondation pour l'Innovation Politique (Fondapol)",
+    "doc_count": 1933,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for National Security Studies (INSS)",
+    "doc_count": 1919,
+    "seven_days_count": 0,
+    "abbreviation": "INSS"
+}, {
+    "key": "Hudson Institute",
+    "doc_count": 1880,
+    "seven_days_count": 0,
+    "abbreviation": "Hudson"
+}, {
+    "key": "Chatham House",
+    "doc_count": 1857,
+    "seven_days_count": 0,
+    "abbreviation": "Chatham"
+}, {
+    "key": "J Street",
+    "doc_count": 1854,
+    "seven_days_count": 0,
+    "abbreviation": "J Street"
+}, {
+    "key": "Institute of Policy Studies",
+    "doc_count": 1845,
+    "seven_days_count": 0,
+    "abbreviation": "IOPS"
+}, {
+    "key": "Social Affairs Unit",
+    "doc_count": 1841,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Samsung Economic Research Institute (SERI)",
+    "doc_count": 1837,
+    "seven_days_count": 0,
+    "abbreviation": "SERI"
+}, {
+    "key": "Goldwater Institute",
+    "doc_count": 1833,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Indian Council of World Affairs (ICWA)",
+    "doc_count": 1815,
+    "seven_days_count": 0,
+    "abbreviation": "ICWA"
+}, {
+    "key": "Institute for Security Studies",
+    "doc_count": 1805,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Open Europe",
+    "doc_count": 1783,
+    "seven_days_count": 0,
+    "abbreviation": "OEU"
+}, {
+    "key": "Canadian Tax Foundation",
+    "doc_count": 1774,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Fundacion para el Analisis y los Estudios Sociales (FAES)",
+    "doc_count": 1757,
+    "seven_days_count": 0,
+    "abbreviation": "FAES"
+}, {
+    "key": "Atlas Network",
+    "doc_count": 1736,
+    "seven_days_count": 0,
+    "abbreviation": "ATLAS"
+}, {
+    "key": "Philadelphia Society",
+    "doc_count": 1721,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Stockholm International Peace Research Institute",
+    "doc_count": 1703,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "OPEC Fund for International Development (OFID)",
+    "doc_count": 1681,
+    "seven_days_count": 0,
+    "abbreviation": "OFID"
+}, {
+    "key": "Maine Center for Economic Policy",
+    "doc_count": 1671,
+    "seven_days_count": 0,
+    "abbreviation": "KDKG"
+}, {
+    "key": "Georgia Public Policy Foundation",
+    "doc_count": 1664,
+    "seven_days_count": 0,
+    "abbreviation": "GPPF"
+}, {
+    "key": "Fondazione Eni Enrico Mattei (FEEM)",
+    "doc_count": 1633,
+    "seven_days_count": 0,
+    "abbreviation": "FEEM"
+}, {
+    "key": "Institute for Advanced Sustainability Studies",
+    "doc_count": 1621,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Think Tank for Action on Social Change (TASC)",
+    "doc_count": 1610,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of World Economics and Politics (IWEP)",
+    "doc_count": 1594,
+    "seven_days_count": 0,
+    "abbreviation": "IWEP"
+}, {
+    "key": "International Institute for Counter-Terrorism (ICT)",
+    "doc_count": 1580,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Australian Strategic Policy Institute (ASPI)",
+    "doc_count": 1569,
+    "seven_days_count": 0,
+    "abbreviation": "ASPI"
+}, {
+    "key": "School of Public Policy and Governance (SPPG)",
+    "doc_count": 1550,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Development Initiatives",
+    "doc_count": 1535,
+    "seven_days_count": 0,
+    "abbreviation": "DEVI"
+}, {
+    "key": "Pacific Council on International Policy",
+    "doc_count": 1525,
+    "seven_days_count": 0,
+    "abbreviation": "PCIP"
+}, {
+    "key": "Sejong Institute",
+    "doc_count": 1517,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Australian Institute of International Affairs (AIIA)",
+    "doc_count": 1513,
+    "seven_days_count": 0,
+    "abbreviation": "AIIA"
+}, {
+    "key": "Institute for New Economic Thinking (INET)",
+    "doc_count": 1472,
+    "seven_days_count": 0,
+    "abbreviation": "INET"
+}, {
+    "key": "The Boston Foundation",
+    "doc_count": 1467,
+    "seven_days_count": 0,
+    "abbreviation": "TBF"
+}, {
+    "key": "Localis",
+    "doc_count": 1462,
+    "seven_days_count": 0,
+    "abbreviation": "Localis"
+}, {
+    "key": "NORC at the University of Chicago",
+    "doc_count": 1460,
+    "seven_days_count": 0,
+    "abbreviation": "NORC"
+}, {
+    "key": "Federal Housing Finance Agency",
+    "doc_count": 1453,
+    "seven_days_count": 0,
+    "abbreviation": "Housing"
+}, {
+    "key": "Eurasian Development Bank (EDB)",
+    "doc_count": 1426,
+    "seven_days_count": 0,
+    "abbreviation": "EDB"
+}, {
+    "key": "Begin–Sadat Center for Strategic Studies",
+    "doc_count": 1397,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Jerusalem Center for Public Affairs",
+    "doc_count": 1378,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "African Centre for Development and Strategic Studies",
+    "doc_count": 1373,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "NUS-East Asian Institute (EAI)",
+    "doc_count": 1373,
+    "seven_days_count": 0,
+    "abbreviation": "NUSE"
+}, {
+    "key": "A.T. Kearney Global Business Policy Council (GBPC)",
+    "doc_count": 1363,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "African Centre for the Constructive Resolution of Disputes (ACCORD)",
+    "doc_count": 1360,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Tax payers Alliance",
+    "doc_count": 1352,
+    "seven_days_count": 0,
+    "abbreviation": "TPA"
+}, {
+    "key": "Mackenzie Institute",
+    "doc_count": 1312,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Alliance for Financial Inclusion (AFI)",
+    "doc_count": 1310,
+    "seven_days_count": 0,
+    "abbreviation": "AFI"
+}, {
+    "key": "McGuinness Institute",
+    "doc_count": 1280,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Claremont Institute",
+    "doc_count": 1274,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Carnegie Endowment for International Peace Moscow Center",
+    "doc_count": 1258,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Lowy Institute",
+    "doc_count": 1258,
+    "seven_days_count": 0,
+    "abbreviation": "Lowy"
+}, {
+    "key": "American Security Council Foundation",
+    "doc_count": 1257,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Vienna Institute for International Economic Studies (WIIW)",
+    "doc_count": 1254,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Stiftung Neue Verantwortung",
+    "doc_count": 1247,
+    "seven_days_count": 0,
+    "abbreviation": "SNV"
+}, {
+    "key": "Levy Institute",
+    "doc_count": 1218,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Macroeconomic Policy Institute (IMK)",
+    "doc_count": 1211,
+    "seven_days_count": 0,
+    "abbreviation": "IMK"
+}, {
+    "key": "Carnegie Council for Ethics in International Affairs",
+    "doc_count": 1190,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Centre for Cross Border Studies",
+    "doc_count": 1189,
+    "seven_days_count": 0,
+    "abbreviation": "TCCBS"
+}, {
+    "key": "German Council on Foreign Relations",
+    "doc_count": 1186,
+    "seven_days_count": 0,
+    "abbreviation": "GCFR"
+}, {
+    "key": "Nomura Research Institute （NRI）",
+    "doc_count": 1183,
+    "seven_days_count": 0,
+    "abbreviation": "NRI"
+}, {
+    "key": "US-China Economic and Security Review Commission (USCC)",
+    "doc_count": 1181,
+    "seven_days_count": 0,
+    "abbreviation": "USCC"
+}, {
+    "key": "Cesran International",
+    "doc_count": 1173,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Per Capita",
+    "doc_count": 1165,
+    "seven_days_count": 0,
+    "abbreviation": "PER"
+}, {
+    "key": "Hispanic American Center for Economic Research (HACER)",
+    "doc_count": 1162,
+    "seven_days_count": 0,
+    "abbreviation": "HACER"
+}, {
+    "key": "Center for Strategic Research (SAM)",
+    "doc_count": 1161,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "German Institute of Global and Area Studies",
+    "doc_count": 1156,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Jacques Delors Institute",
+    "doc_count": 1150,
+    "seven_days_count": 0,
+    "abbreviation": "JDI"
+}, {
+    "key": "Foundation for European Progressive Studies (FEPS)",
+    "doc_count": 1141,
+    "seven_days_count": 0,
+    "abbreviation": "FEPS"
+}, {
+    "key": "Beacon Hill Institute",
+    "doc_count": 1136,
+    "seven_days_count": 0,
+    "abbreviation": "Beacon"
+}, {
+    "key": "The Takshashila Institution",
+    "doc_count": 1123,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for Public Policy Research",
+    "doc_count": 1118,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Islands Society",
+    "doc_count": 1103,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Moscow State Institute of International Relations (MGIMO)",
+    "doc_count": 1085,
+    "seven_days_count": 0,
+    "abbreviation": "MGIMO"
+}, {
+    "key": "Van Leer Jerusalem Institute (VLJI)",
+    "doc_count": 1081,
+    "seven_days_count": 0,
+    "abbreviation": "VLJI"
+}, {
+    "key": "Center for Social and Economic Research (CASE)",
+    "doc_count": 1047,
+    "seven_days_count": 0,
+    "abbreviation": "CASE"
+}, {
+    "key": "Sustainable Development Policy Institute",
+    "doc_count": 1046,
+    "seven_days_count": 0,
+    "abbreviation": "SDPI"
+}, {
+    "key": "Centre for the Study of Developing Societies (CSDS)",
+    "doc_count": 1044,
+    "seven_days_count": 0,
+    "abbreviation": "CSDS"
+}, {
+    "key": "Center for Economic and Social Development (CESD)",
+    "doc_count": 1042,
+    "seven_days_count": 0,
+    "abbreviation": "CESD"
+}, {
+    "key": "Vietnam Institute for American Studies",
+    "doc_count": 1042,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Sydney Institute",
+    "doc_count": 1038,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Corporación de Estudios para Latinoamérica (CIEPLAN)",
+    "doc_count": 1026,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Bow Group",
+    "doc_count": 1011,
+    "seven_days_count": 0,
+    "abbreviation": "Bow"
+}, {
+    "key": "Economic Growth Center, Yale University (EGC)",
+    "doc_count": 991,
+    "seven_days_count": 0,
+    "abbreviation": "EGCEY"
+}, {
+    "key": "Ratio Institute",
+    "doc_count": 986,
+    "seven_days_count": 0,
+    "abbreviation": "Ratio"
+}, {
+    "key": "IDEAS",
+    "doc_count": 961,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "World Affairs Councils of America",
+    "doc_count": 957,
+    "seven_days_count": 0,
+    "abbreviation": "WACA"
+}, {
+    "key": "Committee for Economic Development of Australia (CEDA)",
+    "doc_count": 949,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Constitution Project",
+    "doc_count": 946,
+    "seven_days_count": 0,
+    "abbreviation": "Constitution"
+}, {
+    "key": "Institute for Research in Economic and Fiscal Issues (IREF)",
+    "doc_count": 940,
+    "seven_days_count": 0,
+    "abbreviation": "IREF"
+}, {
+    "key": "Sobieski Institute",
+    "doc_count": 933,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for Civil Society",
+    "doc_count": 924,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centro de Implementacion de Politicas Publicas para la Equidad y el Crecimiento (CIPPEC)",
+    "doc_count": 923,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Control Risks Group",
+    "doc_count": 922,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for European Policy",
+    "doc_count": 919,
+    "seven_days_count": 0,
+    "abbreviation": "CFEP"
+}, {
+    "key": "Green Alliance",
+    "doc_count": 918,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Asan Institute for Policy Studies",
+    "doc_count": 913,
+    "seven_days_count": 0,
+    "abbreviation": "AIPS"
+}, {
+    "key": "Foreign Policy Centre (FPC)",
+    "doc_count": 908,
+    "seven_days_count": 0,
+    "abbreviation": "FPC"
+}, {
+    "key": "BRICS Policy Center",
+    "doc_count": 889,
+    "seven_days_count": 0,
+    "abbreviation": "BRICS"
+}, {
+    "key": "Eco-Fiscal Commission",
+    "doc_count": 885,
+    "seven_days_count": 0,
+    "abbreviation": "ECO"
+}, {
+    "key": "Institut Montaigne",
+    "doc_count": 885,
+    "seven_days_count": 0,
+    "abbreviation": "Montaigne"
+}, {
+    "key": "Center for International Security and Cooperation",
+    "doc_count": 884,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for Security Policy",
+    "doc_count": 882,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Islamabad Policy Research Institute",
+    "doc_count": 877,
+    "seven_days_count": 0,
+    "abbreviation": "IPRI"
+}, {
+    "key": "Centre for Policy Development",
+    "doc_count": 872,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Consejo Argentino para las Relaciones Internacionales (CARI)",
+    "doc_count": 870,
+    "seven_days_count": 0,
+    "abbreviation": "CARI"
+}, {
+    "key": "Institute for Ecological Economy Research (IÖW)",
+    "doc_count": 846,
+    "seven_days_count": 0,
+    "abbreviation": "IOW"
+}, {
+    "key": "Analytical Center for the Government of the Russian Federation",
+    "doc_count": 840,
+    "seven_days_count": 0,
+    "abbreviation": "ACGRF"
+}, {
+    "key": "Indira Gandhi Institute of Development Research (IGIDR)",
+    "doc_count": 836,
+    "seven_days_count": 0,
+    "abbreviation": "IGIDR"
+}, {
+    "key": "Centre for Poverty Analysis (CEPA)",
+    "doc_count": 828,
+    "seven_days_count": 0,
+    "abbreviation": "CEPA"
+}, {
+    "key": "Itinera Institute",
+    "doc_count": 815,
+    "seven_days_count": 0,
+    "abbreviation": "Itinera"
+}, {
+    "key": "Smith Richardson Foundation",
+    "doc_count": 815,
+    "seven_days_count": 0,
+    "abbreviation": "SRF"
+}, {
+    "key": "Free Market Foundation",
+    "doc_count": 807,
+    "seven_days_count": 0,
+    "abbreviation": "FMF"
+}, {
+    "key": "Latin American Security and Defence Network (RESDAL)",
+    "doc_count": 790,
+    "seven_days_count": 0,
+    "abbreviation": "RESDAL"
+}, {
+    "key": "Center for International Trade and Security",
+    "doc_count": 780,
+    "seven_days_count": 0,
+    "abbreviation": "SPIA"
+}, {
+    "key": "McCain Institute",
+    "doc_count": 778,
+    "seven_days_count": 0,
+    "abbreviation": "MCCA"
+}, {
+    "key": "Caledon Institute of Social Policy",
+    "doc_count": 775,
+    "seven_days_count": 0,
+    "abbreviation": "CISP"
+}, {
+    "key": "Australia China Relations Institute (ACRI)",
+    "doc_count": 765,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Lisbon Council for Economic Competitiveness and Social Renewal",
+    "doc_count": 759,
+    "seven_days_count": 0,
+    "abbreviation": "LCECSR"
+}, {
+    "key": "Timbro",
+    "doc_count": 758,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Duesseldorf Center for Competition Economics (DICE)",
+    "doc_count": 756,
+    "seven_days_count": 0,
+    "abbreviation": "DICE"
+}, {
+    "key": "Friedrich Ebert Foundation",
+    "doc_count": 753,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Buckeye Institute",
+    "doc_count": 746,
+    "seven_days_count": 0,
+    "abbreviation": "Buckeye"
+}, {
+    "key": "Policy Network",
+    "doc_count": 738,
+    "seven_days_count": 0,
+    "abbreviation": "PN"
+}, {
+    "key": "Istanbul Policy Center",
+    "doc_count": 725,
+    "seven_days_count": 0,
+    "abbreviation": "IPC"
+}, {
+    "key": "Institute for Public Affairs",
+    "doc_count": 721,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Mowat Center",
+    "doc_count": 719,
+    "seven_days_count": 0,
+    "abbreviation": "Mowat"
+}, {
+    "key": "Center for Governmental Research (CGR)",
+    "doc_count": 708,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Foundation for Democratic Reforms",
+    "doc_count": 703,
+    "seven_days_count": 0,
+    "abbreviation": "FDR"
+}, {
+    "key": "Asia Pacific Initiative",
+    "doc_count": 701,
+    "seven_days_count": 0,
+    "abbreviation": "API"
+}, {
+    "key": "Development Alternatives (DA)",
+    "doc_count": 698,
+    "seven_days_count": 0,
+    "abbreviation": "DA"
+}, {
+    "key": "Sasakawa Peace Foundation",
+    "doc_count": 698,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for European Renewal",
+    "doc_count": 697,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Beacon Center of Tennessee",
+    "doc_count": 694,
+    "seven_days_count": 0,
+    "abbreviation": "BEACONTN"
+}, {
+    "key": "European Leadership Network",
+    "doc_count": 689,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre of Planning and Economic Research",
+    "doc_count": 687,
+    "seven_days_count": 0,
+    "abbreviation": "CPER"
+}, {
+    "key": "Centre for Independent Studies (CIS)",
+    "doc_count": 686,
+    "seven_days_count": 0,
+    "abbreviation": "CFIS"
+}, {
+    "key": "Bangladesh Institute of Development Studies (BIDS)",
+    "doc_count": 676,
+    "seven_days_count": 0,
+    "abbreviation": "BIDS"
+}, {
+    "key": "Jewish Institute for National Security of America",
+    "doc_count": 676,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Policy Studies Institute",
+    "doc_count": 671,
+    "seven_days_count": 0,
+    "abbreviation": "PSI"
+}, {
+    "key": "Tokyo Foundation",
+    "doc_count": 666,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of Economics",
+    "doc_count": 662,
+    "seven_days_count": 0,
+    "abbreviation": "IE"
+}, {
+    "key": "Singapore Institute of International Affairs (SIIA)",
+    "doc_count": 662,
+    "seven_days_count": 0,
+    "abbreviation": "SIIA"
+}, {
+    "key": "Open Markets Institute",
+    "doc_count": 658,
+    "seven_days_count": 0,
+    "abbreviation": "OMI"
+}, {
+    "key": "Center of Research for Development (CIDAC)",
+    "doc_count": 652,
+    "seven_days_count": 0,
+    "abbreviation": "CIDAC"
+}, {
+    "key": "Henry Jackson Society",
+    "doc_count": 650,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of International and European Affairs",
+    "doc_count": 634,
+    "seven_days_count": 0,
+    "abbreviation": "IIEA"
+}, {
+    "key": "Moshe Dayan Center for Middle Eastern and African Studies",
+    "doc_count": 629,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Government Book Talk",
+    "doc_count": 623,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Hindu Centre for Politics and Public Policy",
+    "doc_count": 612,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Berggruen Institute",
+    "doc_count": 596,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for Development and Enterprise",
+    "doc_count": 596,
+    "seven_days_count": 0,
+    "abbreviation": "CDE"
+}, {
+    "key": "Joint  Center for Housing Studies",
+    "doc_count": 584,
+    "seven_days_count": 0,
+    "abbreviation": "JCHS"
+}, {
+    "key": "Asia Society Policy Institute（ASPI）",
+    "doc_count": 580,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Lugar Center",
+    "doc_count": 569,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "American Action Network",
+    "doc_count": 566,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "India Foundation",
+    "doc_count": 564,
+    "seven_days_count": 0,
+    "abbreviation": "IF"
+}, {
+    "key": "Canon Institute for Global Studies",
+    "doc_count": 561,
+    "seven_days_count": 0,
+    "abbreviation": "CIGS"
+}, {
+    "key": "Geneva Centre for the Democratic Control of Armed Forces",
+    "doc_count": 558,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Rosa Luxemburg Foundation",
+    "doc_count": 551,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Friedrich Naumann Foundation",
+    "doc_count": 547,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Next Century Foundation",
+    "doc_count": 547,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Mizuho Research Institute",
+    "doc_count": 546,
+    "seven_days_count": 0,
+    "abbreviation": "Mizuho"
+}, {
+    "key": "Israel Policy Forum",
+    "doc_count": 545,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Mannkal Economic Education Foundation",
+    "doc_count": 544,
+    "seven_days_count": 0,
+    "abbreviation": "MEEF"
+}, {
+    "key": "National Venture Capital Association",
+    "doc_count": 544,
+    "seven_days_count": 0,
+    "abbreviation": "NVCA"
+}, {
+    "key": "Economist Intelligence Unit (EIU)",
+    "doc_count": 540,
+    "seven_days_count": 0,
+    "abbreviation": "EIU"
+}, {
+    "key": "Show-Me Institute",
+    "doc_count": 539,
+    "seven_days_count": 0,
+    "abbreviation": "SMI"
+}, {
+    "key": "Adam Smith Centre",
+    "doc_count": 530,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Strategic Dialogue",
+    "doc_count": 529,
+    "seven_days_count": 0,
+    "abbreviation": "ISD"
+}, {
+    "key": "Lakshman Kadirgamar Institute of International Relations and Strategic Studies",
+    "doc_count": 528,
+    "seven_days_count": 0,
+    "abbreviation": "LKIIRSS"
+}, {
+    "key": "Pamplin College of Business",
+    "doc_count": 526,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Avinoam Bar, FKA Jewish People Policy Institute (JPPPI)",
+    "doc_count": 525,
+    "seven_days_count": 0,
+    "abbreviation": "JPPPI"
+}, {
+    "key": "Project for the Study of the 21st Century (PS21)",
+    "doc_count": 525,
+    "seven_days_count": 0,
+    "abbreviation": "PS21"
+}, {
+    "key": "Maxim Institute",
+    "doc_count": 523,
+    "seven_days_count": 0,
+    "abbreviation": "Maxim"
+}, {
+    "key": "Kuhn Foundation",
+    "doc_count": 519,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Strategic and Defence Studies Centre (SDSC)",
+    "doc_count": 506,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Fondation pour la Recherche Strategique (FRS)",
+    "doc_count": 505,
+    "seven_days_count": 0,
+    "abbreviation": "FRS"
+}, {
+    "key": "China Institute",
+    "doc_count": 493,
+    "seven_days_count": 0,
+    "abbreviation": "China"
+}, {
+    "key": "Institute of Developing Economies, Japan External Trade Organization (IDEJETRO)",
+    "doc_count": 493,
+    "seven_days_count": 0,
+    "abbreviation": "IDEJETRO"
+}, {
+    "key": "TRT World Research Centre",
+    "doc_count": 493,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Netherlands Institute for Multiparty Democracy",
+    "doc_count": 492,
+    "seven_days_count": 0,
+    "abbreviation": "NIMD"
+}, {
+    "key": "International Centre for Settlement of Investment Disputes (ICSID)",
+    "doc_count": 489,
+    "seven_days_count": 0,
+    "abbreviation": "ICSID"
+}, {
+    "key": "GovLab, Deloitte",
+    "doc_count": 482,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Century Foundation",
+    "doc_count": 482,
+    "seven_days_count": 0,
+    "abbreviation": "TCF"
+}, {
+    "key": "Institute for Defense Analysis",
+    "doc_count": 473,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Egyptian Center for Economic Studies (ECES)",
+    "doc_count": 471,
+    "seven_days_count": 0,
+    "abbreviation": "ECES"
+}, {
+    "key": "National Bureau of Asian Research",
+    "doc_count": 464,
+    "seven_days_count": 0,
+    "abbreviation": "NBAR"
+}, {
+    "key": "European Union Institute for Security Studies (EUISS)",
+    "doc_count": 462,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "New Policy Institute",
+    "doc_count": 462,
+    "seven_days_count": 0,
+    "abbreviation": "NEPI"
+}, {
+    "key": "Carnegie Moscow Center",
+    "doc_count": 460,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Jerusalem Institute for Policy Research (JIPR)",
+    "doc_count": 460,
+    "seven_days_count": 0,
+    "abbreviation": "JIPR"
+}, {
+    "key": "Canadian Taxpayers Federation",
+    "doc_count": 456,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Torino World Affairs Institute",
+    "doc_count": 456,
+    "seven_days_count": 0,
+    "abbreviation": "TWAI"
+}, {
+    "key": "Asia Pacific Foundation of Canada (APF Canada)",
+    "doc_count": 453,
+    "seven_days_count": 0,
+    "abbreviation": "APFC"
+}, {
+    "key": "Centre for Strategic Studies New Zealand",
+    "doc_count": 448,
+    "seven_days_count": 0,
+    "abbreviation": "CSSNZ"
+}, {
+    "key": "Ifo Institute - Leibniz Institute for Economic Research",
+    "doc_count": 445,
+    "seven_days_count": 0,
+    "abbreviation": "Ifo"
+}, {
+    "key": "Senate House",
+    "doc_count": 442,
+    "seven_days_count": 0,
+    "abbreviation": "Senate House"
+}, {
+    "key": "United Nations University (UNU)",
+    "doc_count": 442,
+    "seven_days_count": 0,
+    "abbreviation": "UNU"
+}, {
+    "key": "Mitsubishi UFJ Research and Consulting",
+    "doc_count": 438,
+    "seven_days_count": 0,
+    "abbreviation": "MURAC"
+}, {
+    "key": "Bertelsmann Foundation",
+    "doc_count": 436,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Reut Institute",
+    "doc_count": 430,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "European Policy Centre (EPC)",
+    "doc_count": 426,
+    "seven_days_count": 0,
+    "abbreviation": "EPC"
+}, {
+    "key": "Centre on Asia and Globalisation",
+    "doc_count": 420,
+    "seven_days_count": 0,
+    "abbreviation": "CAG"
+}, {
+    "key": "Razumkov Centre",
+    "doc_count": 415,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "NLI Research Institute",
+    "doc_count": 410,
+    "seven_days_count": 0,
+    "abbreviation": "NLI"
+}, {
+    "key": "European Laboratory of Political Anticipation (LEAP2020)",
+    "doc_count": 409,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The U.S.- China Policy Foundation",
+    "doc_count": 409,
+    "seven_days_count": 0,
+    "abbreviation": "TUCPF"
+}, {
+    "key": "Berkeley Roundtable on the International Economy (BRIE)",
+    "doc_count": 406,
+    "seven_days_count": 0,
+    "abbreviation": "BRIE"
+}, {
+    "key": "Council On Foundation",
+    "doc_count": 398,
+    "seven_days_count": 0,
+    "abbreviation": "COF"
+}, {
+    "key": "Institute of Economic Growth (IEG)",
+    "doc_count": 391,
+    "seven_days_count": 0,
+    "abbreviation": "IEG"
+}, {
+    "key": "Walter Eucken Institut",
+    "doc_count": 385,
+    "seven_days_count": 0,
+    "abbreviation": "WEI"
+}, {
+    "key": "The North-South Institute (NSI)",
+    "doc_count": 381,
+    "seven_days_count": 0,
+    "abbreviation": "NSI"
+}, {
+    "key": "Japan Policy Research Institute (PRI)",
+    "doc_count": 380,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of Economics, Russian Academy of Sciences (RAS)",
+    "doc_count": 378,
+    "seven_days_count": 0,
+    "abbreviation": "INECON"
+}, {
+    "key": "Spark Policy Institute",
+    "doc_count": 377,
+    "seven_days_count": 0,
+    "abbreviation": "Spark"
+}, {
+    "key": "Fundación de Investigaciones Económicas Latinoamericanas (FIEL)",
+    "doc_count": 372,
+    "seven_days_count": 0,
+    "abbreviation": "FIEL"
+}, {
+    "key": "Arctic Institute",
+    "doc_count": 370,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Canpaign Finance Institute",
+    "doc_count": 369,
+    "seven_days_count": 0,
+    "abbreviation": "CFINST"
+}, {
+    "key": "Economics Institute",
+    "doc_count": 366,
+    "seven_days_count": 0,
+    "abbreviation": "EI"
+}, {
+    "key": "Centre for the Economics of Education (CEE)",
+    "doc_count": 365,
+    "seven_days_count": 0,
+    "abbreviation": "CEE"
+}, {
+    "key": "Pakistan Institute of International Affairs",
+    "doc_count": 365,
+    "seven_days_count": 0,
+    "abbreviation": "PIIA"
+}, {
+    "key": "Policy Research Institute of Market Economy",
+    "doc_count": 363,
+    "seven_days_count": 0,
+    "abbreviation": "PRIME"
+}, {
+    "key": "New York Community Trust",
+    "doc_count": 362,
+    "seven_days_count": 0,
+    "abbreviation": "NYCT"
+}, {
+    "key": "Fujitsu Research Institute（FRI）",
+    "doc_count": 360,
+    "seven_days_count": 0,
+    "abbreviation": "FRI"
+}, {
+    "key": "Institute of Public Affairs (IPA)",
+    "doc_count": 360,
+    "seven_days_count": 0,
+    "abbreviation": "IPA"
+}, {
+    "key": "Economic Research Institute for Northeast Asia (ERINA)",
+    "doc_count": 357,
+    "seven_days_count": 0,
+    "abbreviation": "ERINA"
+}, {
+    "key": "IMANI Center for Policy and Education",
+    "doc_count": 348,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for Progressive Capitalism",
+    "doc_count": 341,
+    "seven_days_count": 0,
+    "abbreviation": "CPC"
+}, {
+    "key": "Institute for International Economic Studies (IIES)",
+    "doc_count": 335,
+    "seven_days_count": 0,
+    "abbreviation": "IIES"
+}, {
+    "key": "Jerusalem Institute for Market Studies",
+    "doc_count": 334,
+    "seven_days_count": 0,
+    "abbreviation": "JIMS"
+}, {
+    "key": "Center for Economic Analysis (CenEA)",
+    "doc_count": 333,
+    "seven_days_count": 0,
+    "abbreviation": "CenEA"
+}, {
+    "key": "Issam Fares Institute for Public Policy and International Affairs (IFI)",
+    "doc_count": 328,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Kettering Foundation",
+    "doc_count": 327,
+    "seven_days_count": 0,
+    "abbreviation": "Kettering"
+}, {
+    "key": "WebRoots Democracy",
+    "doc_count": 327,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centro Brasileiro de Análise e Planejamento (CEBRAP)",
+    "doc_count": 325,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Roosevelt Institute Campus Network",
+    "doc_count": 324,
+    "seven_days_count": 0,
+    "abbreviation": "RICN"
+}, {
+    "key": "New City Initiative",
+    "doc_count": 317,
+    "seven_days_count": 0,
+    "abbreviation": "NCI"
+}, {
+    "key": "Ripon Society",
+    "doc_count": 315,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for European Policy Analysis",
+    "doc_count": 310,
+    "seven_days_count": 0,
+    "abbreviation": "CEUPA"
+}, {
+    "key": "The Arctic Institute – Center for Circumpolar Security Studies",
+    "doc_count": 304,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Aegis",
+    "doc_count": 300,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute of Governance and Policy Studies",
+    "doc_count": 296,
+    "seven_days_count": 0,
+    "abbreviation": "WGTN"
+}, {
+    "key": "Kenya Institute for Public Policy Research and Analysis (KIPPRA)",
+    "doc_count": 288,
+    "seven_days_count": 0,
+    "abbreviation": "KIPPRA"
+}, {
+    "key": "Tellus Institute",
+    "doc_count": 288,
+    "seven_days_count": 0,
+    "abbreviation": "Tellus"
+}, {
+    "key": "Bangladesh Institute of Law and International Affairs (BILIA)",
+    "doc_count": 287,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Project 2049 Institute",
+    "doc_count": 282,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for the Study of American Business, Washington University in St. Louis (CSAB)",
+    "doc_count": 278,
+    "seven_days_count": 0,
+    "abbreviation": "WUSTL"
+}, {
+    "key": "Institute for Jewish Policy Research",
+    "doc_count": 276,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "LSE IDEAS",
+    "doc_count": 272,
+    "seven_days_count": 0,
+    "abbreviation": "LSE"
+}, {
+    "key": "Arava Institute",
+    "doc_count": 269,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Africa Research Institute (ARI)",
+    "doc_count": 266,
+    "seven_days_count": 0,
+    "abbreviation": "ARI"
+}, {
+    "key": "Centre for Global Cooperation Research",
+    "doc_count": 265,
+    "seven_days_count": 0,
+    "abbreviation": "CGCR"
+}, {
+    "key": "Legatum Institute",
+    "doc_count": 263,
+    "seven_days_count": 0,
+    "abbreviation": "Lisbon"
+}, {
+    "key": "Bruges Group",
+    "doc_count": 259,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Casimir Pulaski Foundation (CPF)",
+    "doc_count": 255,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Polish Institute of International Affairs (PISM)",
+    "doc_count": 252,
+    "seven_days_count": 0,
+    "abbreviation": "PISM"
+}, {
+    "key": "Global Financial Integrity",
+    "doc_count": 247,
+    "seven_days_count": 0,
+    "abbreviation": "GFTGT"
+}, {
+    "key": "Centre for Strategic and International Studies",
+    "doc_count": 246,
+    "seven_days_count": 0,
+    "abbreviation": "CFSAIS"
+}, {
+    "key": "Thomas B. Fordham Institute",
+    "doc_count": 245,
+    "seven_days_count": 0,
+    "abbreviation": "TBFI"
+}, {
+    "key": "Northeast-Midwest Institute",
+    "doc_count": 236,
+    "seven_days_count": 0,
+    "abbreviation": "NEMW"
+}, {
+    "key": "John William Pope Foundation",
+    "doc_count": 226,
+    "seven_days_count": 0,
+    "abbreviation": "JWPF"
+}, {
+    "key": "Canadian International Council (CIC)",
+    "doc_count": 224,
+    "seven_days_count": 0,
+    "abbreviation": "CIC"
+}, {
+    "key": "Turkish Economic and Social Studies Foundation",
+    "doc_count": 224,
+    "seven_days_count": 0,
+    "abbreviation": "TESSF"
+}, {
+    "key": "Ateneo Center for Economic Research and Development (ACERD)",
+    "doc_count": 223,
+    "seven_days_count": 0,
+    "abbreviation": "ACERD"
+}, {
+    "key": "Egmont Group of Financial Intelligence Units",
+    "doc_count": 223,
+    "seven_days_count": 0,
+    "abbreviation": "EGFIU"
+}, {
+    "key": "Kohelet Policy Forum",
+    "doc_count": 216,
+    "seven_days_count": 0,
+    "abbreviation": "KPF"
+}, {
+    "key": "Development Policy Centre",
+    "doc_count": 211,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "GPoT Center",
+    "doc_count": 210,
+    "seven_days_count": 0,
+    "abbreviation": "GPoT"
+}, {
+    "key": "Integrated Research and Action for Development (IRADe)",
+    "doc_count": 207,
+    "seven_days_count": 0,
+    "abbreviation": "IRADe"
+}, {
+    "key": "International Centre for Black Sea Studies",
+    "doc_count": 207,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Prosper Australia",
+    "doc_count": 207,
+    "seven_days_count": 0,
+    "abbreviation": "PA"
+}, {
+    "key": "Albanian Institute for International Studies (AIIS)",
+    "doc_count": 206,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Silicon Valley Community Foundation",
+    "doc_count": 205,
+    "seven_days_count": 0,
+    "abbreviation": "SVCF"
+}, {
+    "key": "Koerber Foundation",
+    "doc_count": 204,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Streit Council",
+    "doc_count": 200,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for the National Interest (CFTNI), FKA Nixon Center",
+    "doc_count": 199,
+    "seven_days_count": 0,
+    "abbreviation": "CFTNI"
+}, {
+    "key": "Centro de Estudio de la Realidad Economica y Social (CERES)",
+    "doc_count": 198,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Genron NPO (言論ＮＰＯ)",
+    "doc_count": 197,
+    "seven_days_count": 0,
+    "abbreviation": "NPO"
+}, {
+    "key": "Institute for Urban Economics (IUE)",
+    "doc_count": 194,
+    "seven_days_count": 0,
+    "abbreviation": "IUE"
+}, {
+    "key": "Trinità dei Monti",
+    "doc_count": 193,
+    "seven_days_count": 0,
+    "abbreviation": "TDM"
+}, {
+    "key": "Oxford Analytica",
+    "doc_count": 192,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Hampton Institute",
+    "doc_count": 189,
+    "seven_days_count": 0,
+    "abbreviation": "Hampton"
+}, {
+    "key": "Institute for International Policy Studies (IIPS)",
+    "doc_count": 188,
+    "seven_days_count": 0,
+    "abbreviation": "IIPS"
+}, {
+    "key": "Arkansas Policy Foundation",
+    "doc_count": 185,
+    "seven_days_count": 0,
+    "abbreviation": "APF"
+}, {
+    "key": "India, China & America Institute",
+    "doc_count": 183,
+    "seven_days_count": 0,
+    "abbreviation": "ICAI"
+}, {
+    "key": "John S. Watson Institute for Public Policy",
+    "doc_count": 183,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for Automotive Research (CAR)",
+    "doc_count": 182,
+    "seven_days_count": 0,
+    "abbreviation": "CAR"
+}, {
+    "key": "Botswana Institute for Development Policy Analysis (BIDPA)",
+    "doc_count": 180,
+    "seven_days_count": 0,
+    "abbreviation": "BIDPA"
+}, {
+    "key": "Group of Thirty",
+    "doc_count": 180,
+    "seven_days_count": 0,
+    "abbreviation": "GOT"
+}, {
+    "key": "Global Trade Analysis Project （GTAP)",
+    "doc_count": 175,
+    "seven_days_count": 0,
+    "abbreviation": "GTAP"
+}, {
+    "key": "University of Asia and the Pacific",
+    "doc_count": 154,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Deloitte Touche Tohmatsu",
+    "doc_count": 152,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Political and Economic Research Council",
+    "doc_count": 150,
+    "seven_days_count": 0,
+    "abbreviation": "PERC"
+}, {
+    "key": "Smith Brandon International Inc",
+    "doc_count": 148,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Maurice Falk Institute for Economic Research",
+    "doc_count": 145,
+    "seven_days_count": 0,
+    "abbreviation": "MFIER"
+}, {
+    "key": "Nakasone Yasuhiro Peace Institute",
+    "doc_count": 140,
+    "seven_days_count": 0,
+    "abbreviation": "NYPI"
+}, {
+    "key": "European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）",
+    "doc_count": 139,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Washington Institute for Near East Policy",
+    "doc_count": 139,
+    "seven_days_count": 0,
+    "abbreviation": "TIWINEP"
+}, {
+    "key": "Japan Institute of International Affairs (JIIA)",
+    "doc_count": 138,
+    "seven_days_count": 0,
+    "abbreviation": "JIIA"
+}, {
+    "key": "Association for Liberal Thinking (ALT)",
+    "doc_count": 134,
+    "seven_days_count": 0,
+    "abbreviation": "ALT"
+}, {
+    "key": "Joint Center for Political and Economic Studies",
+    "doc_count": 134,
+    "seven_days_count": 0,
+    "abbreviation": "JCPES"
+}, {
+    "key": "Institute for Regional Security",
+    "doc_count": 133,
+    "seven_days_count": 0,
+    "abbreviation": "IFRS"
+}, {
+    "key": "Nigerian Economic Summit Group",
+    "doc_count": 133,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Seven Pillars Institute",
+    "doc_count": 132,
+    "seven_days_count": 0,
+    "abbreviation": "SPI"
+}, {
+    "key": "Gracques",
+    "doc_count": 130,
+    "seven_days_count": 0,
+    "abbreviation": "Gracques"
+}, {
+    "key": "Hansard Society",
+    "doc_count": 126,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Unlock Democracy",
+    "doc_count": 126,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for International Socio-Economic Studies (IISE)",
+    "doc_count": 123,
+    "seven_days_count": 0,
+    "abbreviation": "IISE"
+}, {
+    "key": "Center for Public Justice",
+    "doc_count": 121,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center on Global Interests",
+    "doc_count": 121,
+    "seven_days_count": 0,
+    "abbreviation": "COGI"
+}, {
+    "key": "Alternate Solutions Institute",
+    "doc_count": 118,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Applied Economic Studies",
+    "doc_count": 113,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Hitachi Research Institute（HRI)",
+    "doc_count": 110,
+    "seven_days_count": 0,
+    "abbreviation": "HRI"
+}, {
+    "key": "Institute for Public Enterprise",
+    "doc_count": 108,
+    "seven_days_count": 0,
+    "abbreviation": "IPE"
+}, {
+    "key": "Kosciuszko Institute",
+    "doc_count": 108,
+    "seven_days_count": 0,
+    "abbreviation": "Kosciudzko"
+}, {
+    "key": "Federal Reserve Board",
+    "doc_count": 103,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Strategic and Development Studies (ISDS)",
+    "doc_count": 102,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Roubini Global Economics (RGE)",
+    "doc_count": 102,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "East Asian Bureau of Economic Research (EABER)",
+    "doc_count": 101,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "ResPublica",
+    "doc_count": 101,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "NASW Foundation",
+    "doc_count": 97,
+    "seven_days_count": 0,
+    "abbreviation": "NASW"
+}, {
+    "key": "Cohen Group",
+    "doc_count": 95,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for Development and Strategy",
+    "doc_count": 94,
+    "seven_days_count": 0,
+    "abbreviation": "CFDS"
+}, {
+    "key": "Potomac Institute for Policy Studies",
+    "doc_count": 92,
+    "seven_days_count": 0,
+    "abbreviation": "PIFPS"
+}, {
+    "key": "United Nations Association – UK",
+    "doc_count": 92,
+    "seven_days_count": 0,
+    "abbreviation": "UNA"
+}, {
+    "key": "Institute for Economics and Peace (IEP)",
+    "doc_count": 90,
+    "seven_days_count": 0,
+    "abbreviation": "IEP"
+}, {
+    "key": "The Stimson Center",
+    "doc_count": 90,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Policy Analysis of Conflict",
+    "doc_count": 83,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Participatory Politics Foundation",
+    "doc_count": 82,
+    "seven_days_count": 0,
+    "abbreviation": "PAPF"
+}, {
+    "key": "Amadeus Institute",
+    "doc_count": 80,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institut des Relations Internationales et Strategiques (IRIS)",
+    "doc_count": 77,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for National Security Studies",
+    "doc_count": 76,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Millennium Institute",
+    "doc_count": 73,
+    "seven_days_count": 0,
+    "abbreviation": "Millennium"
+}, {
+    "key": "The Constitution Society",
+    "doc_count": 73,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "City Mayors Foundation",
+    "doc_count": 69,
+    "seven_days_count": 0,
+    "abbreviation": "CMF"
+}, {
+    "key": "Institute for US and Canadian Studies",
+    "doc_count": 68,
+    "seven_days_count": 0,
+    "abbreviation": "IUCS"
+}, {
+    "key": "Chennai Centre for China Studies",
+    "doc_count": 67,
+    "seven_days_count": 0,
+    "abbreviation": "CCCS"
+}, {
+    "key": "Center for Fiscal Policy (CFP)",
+    "doc_count": 65,
+    "seven_days_count": 0,
+    "abbreviation": "CFP"
+}, {
+    "key": "The Wilberforce Society",
+    "doc_count": 65,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "International Centre for Policy Studies",
+    "doc_count": 64,
+    "seven_days_count": 0,
+    "abbreviation": "NCPS"
+}, {
+    "key": "Area Study Centre for Far East and Southeast Asia (FESEA)",
+    "doc_count": 58,
+    "seven_days_count": 0,
+    "abbreviation": "FESEA"
+}, {
+    "key": "Copenhagen Institute for Futures Studies",
+    "doc_count": 54,
+    "seven_days_count": 0,
+    "abbreviation": "CIFS"
+}, {
+    "key": "Jimmy Reid Foundation",
+    "doc_count": 53,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Progress",
+    "doc_count": 51,
+    "seven_days_count": 0,
+    "abbreviation": "Progress"
+}, {
+    "key": "Israel Center for Social and Economic Progress (ICSEP)",
+    "doc_count": 50,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Kissinger Associates",
+    "doc_count": 47,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Scottish Constitutional Commission",
+    "doc_count": 47,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "The Lugar Center",
+    "doc_count": 46,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Innovations in Politics Institute",
+    "doc_count": 45,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "National Policy Institute",
+    "doc_count": 45,
+    "seven_days_count": 0,
+    "abbreviation": "NPI"
+}, {
+    "key": "crsreports.congress.gov",
+    "doc_count": 45,
+    "seven_days_count": 0,
+    "abbreviation": "CRS"
+}, {
+    "key": "Brand EU",
+    "doc_count": 41,
+    "seven_days_count": 0,
+    "abbreviation": "Brand"
+}, {
+    "key": "American Iranian Council",
+    "doc_count": 40,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "GPO",
+    "doc_count": 40,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Common Weal",
+    "doc_count": 39,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Corporation for Enterprise Development",
+    "doc_count": 37,
+    "seven_days_count": 0,
+    "abbreviation": "ENTB"
+}, {
+    "key": "Stanley Foundation",
+    "doc_count": 36,
+    "seven_days_count": 0,
+    "abbreviation": "Stanley"
+}, {
+    "key": "Applied Economics Research Centre",
+    "doc_count": 33,
+    "seven_days_count": 0,
+    "abbreviation": "APERC"
+}, {
+    "key": "Center for Advanced Defense Studies",
+    "doc_count": 33,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Sumitomo Mitsui Trust Research Institute",
+    "doc_count": 33,
+    "seven_days_count": 0,
+    "abbreviation": "SMTRI"
+}, {
+    "key": "National Bureau of Economic Research",
+    "doc_count": 29,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "National Institute for Research Advancement",
+    "doc_count": 28,
+    "seven_days_count": 0,
+    "abbreviation": "NIRA"
+}, {
+    "key": "Captus",
+    "doc_count": 26,
+    "seven_days_count": 0,
+    "abbreviation": "Captus"
+}, {
+    "key": "Horasis",
+    "doc_count": 26,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Japan Center for Economic Research (JCER)",
+    "doc_count": 26,
+    "seven_days_count": 0,
+    "abbreviation": "JCER"
+}, {
+    "key": "Yale Center for the Study of Globalization",
+    "doc_count": 24,
+    "seven_days_count": 0,
+    "abbreviation": "YCSG"
+}, {
+    "key": "Center for Transatlantic Relations",
+    "doc_count": 22,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Political Risks Assessment Group",
+    "doc_count": 22,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Tulsa Community Foundation",
+    "doc_count": 22,
+    "seven_days_count": 0,
+    "abbreviation": "Tusla"
+}, {
+    "key": "Centre for Political Studies (CEPOS)",
+    "doc_count": 21,
+    "seven_days_count": 0,
+    "abbreviation": "CEPOS"
+}, {
+    "key": "Selsdon Group",
+    "doc_count": 21,
+    "seven_days_count": 0,
+    "abbreviation": "Selsdon"
+}, {
+    "key": "Nigerian Institute of International Affairs",
+    "doc_count": 19,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Stockholm Network",
+    "doc_count": 19,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Social Market Foundation",
+    "doc_count": 18,
+    "seven_days_count": 0,
+    "abbreviation": "SMF"
+}, {
+    "key": "Adam Smith Foundation",
+    "doc_count": 17,
+    "seven_days_count": 0,
+    "abbreviation": "ASF"
+}, {
+    "key": "Citizens Policy Foundation",
+    "doc_count": 16,
+    "seven_days_count": 0,
+    "abbreviation": "CPF"
+}, {
+    "key": "Demand Progress Education Fund",
+    "doc_count": 12,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Netherland-America Foundation",
+    "doc_count": 11,
+    "seven_days_count": 0,
+    "abbreviation": "NAF"
+}, {
+    "key": "Oxford Council on Good Governance (OCGG)",
+    "doc_count": 11,
+    "seven_days_count": 0,
+    "abbreviation": "OCGG"
+}, {
+    "key": "demosEUROPA - Centre for European Strategy",
+    "doc_count": 10,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for Research on Economic and Social Transformation (CREST)",
+    "doc_count": 9,
+    "seven_days_count": 0,
+    "abbreviation": "CREST"
+}, {
+    "key": "Institute of Regional Studies",
+    "doc_count": 9,
+    "seven_days_count": 0,
+    "abbreviation": "IRS"
+}, {
+    "key": "Drum Major Institute for Public Policy (DMI)",
+    "doc_count": 8,
+    "seven_days_count": 0,
+    "abbreviation": "DMI"
+}, {
+    "key": "Economic Expert Group (EEG)",
+    "doc_count": 8,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Horowitz Foundation For Social Policy",
+    "doc_count": 8,
+    "seven_days_count": 0,
+    "abbreviation": "HFFSP"
+}, {
+    "key": "Adviser on Strategic Foresight",
+    "doc_count": 7,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Center for the National Interest",
+    "doc_count": 7,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Israel Council on Foreign Relations",
+    "doc_count": 7,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "New Economic School – Georgia",
+    "doc_count": 7,
+    "seven_days_count": 0,
+    "abbreviation": "NES"
+}, {
+    "key": "federal Reserve Bank of Cleveland",
+    "doc_count": 7,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "European Organisation for Security",
+    "doc_count": 6,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Institute for Social and Economic Analyses (ISEA)",
+    "doc_count": 6,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Centre for Economic and Social Inclusion",
+    "doc_count": 4,
+    "seven_days_count": 0,
+    "abbreviation": "CEASI"
+}, {
+    "key": "South Asian Center for Reintegration and Independent Research",
+    "doc_count": 3,
+    "seven_days_count": 0,
+    "abbreviation": ""
+}, {
+    "key": "Scaife Foundations",
+    "doc_count": 2,
+    "seven_days_count": 0,
+    "abbreviation": "SF"
+}, {
+    "key": "Center for International Relations (CIR)",
+    "doc_count": 1,
+    "seven_days_count": 0,
+    "abbreviation": "CIR"
+}, {
+    "key": "Institute of National Capacity Studies (INCS)",
+    "doc_count": 1,
+    "seven_days_count": 0,
+    "abbreviation": "INCS"
+}]
