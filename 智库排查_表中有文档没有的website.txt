@@ -1,0 +1,55 @@
+1、空白
+ 1.行的存储规则关联错误，导致列表页规则采集到的部分数据入库了。
+ 2.暂时不处理这个。run_id没有索引，排查很慢。
+2、 Commodity Futures Trading Commission(CFTC)
+ 1.配置默认值错误，已经修复，修改表记录
+3、Beacon Center of Tennessee
+ 1.正常
+4、Canpaign Finance Institute
+ 1.正常
+5、Center for an Urban Future
+ 1.正常
+6、Center for Financial Inclusion
+ 1.正常
+7、Center for International Private Enterprise
+ 1.正常
+8、Center for International Trade and Security
+ 1.正常
+9、Center for the Study of American Business, Washington University in St. Louis (CSAB)
+ 1.正常
+10、Centre for Local Economic Strategies
+ 1.正常
+11、concordcoalition
+ 1.应配置为Concord Coalition
+12、Corporation for Enterprise Development
+ 1.调度停止
+13、Daiwa Institute of Research Group(DIR)
+ 1.应改配置为Daiwa Institute of Research Group (DIR)
+14、Department of Homeland Security
+ 1. 智库补采文档_20200713-20200717中需求
+15、Economic Growth Center, Yale University (EGC)
+16、Economic Innovation Group
+17、Egmont Group of Financial Intelligence Units
+18、European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）
+19、Federal Reserve Board
+20、Financial Stability Board
+21、Global Financial Integrity
+22、Government Book Talk
+23、GPO
+24、Institute of Economics, Russian Academy of Sciences (RAS)
+25、Institute of Governance and Policy Studies
+26、Joint  Center for Housing Studies
+27、Lincoin Instite of Land Policy
+28、Maine Center for Economic Policy
+29、nasonline
+30、Natural Resource Governance Institute
+31、NORC at the University of Chicago
+32、Northeast-Midwest Institute
+33、NUS-East Asian Institute (EAI)
+34、Political and Economic Research Council
+35、SenateHouse
+36、Smith Brandon International Inc
+37、The Hampton Institute
+38、The National Academies Press
+39、The Peter G. Peterson Foundation
+40、W.E. Upjohn Institute for Employment Resaerch
