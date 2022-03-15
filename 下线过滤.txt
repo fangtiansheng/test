@@ -1,0 +1,113 @@
+John S. Watson Institute for Public Policy
+loc.gov
+Ripon Society
+Razumkov Centre
+European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）
+National Bureau of Economic Research
+Alternate Solutions Institute
+Center for European Renewal
+Israel Council on Foreign Relations', "Center for Turkey's Economic and Strategic Studies", 'federal Reserve Bank of Cleveland
+Roubini Global Economics (RGE)
+Kissinger Associates
+Jimmy Reid Foundation
+demosEUROPA - Centre for European Strategy
+European Organisation for Security
+East Asian Institute (EAI)
+Smith Brandon International Inc
+TRT World Research Centre
+Hansard Society
+KPMG
+Institute for National Security Studies
+Lowy Institute for International Policy
+Federal Reserve Board
+Aegis
+Common Weal
+Project 2049 Institute
+A.T. Kearney Global Business Policy Council (GBPC)
+Facultad Latinoamericana de Ciencias Sociales (FLACSO)
+Adviser on Strategic Foresight
+ResPublica
+Streit Council
+Israel Center for Social and Economic Progress (ICSEP)
+Scottish Constitutional Commission
+The Constitution Society
+GovLab, Deloitte
+Center for the National Interest
+Nigerian Economic Summit Group
+South Asian Center for Reintegration and Independent Research
+IMANI Center for Policy and Education
+Center for Transatlantic Relations
+IDEAS
+Institute of Economy of the Russian Academy of Sciences (EDIRC)
+Institute for Jewish Policy Research
+Development Policy Centre
+Institute for Social and Economic Analyses (ISEA)
+Cohen Group
+Stockholm Network
+Amadeus Institute
+Issam Fares Institute for Public Policy and International Affairs (IFI)
+Oxford Analytica
+Accenture Institue for High Performance
+Philadelphia Society
+Boston Consulting Group (BCG)
+American Iranian Council
+Horasis
+University of Asia and the Pacific
+Institut des Relations Internationales et Strategiques (IRIS)
+Japan Policy Research Institute (PRI)
+IBM Institute ofr Business Value
+Centro de Estudio de la Realidad Economica y Social (CERES)
+Unlock Democracy
+Center for Public Justice
+International Centre for Black Sea Studies
+School of Public Policy and Governance (SPPG)
+Daiwa Institute of Research Group(DIR)
+WebRoots Democracy
+Political Risks Assessment Group
+Vietnam Institute for American Studies
+Economic Expert Group (EEG)
+Centro Brasileiro de Análise e Planejamento (CEBRAP)
+The Arctic Institute – Center for Circumpolar Security Studies
+Casimir Pulaski Foundation (CPF)
+The Wilberforce Society
+Koerber Foundation
+Nigerian Institute of International Affairs
+Albanian Institute for International Studies (AIIS)
+GPO
+Deloitte Touche Tohmatsu
+Reut Institute
+Institute for Applied Economic Studies
+East Asian Bureau of Economic Research (EABER)
+The Stimson Center
+Institute for Strategic and Development Studies (ISDS)
+Innovations in Politics Institute
+Bangladesh Institute of Law and International Affairs (BILIA)
+CUTS International
+Arava Institute
+Institute for Policy Analysis of Conflict
+Demand Progress Education Fund
+data.gov
+Control Risks Group
+Bertelsmann Foundation
+European Laboratory of Political Anticipation (LEAP2020)
+Canadian Taxpayers Federation
+The Lugar Center
+Bruges Group
+Center for Advanced Defense Studies
+Analysis Group
+Pamplin College of Business
+
+
+智库前端全部website去掉智库大全website称为not_show网站
+
+不显示的去掉已经下线Excel总的网站剩余如上
+看上去是异常停止采集的网站
+
+
+McCain Institute
+Ford Foundation
+Mercatus Center
+SRI International
+Atlas Network
+
+已经下线Excel中网站去掉不显示的已经下线的网站剩余如上
