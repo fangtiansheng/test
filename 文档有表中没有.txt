@@ -1,4 +1,5 @@
 38 North
+Action Institute
 Al-Ahr am Center for Political and Strategic Studies (ACPSS)
 American Israel Public Affairs Committee
 Asia Competitiveness Institute (ACI)
@@ -12,9 +13,9 @@ Centre for Fair Political Analysis
 Centre for Independent Social Research
 Centro de Investigacion y Docencia Economicas (CIDE)
 Congressional Research Service
+Daiwa Institute of Research Group (DIR）
 E.Y., FKA Ernst & Young
 Ecologic Foundation
-Egmont Group of Financial Intelligence Units
 European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE)
 Frontier Horizons
 Fundacion Idea
@@ -30,7 +31,6 @@ International Crisis Group (ICG)
 Istituto Affari Internazionali (IAI)
 Jacques Delors Institut
 Japan Institute for International Development
-Jerusalem Institute for Market Studies 
 Korea Energy Economics Institute (KEEI)
 Kreller Business Information Group
 Kroll Associates
@@ -44,7 +44,6 @@ Organization for Social Science Research in Eastern and Southern Africa (OSSREA)
 PricewaterhouseCoopers (PwC)
 Security and Defence Agenda (SDA)
 Smith Brandon International Inc.
-St.Petersburg Center for Humanities and Political Studies
-The Hampton Institute 已采
-The Peter G.Peterson Foundation
+St、Petersburg Center for Humanities and Political Studies
+The Peter G、Peterson Foundation
 Woodrow Wilson International Center for Scholars

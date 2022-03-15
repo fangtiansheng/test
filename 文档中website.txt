@@ -65,6 +65,7 @@ Bangladesh Institute of Development Studies (BIDS)
 Bangladesh Institute of Law and International Affairs (BILIA)
 Bank for International Settlements (BIS)
 Barcelona Centre for International Affairs
+Beacon Center of Tennessee
 Beacon Hill Institute
 Begin–Sadat Center for Strategic Studies
 Belfer Center for Science and International Affairs
@@ -94,6 +95,7 @@ Canadian International Council (CIC)
 Canadian Tax Foundation
 Canadian Taxpayers Federation
 Canon Institute for Global Studies
+Canpaign Finance Institute
 CANZUK International
 Captus
 Carnegie Council for Ethics in International Affairs
@@ -107,6 +109,7 @@ Cato Institute
 Center for a New American Security (CNAS)
 Center for Advanced Defense Studies
 Center for American Progress (CAP)
+Center for an Urban Future
 Center for Automotive Research (CAR)
 Center for Data Innovation
 Center for Development and Strategy
@@ -118,14 +121,17 @@ Center for Economic and Social Development (CESD)
 Center for European Economic Research (ZEW)
 Center for European Policy Analysis
 Center for European Renewal
+Center for Financial Inclusion
 Center for Fiscal Policy (CFP)
 Center for Freedom and Prosperity (CFP)
 Center for Governmental Research (CGR)
 Center for Immigration Studies
 Center for International Development (CID)
 Center for International Policy Studies
+Center for International Private Enterprise
 Center for International Relations (CIR)
 Center for International Security and Cooperation
+Center for International Trade and Security
 Center for Media and Democracy (CMD)
 Center for National Policy (CNP)
 Center for Naval Analysis
@@ -139,6 +145,7 @@ Center for Strategic and International Studies (CSIS)
 Center for Strategic Research (SAM)
 Center for the National Interest
 Center for the National Interest (CFTNI), FKA Nixon Center
+Center for the Study of American Business, Washington University in St. Louis (CSAB)
 Center for Transatlantic Relations
 Center for Turkey's Economic and Strategic Studies
 Center of Research for Development (CIDAC)
@@ -162,6 +169,7 @@ Centre for Independent Social Research
 Centre for Independent Studies (CIS)
 Centre for International Governance Innovation (CIGI)
 Centre for Internet and Society (CIS)
+Centre for Local Economic Strategies
 Centre for London
 Centre for Policy Development
 Centre for Policy Dialogue (CPD)
@@ -212,6 +220,7 @@ Consumer Financial Protection Bureau (CFPB)
 Control Risks Group
 Copenhagen Institute for Futures Studies
 Corporación de Estudios para Latinoamérica (CIEPLAN)
+Corporation for Enterprise Development
 Council of Economic Advisers
 Council of Europe Development Bank (CEB)
 Council on Competitiveness
@@ -247,6 +256,8 @@ Ecologic Institute
 Economic and Social Research Institute
 Economic and Social Research Institute (ESRI)
 Economic Expert Group (EEG)
+Economic Growth Center, Yale University (EGC)
+Economic Innovation Group
 Economic Opportunity Institute (EOI)
 Economic Policy Institute
 Economic Policy Institute (EPI)
@@ -298,6 +309,7 @@ Fedesarrollo
 Financial Action Task Force (FATF)
 Financial Conduct Authority
 Financial Crimes Enforcement Network (FinCEN)
+Financial Stability Board
 Finnish Institute of International Affairs (FIIA)
 Fondation pour l'Innovation Politique (Fondapol)
 Fondation pour la Recherche Strategique (FRS)
@@ -346,6 +358,7 @@ German Institute for International and Security Affairs (SWP)
 German Institute of Global and Area Studies
 German Marshall Fund
 German Marshall Fund of the United States
+Global Financial Integrity
 Global Network for Africa’s Prosperity (GNAP)
 Global Trade Analysis Project （GTAP)
 Global Trade Watch
@@ -431,8 +444,10 @@ Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO)
 Institute of Economic Affairs (IEA)
 Institute of Economic Growth (IEG)
 Institute of Economics
+Institute of Economics, Russian Academy of Sciences (RAS)
 Institute of Economy of the Russian Academy of Sciences (EDIRC)
 Institute of Energy Economics, Japan (IEEJ)
+Institute of Governance and Policy Studies
 Institute of International Affairs
 Institute of International and European Affairs
 Institute of International and Strategic Studies (IISS)
@@ -491,12 +506,12 @@ Japan Institute of International Affairs (JIIA)
 Japan Policy Research Institute (PRI)
 Jerusalem Center for Public Affairs
 Jerusalem Institute for Market Studies
-Jerusalem Institute for Market Studies 
 Jerusalem Institute for Policy Research (JIPR)
 Jewish Institute for National Security of America
 Jimmy Reid Foundation
 John S. Watson Institute for Public Policy
 John William Pope Foundation
+Joint  Center for Housing Studies
 Joint Center for Political and Economic Studies
 Joseph Rowntree Foundation
 Kansas Policy Institute
@@ -525,6 +540,7 @@ Levy Institute
 Lexington Institute
 Libertad y Desarrollo (LyD)
 Library of Congress
+Lincoin Instite of Land Policy
 LIRNEasia
 Lisbon Council for Economic Competitiveness and Social Renewal
 Localis
@@ -538,6 +554,7 @@ Macdonald–Laurier Institute (MLI)
 Mackenzie Institute
 Mackinac Center for Public Policy
 Macroeconomic Policy Institute (IMK)
+Maine Center for Economic Policy
 Manhattan Institute for Policy Research (MI)
 Mannkal Economic Education Foundation
 Maurice Falk Institute for Economic Research
@@ -572,6 +589,7 @@ National Institute of Economic and Social Research
 National Institute of Policy and Strategic Studies
 National Policy Institute
 National Venture Capital Association
+Natural Resource Governance Institute
 Netherland-America Foundation
 Netherlands Bureau for Economic Policy Analysis (CPB)
 Netherlands Institute for Multiparty Democracy
@@ -593,7 +611,10 @@ Nigerian Institute of International Affairs
 Niskanen Center
 NLI Research Institute
 Nomura Research Institute （NRI）
+NORC at the University of Chicago
+Northeast-Midwest Institute
 Notre Europe Jacques Delors Institut
+NUS-East Asian Institute (EAI)
 Observer Research Foundation (ORF)
 Office of the Comptroller of the Currency (OCC)
 Oklahoma Policy Institute
@@ -632,6 +653,7 @@ Policy Research Institute of Market Economy
 Policy Studies Institute
 Polish Institute of International Affairs (PISM)
 Politeia
+Political and Economic Research Council
 Political Risks Assessment Group
 Potomac Institute for Policy Studies
 Potsdam Institute for Climate Impact Research
@@ -694,7 +716,7 @@ South African Institute of International Affairs
 South Asian Center for Reintegration and Independent Research
 Spark Policy Institute
 SRI International
-St.Petersburg Center for Humanities and Political Studies
+St、Petersburg Center for Humanities and Political Studies
 Stanley Foundation
 Stiftung Neue Verantwortung
 Stimson Center
@@ -719,13 +741,13 @@ The Century Foundation
 The Cobden Centre
 The Conference Board
 The Constitution Society
-The Hampton Institute 已采
+The Hampton Institute
 The Heartland Institute
 The Heritage Foundation
 The Institute for Research on Public Policy (IRPP)
 The Lugar Center
 The North-South Institute (NSI)
-The Peter G.Peterson Foundation
+The Peter G、Peterson Foundation
 The Stimson Center
 The Sydney Institute
 The Takshashila Institution
@@ -759,6 +781,7 @@ Van Leer Jerusalem Institute (VLJI)
 Vienna Institute for International Economic Studies (WIIW)
 Vietnam Institute for American Studies
 Vivekananda International Foundation
+W.E. Upjohn Institute for Employment Resaerch
 Walter Eucken Institut
 Washington Center for Equitable Growth （WEGC）
 WebRoots Democracy

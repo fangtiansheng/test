@@ -1,40 +1,12 @@
 NULL
- Commodity Futures Trading Commission(CFTC)
-Beacon Center of Tennessee
-Canpaign Finance Institute
-Center for an Urban Future
-Center for Financial Inclusion
-Center for International Private Enterprise
-Center for International Trade and Security
-Center for the Study of American Business, Washington University in St. Louis (CSAB)
-Centre for Local Economic Strategies
-concordcoalition
-Corporation for Enterprise Development
-Daiwa Institute of Research Group(DIR)
+Daiwa Institute of Research Group (DIR)
 Department of Homeland Security
-Economic Growth Center, Yale University (EGC)
-Economic Innovation Group
-Egmont Group of Financial Intelligence Units
 European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）
 Federal Reserve Board
-Financial Stability Board
-Global Financial Integrity
 Government Book Talk
 GPO
-Institute of Economics, Russian Academy of Sciences (RAS)
-Institute of Governance and Policy Studies
-Joint  Center for Housing Studies
-Lincoin Instite of Land Policy
-Maine Center for Economic Policy
 nasonline
-Natural Resource Governance Institute
-NORC at the University of Chicago
-Northeast-Midwest Institute
-NUS-East Asian Institute (EAI)
-Political and Economic Research Council
 SenateHouse
 Smith Brandon International Inc
-The Hampton Institute
 The National Academies Press
 The Peter G. Peterson Foundation
-W.E. Upjohn Institute for Employment Resaerch

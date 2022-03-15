@@ -1,0 +1,550 @@
+Alliance for Financial Inclusion (AFI)
+Asian Development Bank (ADB)
+Asian Infrastructure Investment Bank (AIIB)
+Bank for International Settlements (BIS)
+Black Sea Trade and Development Bank (BSTDB)
+Council of Europe Development Bank (CEB)
+Eurasian Development Bank (EDB)
+European Bank for Reconstruction and Development (EBRD)
+European Free Trade Association (EFTA)
+Federation of Euro-Asian Stock Exchanges (FEAS)
+Financial Action Task Force (FATF)
+Inter-American Development Bank (IADB)
+International Bank for Reconstruction and Development (IBRD)
+International Centre for Settlement of Investment Disputes (ICSID)
+International Development Association (IDA)
+International Finance Corporation (IFC)
+International Monetary Fund (IMF)
+Islamic Development Bank (IDB)
+Multilateral Investment Guarantee Agency (MIGA)
+New Development Bank (NDB)
+OPEC Fund for International Development (OFID)
+Organisation for Economic Co-operation and Development (OECD)
+Organization of the Black Sea Economic Cooperation
+United Nations (UN)
+West African Development Bank (WADB)
+World Bank
+World Customs Organization (WCO)
+World Economic Forum
+World Trade Organization (WTO)
+AARP Public Policy Institute
+Adam Smith Foundation
+Arkansas Policy Foundation
+Chicago Community Trust
+Citizens Policy Foundation
+Council On Foundation
+Economic Policy Institute
+Ford Foundation
+Foundation for Rational Economics and Education
+Future of American Democracy Foundation
+Georgia Public Policy Foundation
+Horowitz Foundation For Social Policy
+International Republican Institute
+John William Pope Foundation
+Kettering Foundation
+Land Policy Institute
+MacArthur Foundation
+NASW Foundation
+Netherland-America Foundation
+New York Community Trust
+Oklahoma Policy Institute
+OpenGov Foundation
+Participatory Politics Foundation
+Randolph Foundation
+Rockefeller Institute of Government
+Russell Sage Foundation
+Scaife Foundations
+Silicon Valley Community Foundation
+Smith Richardson Foundation
+Spark Policy Institute
+Stanley Foundation
+Sunlight Foundation
+Texas Public Policy Foundation
+The Boston Foundation
+The U.S.- China Policy Foundation
+Tulsa Community Foundation
+United Nations Foundation
+Commodity Futures Trading Commission(CFTC)
+Congressional Budget Office
+Consumer Financial Protection Bureau (CFPB)
+Council of Economic Advisers
+Department of Commerce
+Department of Homeland Security
+Department of Justice
+Department of State
+Department of the Interior
+Department of the Treasury
+Federal Deposit Insurance Corporation (FDIC)
+Federal Housing Finance Agency
+Federal Reserve Bank of Atlanta
+Federal Reserve Bank of Boston
+Federal Reserve Bank of Chicago
+Federal Reserve Bank of Cleveland
+Federal Reserve Bank of Dallas
+Federal Reserve Bank of Kansas City
+Federal Reserve Bank of Minneapolis
+Federal Reserve Bank of New York
+Federal Reserve Bank of Philadelphia
+Federal Reserve Bank of Richmond
+Federal Reserve Bank of San Francisco
+Federal Reserve Bank of St. Louis
+Federal Reserve Board (FRB)
+Federal Trade Commission (FTC)
+Financial Crimes Enforcement Network (FinCEN)
+General Accountability Office (GAO)
+Government Publishing Office (Catalog of U.S. Government Publications, CGP)
+National Credit Union Administration (NCUA)
+Office of the Comptroller of the Currency (OCC)
+Securities and Exchange Commission (SEC)
+Senate House
+Small Business Administration
+U.S. International Trade Commission (USITC)
+Acton Institute
+Africa Center for Strategic Studies
+Allegheny Institute for Public Policy
+American Enterprise Institute for Public Policy Research (AEI)
+American Foreign Policy Council (AFPC)
+American Institute for Economic Research
+Atlantic Council
+Beacon Hill Institute
+Belfer Center for Science and International Affairs
+Berkeley Roundtable on the International Economy (BRIE)
+Bipartisan Policy Center
+Brookings Institution
+Buckeye Institute
+Cascade Policy Institute
+Cato Institute
+Center for American Progress (CAP)
+Center for Automotive Research (CAR)
+Center for Data Innovation
+Center for Development and Strategy
+Center for Economic and Policy Research (CEPR)
+Center for European Policy Analysis
+Center for Development and Strategy (CDS)
+Center for International Development (CID)
+Center for International Policy
+Center for National Policy (CNP)
+Center for Public Integrity (CPI)
+Center for Strategic and Budgetary Assessments (CSBA)
+Center for Strategic and International Studies (CSIS)
+Center for the National Interest (CFTNI), FKA Nixon Center
+Center on Budget and Policy Priorities (CBPP)
+Center on Global Interests
+Chicago Council on Global Affairs
+Committee for a Responsible Federal Budget (CRFB)
+Committee for Economic Development of The Conference Board（CED）
+Competitive Enterprise Institute (CEI)
+Concord Coalition
+Constitution Project
+Council on Competitiveness
+Council on Foreign Relations (CFR)
+crsreports.congress.gov
+Drum Major Institute for Public Policy (DMI)
+Economic Opportunity Institute (EOI)
+Economic Policy Institute (EPI)
+Employment Policies Institute
+Foreign Policy Initiative
+Foreign Policy Research Institute
+Foundation for Economic Education (FEE)
+Global Trade Analysis Project （GTAP)
+Global Trade Watch
+Group of Thirty
+The Heritage Foundation
+Hispanic American Center for Economic Research (HACER)
+Hoover Institution
+Hudson Institute
+Independence Institute (II)
+Independent Institute
+India, China & America Institute
+Institute for New Economic Thinking (INET)
+Institute for International Policy Studies (IIPS)
+Institute on Taxation and Economic Policy
+Inter-American Dialogue
+J Street
+James A. Baker III Institute for Public Policy
+James Madison Institute
+Joint Center for Political and Economic Studies
+Kansas Policy Institute
+Levy Economics Institute
+Lexington Institute
+Ludwig von Mises Institute
+Mackinac Center for Public Policy
+Manhattan Institute for Policy Research (MI)
+McKinsey Global Institute (MGI)
+Migration Policy Institute
+Milken Institute
+Mossavar-Rahmani Center for Business and Government, Harvard University
+National Bureau of Asian Research
+National Bureau of Economic Research (NBER)
+National Center for Public Policy Research (NCPPR)
+National Policy Institute
+National Venture Capital Association
+New America Foundation
+Open Markets Institute
+Oregon Center for Public Policy
+Pacific Council on International Policy
+Pacific Forum International
+Pacific Research Institute
+Peterson Institute for International Economics (PIIE)
+Pew Research Center
+Pioneer Institute
+Policy Matters Ohio
+Potomac Institute for Policy Studies
+Progressive Policy Institute
+Project for the Study of the 21st Century (PS21)
+Prosperity Now (Corporation for Enterprise Development (CFED))
+Public Policy Institute of California
+RAND Corporation
+Roosevelt Institute Campus Network
+Seven Pillars Institute
+Show-Me Institute
+Tax Foundation
+Tellus Institute
+The Century Foundation
+The Conference Board
+The Hampton Institute
+The Heartland Institute
+The Peter G. Peterson Foundation
+The Washington Institute for Near East Policy
+Third Way
+Thomas B. Fordham Institute
+United States Institute of Peace
+Urban Institute
+US-China Economic and Security Review Commission (USCC)
+Washington Center for Equitable Growth （WEGC）
+Wilson Center, FKA Woodrow Wilson International Center for Scholars
+World Affairs Councils of America
+Yale Center for the Study of Globalization
+Adam Smith Institute (ASI)
+Africa Research Institute (ARI)
+Bow Group
+Brand EU
+CANZUK International
+Centre for Cities
+Centre for Economic and Social Inclusion
+Centre for Economic Policy Research (CEPR)
+Centre for London
+Centre for Policy Studies (CPS)
+Centre for Progressive Capitalism
+Centre for Strategic Research and Analysis (CESRAN)
+Centre for the Economics of Education (CEE)
+Chatham House
+City Mayors Foundation
+Development Initiatives
+Economist Intelligence Unit (EIU)
+Foreign Policy Centre (FPC)
+Institute for Development Studies
+Institute for Fiscal Studies (IFS)
+Institute for Government
+Institute for Public Policy Research
+Institute for Strategic Dialogue
+Institute of Economic Affairs (IEA)
+International Institute for Strategic Studies (IISS)
+Joseph Rowntree Foundation
+Legatum Institute
+Localis
+LSE IDEAS
+National Institute of Economic and Social Research
+New City Initiative
+New Economics Foundation
+New Policy Institute
+Open Europe
+Overseas Development Institute (ODI)
+Oxford Council on Good Governance (OCGG)
+Polar Research and Policy Initiative
+Policy Connect
+Policy Exchange
+Policy Network
+Policy Studies Institute
+Politeia
+Progress
+Reform
+Science Policy Research Unit
+Scottish Global Forum
+Selsdon Group
+Social Market Foundation
+Tax payers Alliance
+The Centre for Cross Border Studies
+The Cobden Centre
+United Nations Association – UK
+Z/Yen
+Asia Pacific Foundation of Canada (APF Canada)
+Atlantic Institute for Market Studies (AIMS)
+Atlantic Provinces Economic Council
+Broadbent Institute
+C.D. Howe Institute
+Caledon Institute of Social Policy
+Canada 2020
+Canada West Foundation
+Canadian Centre for Policy Alternatives (CCPA)
+Canadian Global Affairs Institute
+Canadian International Council (CIC)
+China Institute
+Conference Board of Canada
+Eco-Fiscal Commission
+Fraser Institute
+Frontier Centre for Public Policy (FCPP)
+The Institute for Research on Public Policy (IRPP)
+International Institute for Sustainable Development (IISD)
+Macdonald–Laurier Institute (MLI)
+Montreal Economic Institute (MEI)
+Mowat Center
+Pembina Institute
+Public Policy Forum (PPF)
+The North-South Institute (NSI)
+Asia Pacific Initiative
+Asian Development Bank Institute (ADBI)
+Canon Institute for Global Studies
+Economic and Social Research Institute
+Economic Research Institute for Northeast Asia (ERINA)
+Fujitsu Research Institute（FRI）
+Genron NPO (言論ＮＰＯ)
+Hitachi Research Institute（HRI)
+Institute for International Socio-Economic Studies (IISE)
+Institute of Developing Economies, Japan External Trade Organization (IDEJETRO)
+Institute of Energy Economics, Japan (IEEJ)
+Japan Center for Economic Research (JCER)
+Japan Institute of International Affairs (JIIA)
+Mitsubishi UFJ Research and Consulting
+Mizuho Research Institute
+Nakasone Yasuhiro Peace Institute
+National Institute for Research Advancement
+NLI Research Institute
+Nomura Research Institute （NRI）
+Research Institute of Economy, Trade and Industry (RIETI)
+Sumitomo Mitsui Trust Research Institute
+United Nations University (UNU)
+Atlantic Community
+Center for European Economic Research (ZEW)
+Centre for European Policy
+Centre for Global Cooperation Research
+Duesseldorf Center for Competition Economics (DICE)
+German Council on Foreign Relations
+German Development Institute (DIE)
+German Institute for Economic Research (DIW)
+Heinrich Böll Foundation
+Ifo Institute - Leibniz Institute for Economic Research
+Institute for Ecological Economy Research (IÖW)
+Institute of Labor Economics (IZA)
+Kiel Institute for the World Economy (IfW)
+Macroeconomic Policy Institute (IMK)
+Stiftung Neue Verantwortung
+Walter Eucken Institut
+Australian Institute of International Affairs (AIIA)
+Australian Strategic Policy Institute (ASPI)
+Centre for Independent Studies (CIS)
+Grattan Institute
+Institute for Economics and Peace (IEP)
+Institute for Regional Security
+Institute of Public Affairs (IPA)
+Lowy Institute
+Mannkal Economic Education Foundation
+Per Capita
+Prosper Australia
+The Australia Institute
+United States Studies Centre
+Centre for Internet and Society (CIS)
+Centre for the Study of Developing Societies (CSDS)
+Chennai Centre for China Studies
+Delhi Policy Group (DPG)
+Development Alternatives (DA)
+Foundation for Democratic Reforms
+Gateway House: Indian Council on Global Relations
+India Council for Research on International Economic Relations(ICRIER)
+India Foundation
+Indian Council of World Affairs (ICWA)
+Indira Gandhi Institute of Development Research (IGIDR)
+Institute for Public Enterprise
+Institute of Economic Growth (IEG)
+Integrated Research and Action for Development (IRADe)
+National Council of Applied Economic Research (NCAER)
+Observer Research Foundation (ORF)
+Vivekananda International Foundation
+Applied Economics Research Centre
+Area Study Centre for Far East and Southeast Asia (FESEA)
+Center for Research on Economic and Social Transformation (CREST)
+Institute of Policy Studies
+Institute of Regional Studies
+Institute of Strategic Studies Islamabad
+Islamabad Policy Research Institute
+Pakistan Institute of Development Economics
+Pakistan Institute of International Affairs
+Policy Research Institute of Market Economy
+Social Policy and Development Centre
+Sustainable Development Policy Institute
+Bruegel
+Centre for European Policy Studies (CEPS)
+EGMONT – The Royal Institute for International Relations
+Egmont Group of Financial Intelligence Units
+European Centre for International Political Economy (ECIPE)
+European Policy Centre (EPC)
+Foundation for European Progressive Studies (FEPS)
+Friends of Europe
+Itinera Institute
+Lisbon Council for Economic Competitiveness and Social Renewal
+Avinoam Bar, FKA Jewish People Policy Institute (JPPPI)
+Institute for National Security Studies (INSS)
+Israel Democracy Institute
+Jerusalem Institute for Market Studies
+Jerusalem Institute for Policy Research (JIPR)
+Kohelet Policy Forum
+Maurice Falk Institute for Economic Research
+Van Leer Jerusalem Institute (VLJI)
+Center for Economic Analysis (CenEA)
+Center for International Relations (CIR)
+Center for Social and Economic Research (CASE)
+Centre for Eastern Studies
+Fundacja Forum Obywatelskiego Rozwoju (FOR)
+Institute of Economics
+Jagiellonian Club's Centre of Analysis
+Kosciuszko Institute
+National Institute for Strategic Studies
+Polish Institute of International Affairs (PISM)
+The Casimir Pulaski Foundation
+WISE Europa
+Analytical Center for the Government of the Russian Federation
+Center for Fiscal Policy (CFP)
+Center for Economic and Financial Research (CEFIR)
+Gaidar Institute for Economic Policy (IEP)
+Institute for Urban Economics (IUE)
+Institute for US and Canadian Studies
+Moscow State Institute of International Relations (MGIMO)
+Primakov Institute of World Economy and International Relations (IMEMO)
+Russian International Affairs Council (RIAC)
+Valdai Discussion Club
+Centre d'Etudes et de Recherches Internationales (CERI)
+Centre d'Etudes Prospectives et d'Informations Internationales (CEPII)
+Fondation pour la Recherche Strategique (FRS)
+Fondation pour les Études et Recherches sur le Dévelopmment Internationale
+French Institute of International Relations（IFRI)
+Gracques
+Institut Choiseul for International Politics and Geoeconomics
+Institut Montaigne
+Institute for Research in Economic and Fiscal Issues (IREF)
+Institute for Sustainable Development and International Relations
+Jacques Delors Institute
+Istituto Bruno Leoni (IBL)
+Centro Studi Internazionali (Ce.S.I.)
+European University Institute
+Future Italy
+Fondazione Eni Enrico Mattei (FEEM)
+Institute for International Political Studies (ISPI)
+Institute of International Affairs
+Torino World Affairs Institute
+Trinità dei Monti
+Captus
+Institute for International Economic Studies (IIES)
+Ratio Institute
+Clingendael, Netherlands Institute of International Relations
+European Centre for Development Policy Management (ECDPM)
+Netherlands Bureau for Economic Policy Analysis (CPB)
+Netherlands Institute for Multiparty Democracy
+International Strategic Research Organization
+Association for Liberal Thinking (ALT)
+Centre for Economics and Foreign Policy Studies (EDAM)
+Economic Policy Research Foundation of Turkey
+GPoT Center
+Istanbul Policy Center
+Turkish Economic and Social Studies Foundation
+Asia Competitiveness Institute (ACI)
+Centre on Asia and Globalisation
+Institute of Southeast Asian Studies (ISEAS)
+S. Rajaratnam School of International Studies
+Singapore Institute of International Affairs (SIIA)
+Maxim Institute
+Centre for Strategic Studies New Zealand
+New Zealand Initiative
+New Zealand Institute of International Affairs (NZIIA)
+Consejo Argentino para las Relaciones Internacionales (CARI)
+Fundación de Investigaciones Económicas Latinoamericanas (FIEL)
+Latin American Security and Defence Network (RESDAL)
+Center for Economic and Social Development (CESD)
+Egyptian Center for Economic Studies (ECES)
+Economic and Social Research Institute (ESRI)
+Institute of International and European Affairs
+Austrian Institute of Economic Research (WIFO)
+BRICS Policy Center
+Fundacao Getulio Vargas (FGV)
+Institute of Applied Economic Research
+Botswana Institute for Development Policy Analysis (BIDPA)
+Centre for Political Studies (CEPOS)
+Danish Institute for International Studies (DIIS)
+Copenhagen Institute for Futures Studies
+Ateneo Center for Economic Research and Development (ACERD)
+Initiatives for International Dialogue (IID)
+Finnish Institute of International Affairs (FIIA)
+Research Institute of the Finnish Economy (ETLA)
+Fedesarrollo
+Georgian Foundation for Strategic and International Studies
+New Economic School – Georgia
+Institute of World Economics and Politics (IWEP)
+Kazakhstan Institute for Strategic Studies (KazISS)
+Asan Institute for Policy Studies
+Korea Development Institute (KDI)
+Korea Economic Research Institute
+Korea Institute for Industrial Economics and Trade (KIET)
+Korea Institute for International Economic Policy (KIEP)
+African Economic Research Consortium (AERC)
+Kenya Institute for Public Policy Research and Analysis (KIPPRA)
+Bangladesh Institute of Development Studies (BIDS)
+Centre for Policy Dialogue (CPD)
+International Growth Centre (IGC)
+Center of Research for Development (CIDAC)
+Centre for Development and Enterprise
+Free Market Foundation
+NHH Norwegian School of Economics
+Avenir Suisse
+Foraus
+Economics Institute
+Lakshman Kadirgamar Institute of International Relations and Strategic Studies
+Institute of Policy Studies of Sri Lanka (IPS)
+Centre for Poverty Analysis (CEPA)
+International Centre for Policy Studies
+Barcelona Centre for International Affairs
+EuroMeSCo
+Fundación Alternativas
+Fundacion para el Analisis y los Estudios Sociales (FAES)
+Real Instituto Elcano
+Centre of Planning and Economic Research
+Hellenic Foundation for European and Foreign Policy
+Millennium Institute
+Centre for Strategic and International Studies
+Economic Research Institute for ASEAN and East Asia (ERIA)
+Institute of National Capacity Studies (INCS)
+Centro de Estudios Publicos (CEP)
+Libertad y Desarrollo (LyD)
+African Development Bank (AfDB)
+Atlas Network
+McCain Institute
+Mercatus Center
+SRI International
+Beacon Center of Tennessee
+Canpaign Finance Institute
+Center for Financial Inclusion
+Center for International Private Enterprise
+Center for International Trade and Security
+Center for the Study of American Business, Washington University in St. Louis (CSAB)
+Center for an Urban Future
+Corporation for Enterprise Development
+Economic Growth Center, Yale University (EGC)
+Economic Innovation Group
+Global Financial Integrity
+Joint  Center for Housing Studies
+Lincoin Instite of Land Policy
+Maine Center for Economic Policy
+Natural Resource Governance Institute
+NORC at the University of Chicago
+Northeast-Midwest Institute
+Political and Economic Research Council
+W.E. Upjohn Institute for Employment Resaerch
+Centre for Local Economic Strategies
+Institute of Economics, Russian Academy of Sciences (RAS)
+NUS-East Asian Institute (EAI)
+Institute of Governance and Policy Studies
+Samsung Economic Research Institute (SERI)
+Financial Stability Board
+Daiwa Institute of Research Group (DIR)
+Center for International Policy Studies
+European House - Ambrosetti
+Institute of Strategic and International Studies (ISIS)
+Making Our Economy Right (MOER)
