@@ -266,7 +266,6 @@ Economic Research Institute for ASEAN and East Asia (ERIA)
 Economic Research Institute for Northeast Asia (ERINA)
 Economics Institute
 Economist Intelligence Unit (EIU)
-The Peter G. Peterson Foundation
 Edmund Burke Foundation
 EGMONT – The Royal Institute for International Relations
 Egmont Group of Financial Intelligence Units
@@ -748,7 +747,7 @@ The Heritage Foundation
 The Institute for Research on Public Policy (IRPP)
 The Lugar Center
 The North-South Institute (NSI)
-The Peter G、Peterson Foundation
+The Peter G. Peterson Foundation
 The Stimson Center
 The Sydney Institute
 The Takshashila Institution
