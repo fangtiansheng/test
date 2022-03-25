@@ -21,3 +21,5 @@
 正常采集数据
 
 ctime   gtime 在最新batch_date附近timedelta小于批次间隔的
+
+用标签即可
