@@ -22,6 +22,7 @@ select count(*) from think_tank_detail2 WHERE website="Congress";
 
 select count(DISTINCT url_id) from think_tank_detail2 WHERE website="Congress";
 select * from think_tank_detail2 where run_id = "396896276207112192";
+select * from think_tank_detail2 where run_id = "397287917719916544";
 # 该批次为crsreports.congress.gov采集的PDF, 约7千多条, 1500多秒
 select * from think_tank_detail2 where website="Congress" and extra='{"media_type": "pdf"}' limit 10;
 # 测试有数据返回,大约200多秒, 返回的都是上面的run_id
