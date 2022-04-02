@@ -1,0 +1,10 @@
+{
+    'loc.gov',
+    'Daiwa Institute of Research Group(DIR)',
+    'federal Reserve Bank of Cleveland',
+    'crsreports.congress.gov',
+    'everycrsreport.com',
+    'National Bureau of Economic Research',
+    'data.gov',
+    'Georgia Public Policy Foundation'
+}
