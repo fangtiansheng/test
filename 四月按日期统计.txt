@@ -1,0 +1,4070 @@
+SELECT DISTINCT DATE_FORMAT(DATE(ctime),"%Y-%m-%d") as date, count(*) as total from think_tank_detail2 where website = "U.S. International Trade Commission (USITC)" AND batch_date > "2022-04-01" GROUP BY ctime HAVING date > "2022-03-01" or date is null OR date="0000-00-00" ORDER BY date desc
+
+
+Institute of Economy of the Russian Academy of Sciences (EDIRC) 889306
+[{'date': None, 'total': 1404}]
+Congress 607280
+[{'date': '0000-00-00', 'total': 10044}]
+Organisation for Economic Co-operation and Development (OECD) 277759
+[{'date': None, 'total': 9}]
+General Accountability Office (GAO) 254911
+()
+International Bank for Reconstruction and Development (IBRD) 162245
+[
+    {'date': '2022-04-15', 'total': 7},
+    {'date': '2022-04-14', 'total': 24},
+    {'date': '2022-04-13', 'total': 9},
+    {'date': '2022-04-12', 'total': 10},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-08', 'total': 6},
+    {'date': '2022-04-07', 'total': 14},
+    {'date': '2022-04-06', 'total': 22},
+    {'date': '2022-04-05', 'total': 12},
+    {'date': '2022-04-04', 'total': 15},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-01', 'total': 10},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-31', 'total': 13},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '0000-00-00', 'total': 750},
+    {'date': None, 'total': 202}
+]
+United Nations (UN) 151228
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 2},
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-14', 'total': 21},
+    {'date': '2022-04-13', 'total': 27},
+    {'date': '2022-04-12', 'total': 22},
+    {'date': '2022-04-11', 'total': 17},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 17},
+    {'date': '2022-04-07', 'total': 17},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-04-05', 'total': 11},
+    {'date': '2022-04-04', 'total': 21},
+    {'date': '2022-04-03', 'total': 2},
+    {'date': '2022-04-02', 'total': 2},
+    {'date': '2022-04-01', 'total': 19},
+    {'date': '2022-03-31', 'total': 17},
+    {'date': '2022-03-30', 'total': 11},
+    {'date': '2022-03-23', 'total': 19},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': None, 'total': 67}
+]
+nasonline 148221
+()
+Federal Reserve Board (FRB) 128685
+[
+    {'date': '2022-04-15', 'total': 5},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 14},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-08', 'total': 8},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-06', 'total': 10},
+    {'date': '2022-04-05', 'total': 5},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 13},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-25', 'total': 2},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-10', 'total': 7},
+    {'date': '2022-03-02', 'total': 7},
+    {'date': '0000-00-00', 'total': 31},
+    {'date': None, 'total': 797}
+]
+Center for American Progress (CAP) 108250
+[
+    {'date': '2022-04-13', 'total': 8},
+    {'date': '2022-04-12', 'total': 31},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-07', 'total': 8},
+    {'date': '2022-04-06', 'total': 12},
+    {'date': '2022-04-05', 'total': 16},
+    {'date': '2022-04-04', 'total': 11},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 12},
+    {'date': '2022-03-30', 'total': 8},
+    {'date': '2022-03-29', 'total': 14},
+    {'date': '2022-03-28', 'total': 6},
+    {'date': '2022-03-27', 'total': 3},
+    {'date': '2022-03-25', 'total': 11},
+    {'date': '2022-03-24', 'total': 8},
+    {'date': '2022-03-23', 'total': 21},
+    {'date': '2022-03-22', 'total': 6},
+    {'date': '2022-03-21', 'total': 8},
+    {'date': '2022-03-18', 'total': 3},
+    {'date': '2022-03-16', 'total': 3},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-14', 'total': 11},
+    {'date': '2022-03-10', 'total': 19},
+    {'date': '2022-03-09', 'total': 7},
+    {'date': '2022-03-08', 'total': 8},
+    {'date': '2022-03-07', 'total': 3},
+    {'date': '2022-03-04', 'total': 14},
+    {'date': '2022-03-03', 'total': 20},
+    {'date': '2022-03-02', 'total': 19}
+]
+Department of the Interior 93088
+[
+    {'date': '2022-04-15', 'total': 4},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-07', 'total': 1},
+    {'date': None, 'total': 2147}
+]
+Edmund Burke Foundation 90880
+()
+Asian Development Bank (ADB) 81843
+()
+ 78573
+[{'date': None, 'total': 838}]
+World Bank 75716
+[
+    {'date': '2024-06-06', 'total': 1},
+    {'date': '2022-05-24', 'total': 1},
+    {'date': '2022-04-21', 'total': 1},
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-18', 'total': 5},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-13', 'total': 10},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 4},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-28', 'total': 2},
+    {'date': '2022-03-27', 'total': 1},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-23', 'total': 1},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-03', 'total': 1}
+]
+GlobalSecurity 74965
+[
+    {'date': '2022-04-15', 'total': 32},
+    {'date': '2022-04-14', 'total': 86},
+    {'date': '2022-04-13', 'total': 104},
+    {'date': '2022-04-12', 'total': 89},
+    {'date': '2022-04-11', 'total': 78},
+    {'date': '2022-04-10', 'total': 40},
+    {'date': '2022-04-09', 'total': 32},
+    {'date': '2022-04-08', 'total': 98},
+    {'date': '2022-04-07', 'total': 122},
+    {'date': '2022-04-06', 'total': 121},
+    {'date': '2022-04-05', 'total': 96},
+    {'date': '2022-04-04', 'total': 84},
+    {'date': '2022-04-03', 'total': 43},
+    {'date': '2022-04-02', 'total': 43},
+    {'date': '2022-04-01', 'total': 104},
+    {'date': '2022-03-31', 'total': 113},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-25', 'total': 12},
+    {'date': '2022-03-21', 'total': 6},
+    {'date': '2022-03-16', 'total': 12},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-11', 'total': 6},
+    {'date': '2022-03-10', 'total': 6},
+    {'date': '2022-03-08', 'total': 6},
+    {'date': '2022-03-03', 'total': 6},
+    {'date': '0000-00-00', 'total': 784}
+]
+Atlantic Council 65953
+()
+National Bureau of Economic Research (NBER) 55732
+()
+Office of the Comptroller of the Currency (OCC) 55614
+()
+Amnesty International (AI) 52578
+()
+Department of Justice 45724
+[
+    {'date': '2022-04-15', 'total': 5},
+    {'date': '2022-04-14', 'total': 10},
+    {'date': '2022-04-13', 'total': 11},
+    {'date': '2022-04-12', 'total': 11},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-08', 'total': 10},
+    {'date': '2022-04-07', 'total': 8},
+    {'date': '2022-04-06', 'total': 15},
+    {'date': '2022-04-05', 'total': 7},
+    {'date': '2022-04-04', 'total': 7},
+    {'date': '2022-04-01', 'total': 12},
+    {'date': '2022-03-31', 'total': 8},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-22', 'total': 1},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': None, 'total': 7}
+]
+Securities and Exchange Commission (SEC) 44400
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': None, 'total': 23063}
+]
+Canadian Global Affairs Institute 42567
+[{'date': '2022-04-08', 'total': 1}, {'date': None, 'total': 40133}]
+Jamestown Foundation 41902
+()
+Federal Trade Commission (FTC) 37430
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-09', 'total': 1},
+    {'date': '2022-03-06', 'total': 1},
+    {'date': '2022-03-04', 'total': 1},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': None, 'total': 807}
+]
+Cato Institute 36108
+()
+RAND Corporation 28946
+[
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 4},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-05', 'total': 4},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 13},
+    {'date': '2022-03-30', 'total': 9},
+    {'date': '2022-03-29', 'total': 4},
+    {'date': '2022-03-11', 'total': 1},
+    {'date': '0000-00-00', 'total': 1}
+]
+Heartland Institute 27637
+()
+Foundation for Economic Education (FEE) 27030
+()
+Center for European Economic Research (ZEW) 26740
+[
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-05', 'total': 5},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-30', 'total': 4},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-25', 'total': 3},
+    {'date': '2022-03-24', 'total': 4},
+    {'date': '2022-03-24', 'total': 2},
+    {'date': '2022-03-23', 'total': 3},
+    {'date': '2022-03-23', 'total': 5},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-21', 'total': 4},
+    {'date': '2022-03-16', 'total': 4},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-15', 'total': 4},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-11', 'total': 5},
+    {'date': '2022-03-10', 'total': 6},
+    {'date': '2022-03-09', 'total': 5},
+    {'date': '2022-03-07', 'total': 6},
+    {'date': '2022-03-03', 'total': 4},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': '2022-03-02', 'total': 1},
+    {'date': None, 'total': 9181}
+]
+Wilson Center, FKA Woodrow Wilson International Center for Scholars 25877
+()
+Mackinac Center for Public Policy 25762
+[
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '0000-00-00', 'total': 23}
+]
+The Heritage Foundation 25523
+()
+African Development Bank (AfDB) 24735
+[
+    {'date': '2022-04-15', 'total': 13},
+    {'date': '2022-04-14', 'total': 9},
+    {'date': '2022-04-13', 'total': 12},
+    {'date': '2022-04-12', 'total': 26},
+    {'date': '2022-04-11', 'total': 19},
+    {'date': '2022-04-09', 'total': 2},
+    {'date': '2022-04-08', 'total': 11},
+    {'date': '2022-04-07', 'total': 12},
+    {'date': '2022-04-06', 'total': 18},
+    {'date': '2022-04-05', 'total': 6},
+    {'date': '2022-04-04', 'total': 13},
+    {'date': '2022-04-01', 'total': 24},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-08', 'total': 1}
+]
+U.S. International Trade Commission (USITC) 23761
+[
+    {'date': '2022-04-18', 'total': 6},
+    {'date': '2022-04-15', 'total': 4},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 46},
+    {'date': '2022-04-11', 'total': 13},
+    {'date': '2022-04-08', 'total': 15},
+    {'date': '2022-04-06', 'total': 21},
+    {'date': '2022-04-04', 'total': 7},
+    {'date': '2022-04-01', 'total': 53},
+    {'date': '2022-03-31', 'total': 23},
+    {'date': '2022-03-30', 'total': 28},
+    {'date': '2022-03-29', 'total': 21},
+    {'date': '2022-03-28', 'total': 49},
+    {'date': '2022-03-25', 'total': 14},
+    {'date': '2022-03-24', 'total': 21},
+    {'date': '2022-03-23', 'total': 14},
+    {'date': '2022-03-22', 'total': 11},
+    {'date': '2022-03-21', 'total': 6},
+    {'date': '2022-03-18', 'total': 35},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '2022-03-15', 'total': 3},
+    {'date': '2022-03-14', 'total': 10},
+    {'date': '2022-03-13', 'total': 3},
+    {'date': '2022-03-12', 'total': 3},
+    {'date': '2022-03-11', 'total': 3},
+    {'date': '2022-03-07', 'total': 13},
+    {'date': '0000-00-00', 'total': 35},
+    {'date': None, 'total': 335}
+]
+Federal Reserve Bank of New York 23376
+[
+    {'date': '2022-05-06', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '0000-00-00', 'total': 1},
+    {'date': None, 'total': 23}
+]
+International Monetary Fund (IMF) 22919
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 7},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 13},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 4},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-04-01', 'total': 6},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-25', 'total': 1}
+]
+Independent Institute 22774
+()
+American Enterprise Institute for Public Policy Research (AEI) 22723
+()
+Africa Center for Strategic Studies 22710
+[{'date': '2022-04-12', 'total': 2}, {'date': '0000-00-00', 'total': 1}]
+The Heartland Institute 22416
+()
+New America Foundation 21906
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 8},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-03-31', 'total': 4},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': None, 'total': 16}
+]
+Congressional Budget Office 21590
+[
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-08', 'total': 6},
+    {'date': '2022-04-07', 'total': 12},
+    {'date': '2022-04-06', 'total': 7},
+    {'date': '2022-04-05', 'total': 6},
+    {'date': '2022-04-04', 'total': 13},
+    {'date': '2022-04-01', 'total': 19},
+    {'date': '2022-03-31', 'total': 12},
+    {'date': '2022-03-30', 'total': 13},
+    {'date': '2022-03-29', 'total': 14},
+    {'date': '2022-03-28', 'total': 20},
+    {'date': '2022-03-25', 'total': 13},
+    {'date': '2022-03-24', 'total': 34},
+    {'date': '2022-03-23', 'total': 13},
+    {'date': '2022-03-22', 'total': 8},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-18', 'total': 2},
+    {'date': '2022-03-17', 'total': 2},
+    {'date': '2022-03-16', 'total': 1}
+]
+Center for Turkey's Economic and Strategic Studies 21251
+()
+Inter-American Development Bank (IADB) 20770
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '0000-00-00', 'total': 34}
+]
+Commodity Futures Trading Commission(CFTC) 20341
+[
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': None, 'total': 212}
+]
+Allegheny Institute for Public Policy 20316
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '0000-00-00', 'total': 115},
+    {'date': None, 'total': 16166}
+]
+African Centre for Development and Strategic Studies 20303
+()
+Bank for International Settlements (BIS) 20297
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '0000-00-00', 'total': 1}
+]
+Competitive Enterprise Institute (CEI) 19291
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+Acton Institute 18838
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': None, 'total': 1}
+]
+American Institute for Economic Research 18646
+[
+    {'date': '2022-04-16', 'total': 2},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-15', 'total': 4},
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-10', 'total': 2},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-09', 'total': 3},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 4},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-04-03', 'total': 2},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-02', 'total': 2},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 5}
+]
+Center for Strategic and International Studies (CSIS) 18489
+()
+Manhattan Institute for Policy Research (MI) 18126
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-15', 'total': 8},
+    {'date': '2022-04-14', 'total': 24},
+    {'date': '2022-04-13', 'total': 18},
+    {'date': '2022-04-12', 'total': 30},
+    {'date': '2022-04-11', 'total': 24},
+    {'date': '2022-04-10', 'total': 11},
+    {'date': '2022-04-08', 'total': 34},
+    {'date': '2022-04-07', 'total': 21},
+    {'date': '2022-04-06', 'total': 9},
+    {'date': '2022-04-05', 'total': 18},
+    {'date': '2022-04-04', 'total': 12},
+    {'date': '2022-04-03', 'total': 3},
+    {'date': '2022-04-01', 'total': 16},
+    {'date': '2022-03-31', 'total': 9},
+    {'date': '2022-03-30', 'total': 7},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-28', 'total': 6},
+    {'date': '2022-03-27', 'total': 4},
+    {'date': '2022-03-26', 'total': 1},
+    {'date': '2022-03-25', 'total': 4}
+]
+Federal Reserve Bank of Minneapolis 18087
+[
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-03-17', 'total': 6},
+    {'date': '2022-03-07', 'total': 11},
+    {'date': '0000-00-00', 'total': 3},
+    {'date': None, 'total': 1110}
+]
+German Institute for Economic Research (DIW) 17854
+[{'date': None, 'total': 7}]
+Global Trade Watch 17820
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 4},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '0000-00-00', 'total': 5},
+    {'date': None, 'total': 28}
+]
+Financial Conduct Authority 17718
+()
+Belfer Center for Science and International Affairs 17679
+[
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-25', 'total': 2},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-23', 'total': 1},
+    {'date': '2022-03-22', 'total': 3},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-17', 'total': 1}
+]
+Institute of Labor Economics (IZA) 17676
+[
+    {'date': '2022-09-01', 'total': 4},
+    {'date': '2022-04-28', 'total': 1},
+    {'date': '2022-04-16', 'total': 5},
+    {'date': '2022-04-15', 'total': 12},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 12},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-03-05', 'total': 5},
+    {'date': '0000-00-00', 'total': 3}
+]
+Department of the Treasury 17359
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': None, 'total': 3269}
+]
+Conference Board of Canada 17337
+()
+Federal Reserve Bank of Cleveland 17330
+[
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-03-29', 'total': 3},
+    {'date': '2022-03-28', 'total': 11},
+    {'date': '2022-03-24', 'total': 13},
+    {'date': '2022-03-23', 'total': 16},
+    {'date': '2022-03-22', 'total': 14},
+    {'date': '2022-03-21', 'total': 2},
+    {'date': '2022-03-17', 'total': 4},
+    {'date': '2022-03-16', 'total': 7},
+    {'date': '2022-03-04', 'total': 2},
+    {'date': '2022-03-03', 'total': 7},
+    {'date': '2022-03-02', 'total': 6},
+    {'date': '0000-00-00', 'total': 1485},
+    {'date': None, 'total': 7}
+]
+Ludwig von Mises Institute 17297
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 4},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-10', 'total': 2},
+    {'date': '2022-04-09', 'total': 4},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-07', 'total': 4},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-02', 'total': 5},
+    {'date': '2022-04-01', 'total': 6},
+    {'date': '2022-03-31', 'total': 4}
+]
+Federal Reserve Bank of Dallas 17208
+[
+    {'date': '2022-06-29', 'total': 3},
+    {'date': '0000-00-00', 'total': 61},
+    {'date': None, 'total': 226}
+]
+Federal Reserve Bank of Atlanta 16631
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '0000-00-00', 'total': 203},
+    {'date': None, 'total': 42}
+]
+World Trade Organization (WTO) 16239
+[
+    {'date': '2022-06-07', 'total': 5},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-29', 'total': 6},
+    {'date': '2022-03-23', 'total': 5},
+    {'date': '2022-03-21', 'total': 5},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-08', 'total': 5},
+    {'date': '0000-00-00', 'total': 161},
+    {'date': None, 'total': 1868}
+]
+Small Business Administration 16105
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-29', 'total': 2},
+    {'date': '2022-03-28', 'total': 2},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '0000-00-00', 'total': 203},
+    {'date': None, 'total': 120}
+]
+MacArthur Foundation 16090
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 1}
+]
+Centre for European Policy Studies (CEPS) 15992
+[
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-30', 'total': 4},
+    {'date': '2022-03-29', 'total': 8},
+    {'date': '2022-03-24', 'total': 4},
+    {'date': '2022-03-23', 'total': 4},
+    {'date': '2022-03-21', 'total': 4},
+    {'date': '2022-03-18', 'total': 4},
+    {'date': '2022-03-15', 'total': 8},
+    {'date': '2022-03-14', 'total': 4},
+    {'date': '2022-03-11', 'total': 8},
+    {'date': '2022-03-10', 'total': 4},
+    {'date': '2022-03-09', 'total': 4}
+]
+Public Citizen 15036
+()
+Observer Research Foundation (ORF) 14806
+()
+Center for Development and Strategy (CDS) 14375
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 13},
+    {'date': '2022-04-06', 'total': 13},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 21},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-29', 'total': 4},
+    {'date': '2022-03-28', 'total': 2},
+    {'date': '2022-03-23', 'total': 8},
+    {'date': '2022-03-18', 'total': 7},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-14', 'total': 8},
+    {'date': '2022-03-11', 'total': 2},
+    {'date': '2022-03-08', 'total': 2},
+    {'date': '2022-03-07', 'total': 9},
+    {'date': '2022-03-04', 'total': 7},
+    {'date': '2022-03-03', 'total': 6},
+    {'date': '0000-00-00', 'total': 84},
+    {'date': None, 'total': 127}
+]
+Urban Institute 14099
+[
+    {'date': '2022-04-19', 'total': 3},
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-14', 'total': 5},
+    {'date': '2022-04-13', 'total': 7},
+    {'date': '2022-04-12', 'total': 13},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-07', 'total': 8},
+    {'date': '2022-04-06', 'total': 14},
+    {'date': '2022-04-05', 'total': 15},
+    {'date': '2022-04-04', 'total': 6},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 27},
+    {'date': '2022-03-30', 'total': 39},
+    {'date': '2022-03-29', 'total': 6},
+    {'date': '2022-03-28', 'total': 3},
+    {'date': '2022-03-24', 'total': 33},
+    {'date': '2022-03-23', 'total': 9},
+    {'date': '2022-03-22', 'total': 6},
+    {'date': '2022-03-21', 'total': 9},
+    {'date': '2022-03-18', 'total': 6},
+    {'date': '2022-03-17', 'total': 12},
+    {'date': '2022-03-16', 'total': 6},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': '2022-03-11', 'total': 10},
+    {'date': '2022-03-10', 'total': 8},
+    {'date': '2022-03-09', 'total': 5},
+    {'date': '2022-03-08', 'total': 4},
+    {'date': '2022-03-07', 'total': 2},
+    {'date': '2022-03-04', 'total': 5},
+    {'date': '2022-03-03', 'total': 4},
+    {'date': '2022-03-02', 'total': 1}
+]
+Adam Smith Institute (ASI) 14099
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 2}
+]
+Korea Development Institute (KDI) 13968
+[
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-03-21', 'total': 2},
+    {'date': '2022-03-08', 'total': 2},
+    {'date': '2022-03-02', 'total': 2},
+    {'date': '0000-00-00', 'total': 2189}
+]
+Institute for Development Studies 13954
+[
+    {'date': '2022-04-28', 'total': 1},
+    {'date': '2022-04-25', 'total': 1},
+    {'date': '2022-04-21', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 4},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '0000-00-00', 'total': 1},
+    {'date': None, 'total': 90}
+]
+Carnegie Endowment for International Peace (CEIP) 13869
+()
+Federal Reserve Bank of Boston 13468
+[
+    {'date': '2022-04-13', 'total': 6},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-21', 'total': 5},
+    {'date': '0000-00-00', 'total': 1660},
+    {'date': None, 'total': 128}
+]
+Deutsches Institut für Wirtschaftsforschung (DIW) 13374
+()
+Reason Foundation 13260
+()
+Department of State 13248
+[
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 6},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-14', 'total': 19},
+    {'date': '2022-04-13', 'total': 15},
+    {'date': '2022-04-12', 'total': 17},
+    {'date': '2022-04-11', 'total': 12},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 11},
+    {'date': '2022-04-07', 'total': 20},
+    {'date': '2022-04-06', 'total': 19},
+    {'date': '2022-04-05', 'total': 20},
+    {'date': '2022-04-04', 'total': 21},
+    {'date': '2022-04-03', 'total': 10},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 22},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-31', 'total': 9},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': None, 'total': 162}
+]
+Center for Economic and Policy Research (CEPR) 13112
+()
+European University Institute 13050
+[
+    {'date': '2022-04-08', 'total': 32},
+    {'date': '2022-04-07', 'total': 22},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-05', 'total': 25},
+    {'date': '2022-04-04', 'total': 16},
+    {'date': '2022-04-03', 'total': 11},
+    {'date': '2022-04-02', 'total': 12},
+    {'date': '2022-04-01', 'total': 67},
+    {'date': '2022-03-31', 'total': 23},
+    {'date': '2022-03-30', 'total': 20},
+    {'date': '2022-03-29', 'total': 62},
+    {'date': '2022-03-28', 'total': 31},
+    {'date': '2022-03-27', 'total': 8},
+    {'date': '2022-03-26', 'total': 31},
+    {'date': '2022-03-25', 'total': 37},
+    {'date': '2022-03-24', 'total': 34},
+    {'date': '2022-03-23', 'total': 55},
+    {'date': '2022-03-22', 'total': 46},
+    {'date': '2022-03-21', 'total': 48},
+    {'date': '2022-03-20', 'total': 5},
+    {'date': '2022-03-19', 'total': 5},
+    {'date': '2022-03-18', 'total': 10},
+    {'date': '2022-03-17', 'total': 22},
+    {'date': '2022-03-16', 'total': 27},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-14', 'total': 32},
+    {'date': '2022-03-13', 'total': 26},
+    {'date': '2022-03-11', 'total': 8},
+    {'date': '2022-03-10', 'total': 6},
+    {'date': '2022-03-09', 'total': 42},
+    {'date': '2022-03-08', 'total': 23},
+    {'date': '2022-03-07', 'total': 27},
+    {'date': '2022-03-06', 'total': 4},
+    {'date': '2022-03-05', 'total': 46},
+    {'date': '2022-03-04', 'total': 46},
+    {'date': '2022-03-03', 'total': 48},
+    {'date': '2022-03-02', 'total': 10},
+    {'date': '0000-00-00', 'total': 34}
+]
+European Bank for Reconstruction and Development (EBRD) 12855
+[
+    {'date': '2022-04-21', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-12', 'total': 8},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-08', 'total': 6},
+    {'date': '2022-04-07', 'total': 6},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-05', 'total': 4},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 4},
+    {'date': '2022-03-27', 'total': 1},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-23', 'total': 2},
+    {'date': '2022-03-22', 'total': 3},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '2022-03-15', 'total': 2},
+    {'date': '2022-03-14', 'total': 1}
+]
+Federal Reserve Bank of Chicago 12541
+[{'date': '0000-00-00', 'total': 54}, {'date': None, 'total': 1590}]
+Center on Budget and Policy Priorities (CBPP) 12415
+()
+James A. Baker III Institute for Public Policy 12340
+[
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-10', 'total': 5},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-24', 'total': 1}
+]
+McKinsey Global Institute (MGI) 12288
+[
+    {'date': '2022-04-17', 'total': 3},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 12},
+    {'date': '2022-04-14', 'total': 18},
+    {'date': '2022-04-13', 'total': 16},
+    {'date': '2022-04-12', 'total': 12},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-06', 'total': 9},
+    {'date': '0000-00-00', 'total': 15}
+]
+Hoover Institution 11846
+()
+Austrian Institute of Economic Research (WIFO) 11665
+[
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-13', 'total': 12},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-08', 'total': 6},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 12},
+    {'date': '2022-04-04', 'total': 13},
+    {'date': '2022-03-30', 'total': 6},
+    {'date': '2022-03-29', 'total': 6},
+    {'date': '2022-03-25', 'total': 6},
+    {'date': '2022-03-23', 'total': 6},
+    {'date': '2022-03-18', 'total': 12},
+    {'date': '2022-03-17', 'total': 6},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-10', 'total': 6},
+    {'date': '2022-03-09', 'total': 6},
+    {'date': '2022-03-07', 'total': 6},
+    {'date': '2022-03-04', 'total': 4},
+    {'date': '2022-03-03', 'total': 2}
+]
+Centre for Economic Policy Research (CEPR) 11425
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 3},
+    {'date': '2022-04-15', 'total': 12},
+    {'date': '2022-04-14', 'total': 11},
+    {'date': '2022-04-13', 'total': 15},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-11', 'total': 15},
+    {'date': '2022-04-10', 'total': 4},
+    {'date': '2022-04-09', 'total': 9},
+    {'date': '2022-04-08', 'total': 25},
+    {'date': '2022-04-07', 'total': 11},
+    {'date': '2022-04-06', 'total': 14},
+    {'date': '2022-04-05', 'total': 10},
+    {'date': '2022-04-04', 'total': 10},
+    {'date': '2022-04-03', 'total': 4},
+    {'date': '2022-04-02', 'total': 6},
+    {'date': '2022-04-01', 'total': 19},
+    {'date': '2022-03-31', 'total': 10},
+    {'date': '2022-03-30', 'total': 19},
+    {'date': '2022-03-29', 'total': 8},
+    {'date': '2022-03-28', 'total': 5},
+    {'date': '2022-03-27', 'total': 4},
+    {'date': '2022-03-26', 'total': 4},
+    {'date': '2022-03-25', 'total': 4},
+    {'date': '2022-03-24', 'total': 8},
+    {'date': '2022-03-23', 'total': 5},
+    {'date': '2022-03-22', 'total': 8},
+    {'date': '2022-03-21', 'total': 8},
+    {'date': '2022-03-20', 'total': 4},
+    {'date': '2022-03-19', 'total': 3},
+    {'date': '2022-03-18', 'total': 7},
+    {'date': '2022-03-17', 'total': 4},
+    {'date': '2022-03-16', 'total': 8},
+    {'date': '2022-03-15', 'total': 8},
+    {'date': '2022-03-14', 'total': 4},
+    {'date': '2022-03-11', 'total': 8},
+    {'date': '2022-03-10', 'total': 4},
+    {'date': '2022-03-08', 'total': 6},
+    {'date': '2022-03-05', 'total': 7},
+    {'date': '2022-03-04', 'total': 8},
+    {'date': '2022-03-03', 'total': 4},
+    {'date': '2022-03-02', 'total': 4}
+]
+Institute of Economic Affairs (IEA) 11410
+[
+    {'date': '2022-04-14', 'total': 5},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-14', 'total': 1}
+]
+Istituto Bruno Leoni (IBL) 11207
+()
+European Council on Foreign Relations (ECFR) 11203
+()
+Eudoxa 10924
+()
+Tax Foundation 10888
+[
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-05', 'total': 6},
+    {'date': '2022-04-05', 'total': 5},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-30', 'total': 5},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-24', 'total': 1}
+]
+Science Policy Research Unit 10754
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': '0000-00-00', 'total': 8},
+    {'date': None, 'total': 56}
+]
+Overseas Development Institute (ODI) 10732
+[
+    {'date': '2022-04-14', 'total': 5},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-22', 'total': 1}
+]
+National Center for Public Policy Research (NCPPR) 10729
+()
+The National Academies Press 10714
+()
+Sunlight Foundation 10662
+()
+crsreports.congress.gov 10389
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 9},
+    {'date': '2022-04-13', 'total': 39},
+    {'date': '2022-04-12', 'total': 28},
+    {'date': '2022-04-11', 'total': 56},
+    {'date': '2022-04-08', 'total': 47},
+    {'date': '2022-04-07', 'total': 91},
+    {'date': '2022-04-06', 'total': 63},
+    {'date': '2022-04-05', 'total': 25},
+    {'date': '2022-04-04', 'total': 36},
+    {'date': '2022-04-01', 'total': 20},
+    {'date': '2022-03-31', 'total': 28},
+    {'date': '2022-03-30', 'total': 11},
+    {'date': '2022-03-29', 'total': 16},
+    {'date': '2022-03-28', 'total': 12},
+    {'date': '2022-03-25', 'total': 11},
+    {'date': '2022-03-24', 'total': 14},
+    {'date': '2022-03-23', 'total': 10},
+    {'date': '2022-03-22', 'total': 5},
+    {'date': '2022-03-21', 'total': 9},
+    {'date': '2022-03-18', 'total': 9},
+    {'date': '2022-03-17', 'total': 9},
+    {'date': '2022-03-16', 'total': 7},
+    {'date': '2022-03-15', 'total': 6},
+    {'date': '2022-03-14', 'total': 13},
+    {'date': '2022-03-11', 'total': 8},
+    {'date': '2022-03-10', 'total': 11},
+    {'date': '2022-03-09', 'total': 6},
+    {'date': '2022-03-08', 'total': 14},
+    {'date': '2022-03-07', 'total': 11},
+    {'date': '2022-03-04', 'total': 9},
+    {'date': '2022-03-03', 'total': 6},
+    {'date': '2022-03-02', 'total': 4},
+    {'date': '0000-00-00', 'total': 25}
+]
+Foundation for Defense of Democracies 10376
+()
+United States Institute of Peace 10263
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 2},
+    {'date': '2022-04-09', 'total': 2},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 6},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-04-05', 'total': 5},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1}
+]
+Scottish Global Forum 10219
+()
+Royal United Services Institute (RUSI) 10021
+()
+Mercatus Center 9919
+()
+Institute for Policy Studies (IPS) 9890
+[
+    {'date': '2022-03-09', 'total': 2},
+    {'date': '2022-03-08', 'total': 1},
+    {'date': '2022-03-07', 'total': 3},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': '2022-03-02', 'total': 5}
+]
+Texas Public Policy Foundation 9868
+()
+Peterson Institute for International Economics (PIIE) 9711
+[
+    {'date': '2022-04-27', 'total': 1},
+    {'date': '2022-04-26', 'total': 1},
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '0000-00-00', 'total': 1},
+    {'date': None, 'total': 1}
+]
+Federal Reserve Bank of Philadelphia 9663
+[
+    {'date': '2022-04-16', 'total': 2},
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 6},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '2022-03-16', 'total': 4},
+    {'date': '2022-03-15', 'total': 4},
+    {'date': '2022-03-14', 'total': 4},
+    {'date': '2022-03-13', 'total': 4},
+    {'date': '2022-03-12', 'total': 4},
+    {'date': '2022-03-11', 'total': 4},
+    {'date': '0000-00-00', 'total': 8}
+]
+Oklahoma Policy Institute 9618
+[
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-29', 'total': 2},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-25', 'total': 1}
+]
+Barcelona Centre for International Affairs 9593
+[{'date': '2022-04-08', 'total': 1}, {'date': '2022-04-06', 'total': 1}]
+Federal Deposit Insurance Corporation (FDIC) 9496
+[
+    {'date': '2022-05-03', 'total': 1},
+    {'date': '2022-04-28', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': None, 'total': 543}
+]
+Council of Economic Advisers 9192
+()
+Fundacao Getulio Vargas (FGV) 9107
+[
+    {'date': '2022-12-04', 'total': 3},
+    {'date': '2022-11-04', 'total': 4},
+    {'date': '2022-08-04', 'total': 3},
+    {'date': '2022-07-04', 'total': 4},
+    {'date': '2022-06-04', 'total': 5},
+    {'date': '2022-05-04', 'total': 4},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': None, 'total': 1}
+]
+AARP Public Policy Institute 9053
+()
+Foundation for Rational Economics and Education 8930
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-09', 'total': 2},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-04-02', 'total': 2},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 3}
+]
+International Institute for Environment and Development 8890
+()
+Earth institute 8744
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+KPMG 8740
+()
+Russian International Affairs Council (RIAC) 8582
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-04-02', 'total': 3},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': None, 'total': 4}
+]
+German Marshall Fund of the United States 8572
+()
+German Development Institute (DIE) 8401
+[
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '0000-00-00', 'total': 17}
+]
+Korea Economic Research Institute 8394
+()
+Economic Policy Institute (EPI) 8305
+[
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '0000-00-00', 'total': 2}
+]
+Center for Immigration Studies 8187
+()
+Asian Development Bank 8143
+()
+Center for a New American Security (CNAS) 7957
+[
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 4},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 3}
+]
+Research Institute of Economy, Trade and Industry (RIETI) 7936
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-12', 'total': 1},
+    {'date': '2022-03-05', 'total': 1},
+    {'date': '0000-00-00', 'total': 501},
+    {'date': None, 'total': 1295}
+]
+Inter-American Dialogue 7931
+[
+    {'date': '2022-04-21', 'total': 1},
+    {'date': '2022-04-19', 'total': 1},
+    {'date': '2022-04-15', 'total': 4},
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-05', 'total': 4},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': None, 'total': 29}
+]
+Centre d'Etudes Prospectives et d'Informations Internationales (CEPII) 7868
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': None, 'total': 4361}
+]
+Frontier Centre for Public Policy (FCPP) 7838
+[
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 2}
+]
+Centre d'Etudes et de Recherches Internationales (CERI) 7708
+[
+    {'date': '2022-03-28', 'total': 7},
+    {'date': '2022-03-02', 'total': 7},
+    {'date': None, 'total': 7}
+]
+Constitution Unit 7619
+()
+Institute of Policy Studies of Sri Lanka (IPS) 7509
+[
+    {'date': '2030-09-20', 'total': 6},
+    {'date': '2027-09-20', 'total': 6},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '0000-00-00', 'total': 4204},
+    {'date': None, 'total': 879}
+]
+Milken Institute 7395
+()
+Gatestone Institute 7313
+()
+Fedesarrollo 7311
+[
+    {'date': '2022-11-04', 'total': 15},
+    {'date': '2022-07-04', 'total': 12},
+    {'date': '2022-06-04', 'total': 8},
+    {'date': '2022-05-04', 'total': 27},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 8},
+    {'date': '2022-04-11', 'total': 20},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-04', 'total': 8},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-10', 'total': 1},
+    {'date': '2022-03-04', 'total': 1},
+    {'date': None, 'total': 15}
+]
+Institute for Fiscal Studies (IFS) 7304
+()
+Council on Foreign Relations (CFR) 7267
+()
+Institute of Southeast Asian Studies (ISEAS) 7152
+[{'date': '0000-00-00', 'total': 57}, {'date': None, 'total': 817}]
+Association for Democratic Reforms 7115
+()
+Fraser Institute 7035
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '0000-00-00', 'total': 12}
+]
+Pew Research Center 7007
+()
+Center for Financial Inclusion 6976
+[
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-06', 'total': 10},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-28', 'total': 6},
+    {'date': '2022-03-21', 'total': 10},
+    {'date': '2022-03-15', 'total': 5},
+    {'date': '2022-03-10', 'total': 11},
+    {'date': '2022-03-09', 'total': 5},
+    {'date': '2022-03-03', 'total': 5},
+    {'date': '0000-00-00', 'total': 6}
+]
+Concord Coalition 6954
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-03-31', 'total': 2}
+]
+Boston Consulting Group (BCG) 6942
+()
+Economic Policy Institute 6885
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Vivekananda International Foundation 6866
+[
+    {'date': '2104-02-18', 'total': 1},
+    {'date': '2104-02-17', 'total': 1},
+    {'date': '2104-02-16', 'total': 1},
+    {'date': '2104-02-15', 'total': 1},
+    {'date': '2104-02-14', 'total': 1},
+    {'date': '2104-02-13', 'total': 1},
+    {'date': '2104-02-12', 'total': 1},
+    {'date': '2022-04-13', 'total': 5},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': '2022-03-13', 'total': 1},
+    {'date': '2022-03-12', 'total': 1},
+    {'date': '0000-00-00', 'total': 178},
+    {'date': None, 'total': 316}
+]
+Institute for Religion and Democracy (IRD) 6831
+()
+Mossavar-Rahmani Center for Business and Government, Harvard University 6752
+[
+    {'date': '2022-04-18', 'total': 3},
+    {'date': '2022-04-16', 'total': 2},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '0000-00-00', 'total': 102},
+    {'date': None, 'total': 11}
+]
+New Democrat Network 6744
+()
+Stimson Center 6674
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+New Zealand Initiative 6666
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 3}
+]
+The Australia Institute 6590
+[{'date': '0000-00-00', 'total': 13}]
+Federal Reserve Bank of St. Louis 6532
+[{'date': '2022-03-22', 'total': 6}, {'date': None, 'total': 1083}]
+Accenture Institue for High Performance 6532
+[{'date': '2022-04-14', 'total': 1}, {'date': '0000-00-00', 'total': 4}]
+Information Technology and Innovative Foundation 6484
+()
+Institute for Sustainable Development and International Relations 6464
+[
+    {'date': '2022-04-26', 'total': 1},
+    {'date': '2022-04-16', 'total': 2},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '0000-00-00', 'total': 1},
+    {'date': None, 'total': 103}
+]
+German Marshall Fund 6433
+()
+Centre for European Reform (CER) 6383
+()
+Gateway House: Indian Council on Global Relations 6349
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 4},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': None, 'total': 18}
+]
+Economic and Social Research Institute (ESRI) 6329
+[
+    {'date': '2022-04-13', 'total': 7},
+    {'date': '2022-04-12', 'total': 9},
+    {'date': '2022-04-11', 'total': 9},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 9},
+    {'date': '2022-03-30', 'total': 9},
+    {'date': '2022-03-29', 'total': 3},
+    {'date': '2022-03-25', 'total': 3},
+    {'date': '2022-03-23', 'total': 6},
+    {'date': '2022-03-16', 'total': 4},
+    {'date': '2022-03-15', 'total': 7},
+    {'date': '2022-03-10', 'total': 13},
+    {'date': '2022-03-09', 'total': 4},
+    {'date': '2022-03-08', 'total': 4},
+    {'date': '2022-03-04', 'total': 4},
+    {'date': '2022-03-03', 'total': 7}
+]
+Libertad y Desarrollo (LyD) 6307
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': None, 'total': 151}
+]
+Demos 6254
+()
+Konrad Adenauer Foundation 6225
+()
+International Growth Centre (IGC) 6225
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Centre for International Governance Innovation (CIGI) 6142
+()
+Center for Public Integrity (CPI) 6018
+()
+Institute for Public Policy Research 5959
+()
+The Institute for Research on Public Policy (IRPP) 5928
+[{'date': '2022-04-06', 'total': 1}, {'date': '2022-03-11', 'total': 1}]
+Open Society Foundations (OSF), FKA Open Society Institute 5898
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+American Civil Rights Union 5819
+()
+Institute on Taxation and Economic Policy 5763
+[
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': '2022-03-29', 'total': 3}
+]
+National Credit Union Administration (NCUA) 5735
+()
+Institute of Applied Economic Research 5728
+()
+Committee for a Responsible Federal Budget (CRFB) 5682
+()
+Valdai Discussion Club 5655
+[
+    {'date': '2022-12-04', 'total': 2},
+    {'date': '2022-11-04', 'total': 2},
+    {'date': '2022-08-04', 'total': 3},
+    {'date': '2022-07-04', 'total': 1},
+    {'date': '2022-06-04', 'total': 2},
+    {'date': '2022-05-04', 'total': 2},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-03-31', 'total': 2}
+]
+Center for Media and Democracy (CMD) 5623
+()
+Finnish Institute of International Affairs (FIIA) 5558
+[
+    {'date': '2022-08-04', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Department of Homeland Security 5550
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-30', 'total': 2}
+]
+Canadian Centre for Policy Alternatives (CCPA) 5525
+[
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 5},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-07', 'total': 8},
+    {'date': '2022-04-06', 'total': 9},
+    {'date': '2022-04-05', 'total': 24},
+    {'date': '2022-03-30', 'total': 14},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '2022-03-28', 'total': 7},
+    {'date': '2022-03-25', 'total': 14},
+    {'date': '2022-03-23', 'total': 7},
+    {'date': '2022-03-21', 'total': 7},
+    {'date': '2022-03-18', 'total': 7},
+    {'date': '2022-03-15', 'total': 7},
+    {'date': '2022-03-14', 'total': 14},
+    {'date': '2022-03-10', 'total': 7},
+    {'date': '2022-03-03', 'total': 7},
+    {'date': '0000-00-00', 'total': 5}
+]
+Organization of the Black Sea Economic Cooperation 5519
+[
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-06', 'total': 3},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-21', 'total': 5},
+    {'date': '2022-03-11', 'total': 5},
+    {'date': '2022-03-04', 'total': 5}
+]
+Montreal Economic Institute (MEI) 5428
+[
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-02', 'total': 2},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-30', 'total': 1}
+]
+Pacific Research Institute 5289
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-15', 'total': 1}
+]
+LIRNEasia 5282
+()
+Peace Research Institute Frankfurt 5220
+()
+Foreign Policy Initiative 5128
+[
+    {'date': '2022-04-17', 'total': 4},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 5},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+American Foreign Policy Council (AFPC) 5122
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-30', 'total': 1}
+]
+NUS-East Asian Institute (EAI) 5061
+[{'date': '0000-00-00', 'total': 13}, {'date': None, 'total': 169}]
+S. Rajaratnam School of International Studies 5022
+[{'date': '0000-00-00', 'total': 2}]
+National Institute of Economic and Social Research 4925
+()
+Economic and Social Research Institute 4907
+[{'date': None, 'total': 2834}]
+Resources for the Future 4886
+()
+CUTS International 4820
+[{'date': '2022-04-08', 'total': 1}, {'date': None, 'total': 245}]
+World Customs Organization (WCO) 4816
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-31', 'total': 4},
+    {'date': None, 'total': 196}
+]
+Center for Freedom and Prosperity (CFP) 4815
+()
+International Center for Climate Governance (ICCG) 4806
+()
+Institute of World Economy and International Relations (IMEMO RAS) 4787
+()
+Social Policy and Development Centre 4785
+()
+Consumer Financial Protection Bureau (CFPB) 4779
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 4},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-04', 'total': 1}
+]
+Fundacja Forum Obywatelskiego Rozwoju (FOR) 4761
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': None, 'total': 25}
+]
+Financial Crimes Enforcement Network (FinCEN) 4756
+[
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 9},
+    {'date': '2022-03-25', 'total': 2},
+    {'date': '2022-03-23', 'total': 1},
+    {'date': '2022-03-17', 'total': 9},
+    {'date': '2022-03-16', 'total': 3},
+    {'date': '2022-03-10', 'total': 1},
+    {'date': '2022-03-07', 'total': 2},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': '0000-00-00', 'total': 2}
+]
+Bipartisan Policy Center 4746
+[
+    {'date': '2022-05-02', 'total': 1},
+    {'date': '2022-04-28', 'total': 1},
+    {'date': '2022-04-26', 'total': 1},
+    {'date': '2022-04-25', 'total': 1},
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-31', 'total': 7},
+    {'date': '2022-03-30', 'total': 2}
+]
+Centro Brasileiro de Relacoes Internacionais (CEBRI) 4735
+()
+Prosperity Now (Corporation for Enterprise Development (CFED)) 4689
+()
+C.D. Howe Institute 4681
+[
+    {'date': '2022-04-14', 'total': 21},
+    {'date': '2022-04-12', 'total': 98},
+    {'date': '2022-04-11', 'total': 52},
+    {'date': '2022-04-07', 'total': 157},
+    {'date': '2022-04-06', 'total': 52},
+    {'date': '2022-04-05', 'total': 200},
+    {'date': '2022-04-04', 'total': 41},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-30', 'total': 4}
+]
+Federal Reserve Bank of Kansas City 4659
+()
+Pacific Forum International 4597
+()
+Macdonald–Laurier Institute (MLI) 4501
+()
+Heinrich Böll Foundation 4487
+[
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-29', 'total': 2},
+    {'date': '2022-03-28', 'total': 4},
+    {'date': '2022-03-25', 'total': 2},
+    {'date': '2022-03-22', 'total': 2},
+    {'date': '2022-03-18', 'total': 2},
+    {'date': '2022-03-17', 'total': 2},
+    {'date': '2022-03-07', 'total': 12},
+    {'date': '2022-03-03', 'total': 4}
+]
+Lexington Institute 4368
+()
+Policy Matters Ohio 4347
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Hellenic Foundation for European and Foreign Policy 4312
+[
+    {'date': '2022-04-15', 'total': 5},
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 4},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-10', 'total': 3},
+    {'date': '2022-04-09', 'total': 2},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-03', 'total': 2},
+    {'date': '2022-04-02', 'total': 5},
+    {'date': '2022-04-01', 'total': 6},
+    {'date': '2022-03-31', 'total': 1}
+]
+European Centre for Development Policy Management (ECDPM) 4256
+[
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '0000-00-00', 'total': 382}
+]
+The Conference Board 4251
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 3},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-03', 'total': 1}
+]
+Politeia 4203
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': None, 'total': 3325}
+]
+Bruegel 4193
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-13', 'total': 12},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-11', 'total': 12},
+    {'date': '2022-04-08', 'total': 12},
+    {'date': '2022-04-06', 'total': 18},
+    {'date': '2022-04-05', 'total': 24},
+    {'date': '2022-04-01', 'total': 6},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-30', 'total': 6},
+    {'date': '2022-03-28', 'total': 6},
+    {'date': '2022-03-25', 'total': 6},
+    {'date': '2022-03-24', 'total': 6},
+    {'date': '2022-03-23', 'total': 6},
+    {'date': '2022-03-22', 'total': 10},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-10', 'total': 2},
+    {'date': '2022-03-09', 'total': 2},
+    {'date': '2022-03-03', 'total': 2},
+    {'date': '2022-03-02', 'total': 1}
+]
+Institute of International Affairs 4133
+[
+    {'date': '2022-07-04', 'total': 2},
+    {'date': '2022-05-04', 'total': 1},
+    {'date': '2022-04-04', 'total': 1}
+]
+Primakov Institute of World Economy and International Relations (IMEMO) 4086
+[
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': None, 'total': 1}
+]
+International Institute for Sustainable Development (IISD) 4039
+()
+European Stability Initiative 4033
+()
+Cascade Policy Institute 3958
+()
+Center for International Private Enterprise 3939
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 5},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 5},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-31', 'total': 3},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 5},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-25', 'total': 5},
+    {'date': '2022-03-22', 'total': 5},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-16', 'total': 4},
+    {'date': '2022-03-15', 'total': 5},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': '2022-03-11', 'total': 1},
+    {'date': '2022-03-08', 'total': 5},
+    {'date': '2022-03-04', 'total': 5},
+    {'date': '2022-03-02', 'total': 5}
+]
+Chicago Council on Global Affairs 3928
+()
+Kiel Institute for the World Economy (IfW) 3902
+[
+    {'date': '2022-12-04', 'total': 1},
+    {'date': '2022-07-04', 'total': 1},
+    {'date': '2022-06-04', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-18', 'total': 3},
+    {'date': '2022-03-05', 'total': 1},
+    {'date': '0000-00-00', 'total': 4}
+]
+Lincoin Instite of Land Policy 3875
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-03-03', 'total': 2},
+    {'date': '0000-00-00', 'total': 1}
+]
+Public Policy Institute of California 3852
+[{'date': '2022-04-07', 'total': 1}]
+Jagiellonian Club's Centre of Analysis 3825
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-09', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-04-02', 'total': 3},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 4},
+    {'date': None, 'total': 8}
+]
+Migration Policy Institute 3822
+[{'date': '2022-03-15', 'total': 1}, {'date': '2022-03-02', 'total': 1}]
+International Development Association (IDA) 3822
+[
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Federal Reserve Bank of San Francisco 3811
+[{'date': '2022-03-15', 'total': 7}, {'date': '0000-00-00', 'total': 14}]
+W.E. Upjohn Institute for Employment Resaerch 3794
+[
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': None, 'total': 15}
+]
+Institute for Science and International Security 3787
+()
+Indira Gandhi Institute of Development Research (IGIDR) 3773
+[{'date': None, 'total': 3374}]
+Independence Institute (II) 3737
+()
+Institut Molinari 3654
+()
+Williams Mullen 3650
+()
+Ecologic Institute 3650
+()
+Department of Commerce 3648
+[
+    {'date': '2022-04-14', 'total': 4},
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 5},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Atlantic Institute for Market Studies (AIMS) 3624
+()
+Institute of Energy Economics, Japan (IEEJ) 3582
+[{'date': '0000-00-00', 'total': 7}, {'date': None, 'total': 191}]
+Institut de Recherche Strategique de l'Ecole Militaire 3580
+()
+Federation for American Immigration Reform (FAIR) 3564
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-11', 'total': 1},
+    {'date': '2022-03-10', 'total': 1},
+    {'date': None, 'total': 1141}
+]
+Asian Development Bank Institute (ADBI) 3546
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Centre for Internet and Society (CIS) 3527
+[
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': None, 'total': 138}
+]
+James Madison Institute 3521
+[
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-14', 'total': 1}
+]
+French Institute of International Relations（IFRI) 3506
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 2}
+]
+The Cobden Centre 3465
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-03', 'total': 2},
+    {'date': '2022-03-31', 'total': 1}
+]
+Centre for Policy Dialogue (CPD) 3463
+()
+Center for Naval Analysis 3457
+()
+Pakistan Institute of Development Economics 3448
+()
+Danish Institute for International Studies (DIIS) 3441
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-03-24', 'total': 1}
+]
+Pembina Institute 3414
+[{'date': '2022-04-12', 'total': 1}, {'date': '2022-04-08', 'total': 1}]
+Niskanen Center 3338
+()
+Analysis Group 3294
+[
+    {'date': '2022-04-14', 'total': 6},
+    {'date': '2022-04-12', 'total': 15},
+    {'date': '2022-04-11', 'total': 6},
+    {'date': '2022-04-06', 'total': 14},
+    {'date': '2022-04-05', 'total': 15},
+    {'date': '2022-03-30', 'total': 7},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '2022-03-22', 'total': 7},
+    {'date': '2022-03-17', 'total': 7}
+]
+Indian Council of World Affairs (ICWA) 3291
+()
+Transparency International (TI) 3205
+()
+Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO) 
+3199
+()
+Joseph Rowntree Foundation 3194
+[
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-11', 'total': 4},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Carnegie Moscow Center 3164
+()
+Center for International Development (CID) 3159
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-05', 'total': 2},
+    {'date': '0000-00-00', 'total': 240},
+    {'date': None, 'total': 92}
+]
+Washington Center for Equitable Growth （WEGC） 3144
+[
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 2},
+    {'date': None, 'total': 116}
+]
+Beacon Hill Institute 3076
+[{'date': '0000-00-00', 'total': 15}, {'date': None, 'total': 1835}]
+Institute for International Political Studies (ISPI) 3053
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 9},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 12},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 9},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-24', 'total': 1}
+]
+Council on Competitiveness 3051
+()
+Economic Research Institute for ASEAN and East Asia (ERIA) 2960
+[
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 3},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-27', 'total': 2},
+    {'date': '2022-03-25', 'total': 3}
+]
+Samsung Economic Research Institute (SERI) 2920
+()
+Russell Sage Foundation 2917
+[
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': None, 'total': 28}
+]
+Lowy Institute for International Policy 2910
+()
+Pioneer Institute 2880
+()
+Institute for Strategic and Development Studies (ISDS) 2854
+[{'date': '0000-00-00', 'total': 1}, {'date': None, 'total': 1168}]
+Centre for Eastern Studies 2825
+[
+    {'date': '2022-04-15', 'total': 3},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+International Strategic Research Organization 2820
+[{'date': '0000-00-00', 'total': 20}]
+Facultad Latinoamericana de Ciencias Sociales (FLACSO) 2816
+[{'date': '2022-04-04', 'total': 1}]
+Center for Data Innovation 2811
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1}
+]
+German Institute for International and Security Affairs (SWP) 2811
+()
+Institute for Women's Policy Research (IWPR) 2795
+()
+Levy Economics Institute 2725
+[
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-16', 'total': 1},
+    {'date': '2022-04-14', 'total': 1}
+]
+Multilateral Investment Guarantee Agency (MIGA) 2716
+[{'date': '2022-04-06', 'total': 1}]
+Carnegie Endowment for International Peace Moscow Center 2710
+()
+Centro de Estudios Publicos (CEP) 2670
+[
+    {'date': '2022-12-04', 'total': 1},
+    {'date': '2022-10-04', 'total': 2},
+    {'date': '2022-08-04', 'total': 1},
+    {'date': '2022-07-04', 'total': 1},
+    {'date': '2022-06-04', 'total': 1},
+    {'date': '2022-05-04', 'total': 2},
+    {'date': '2022-04-14', 'total': 9},
+    {'date': '2022-04-13', 'total': 8},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-10', 'total': 4},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 4},
+    {'date': '2022-04-03', 'total': 2},
+    {'date': '2022-04-02', 'total': 2},
+    {'date': '2022-04-01', 'total': 4},
+    {'date': '2022-03-31', 'total': 4},
+    {'date': '2022-03-30', 'total': 6},
+    {'date': '2022-03-29', 'total': 6},
+    {'date': '2022-03-28', 'total': 3},
+    {'date': '2022-03-27', 'total': 6},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-23', 'total': 2},
+    {'date': '2022-03-21', 'total': 3},
+    {'date': '2022-03-17', 'total': 2},
+    {'date': '2022-03-09', 'total': 2},
+    {'date': '2022-03-08', 'total': 2},
+    {'date': '2022-03-07', 'total': 2},
+    {'date': '2022-03-04', 'total': 1}
+]
+Economic Opportunity Institute (EOI) 2656
+[{'date': '2022-04-14', 'total': 1}]
+Center for Economic and Financial Research (CEFIR) 2625
+[
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1}
+]
+United States Studies Centre 2620
+[{'date': '2022-04-14', 'total': 2}, {'date': '2022-03-16', 'total': 1}]
+Z/Yen 2615
+()
+Grattan Institute 2607
+()
+Progressive Policy Institute 2588
+()
+IBM Institute ofr Business Value 2570
+[{'date': '0000-00-00', 'total': 6}, {'date': None, 'total': 42}]
+West African Development Bank (WADB) 2526
+[{'date': None, 'total': 49}]
+SRI International 2514
+()
+Korea Institute for International Economic Policy (KIEP) 2514
+()
+World Economic Forum 2509
+[
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 1}
+]
+Natural Resource Governance Institute 2455
+()
+South African Institute of International Affairs 2433
+()
+Economic Policy Research Foundation of Turkey 2412
+()
+Center for Strategic and Budgetary Assessments (CSBA) 2404
+[
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Committee for Economic Development of The Conference Board（CED） 2404
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-07', 'total': 7},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 3},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-24', 'total': 1},
+    {'date': '2022-03-15', 'total': 7},
+    {'date': '2022-03-14', 'total': 7},
+    {'date': '2022-03-09', 'total': 7},
+    {'date': '2022-03-08', 'total': 1}
+]
+Third Way 2384
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-06', 'total': 2}
+]
+Fundacao Armando Alvares Penteado (FAAP) 2355
+()
+Institute for Government 2349
+()
+Friends of Europe 2318
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': None, 'total': 338}
+]
+United Nations Foundation 2297
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Centre for Policy Studies (CPS) 2297
+[
+    {'date': '2022-04-07', 'total': 7},
+    {'date': '2022-03-23', 'total': 7},
+    {'date': '2022-03-21', 'total': 7},
+    {'date': '2022-03-17', 'total': 14},
+    {'date': '2022-03-16', 'total': 7},
+    {'date': '2022-03-08', 'total': 7},
+    {'date': '2022-03-07', 'total': 7}
+]
+Centro Studi Internazionali (Ce.S.I.) 2229
+()
+India Council for Research on International Economic Relations(ICRIER) 2226
+()
+Institute for Democracy and Economic Affairs 2225
+()
+Gaidar Institute for Economic Policy (IEP) 2203
+[{'date': '2022-04-08', 'total': 1}]
+Centre of Planning and Economic Research 2197
+[{'date': None, 'total': 1654}]
+Israel Democracy Institute 2180
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 3},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': None, 'total': 1}
+]
+Federation of Euro-Asian Stock Exchanges (FEAS) 2176
+[
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 2}
+]
+Institute of Strategic Studies Islamabad 2138
+()
+Atlantic Community 2119
+()
+Islamic Development Bank (IDB) 2112
+[
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-26', 'total': 1},
+    {'date': '2022-03-25', 'total': 1}
+]
+Strategic Foresight Group 2102
+()
+Netherlands Bureau for Economic Policy Analysis (CPB) 2098
+()
+East Asian Institute (EAI) 2046
+[{'date': None, 'total': 105}]
+EastWest Institute 2044
+()
+Think Tank for Action on Social Change (TASC) 2010
+()
+Fondation Robert Schuman 1991
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': None, 'total': 42}
+]
+Goldwater Institute 1972
+()
+Middle East Forum 1971
+()
+Policy Exchange 1968
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1}
+]
+Fundacion para el Analisis y los Estudios Sociales (FAES) 1962
+[
+    {'date': '2022-08-04', 'total': 2},
+    {'date': '2022-06-04', 'total': 1},
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-06', 'total': 5},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-31', 'total': 2},
+    {'date': '2022-03-30', 'total': 5},
+    {'date': '2022-03-29', 'total': 5},
+    {'date': '2022-03-28', 'total': 5},
+    {'date': '2022-03-25', 'total': 5},
+    {'date': '2022-03-23', 'total': 5},
+    {'date': '2022-03-22', 'total': 5},
+    {'date': '2022-03-21', 'total': 5},
+    {'date': '2022-03-19', 'total': 5},
+    {'date': '2022-03-17', 'total': 5},
+    {'date': '2022-03-15', 'total': 5},
+    {'date': '2022-03-11', 'total': 5},
+    {'date': '2022-03-03', 'total': 5}
+]
+Chatham House 1959
+[{'date': '0000-00-00', 'total': 26}]
+Fondation pour l'Innovation Politique (Fondapol) 1953
+()
+Institute for National Security Studies (INSS) 1947
+()
+Randolph Foundation 1941
+[
+    {'date': '2022-04-18', 'total': 1},
+    {'date': '2022-04-17', 'total': 1},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-03-18', 'total': 1},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-14', 'total': 1},
+    {'date': '2022-03-13', 'total': 1},
+    {'date': '2022-03-12', 'total': 1},
+    {'date': '2022-03-11', 'total': 1},
+    {'date': None, 'total': 7}
+]
+Hudson Institute 1921
+()
+Institute of Policy Studies 1911
+()
+Foreign Policy Research Institute 1911
+[{'date': '2022-04-08', 'total': 1}, {'date': '2022-04-01', 'total': 2}]
+NORC at the University of Chicago 1878
+[{'date': None, 'total': 331}]
+Berkeley Roundtable on the International Economy (BRIE) 1878
+[{'date': None, 'total': 1679}]
+Pacific Council on International Policy 1871
+[{'date': '2022-04-21', 'total': 1}, {'date': '2022-04-07', 'total': 1}]
+OPEC Fund for International Development (OFID) 1870
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-03-17', 'total': 2},
+    {'date': '2022-03-15', 'total': 1},
+    {'date': '2022-03-13', 'total': 1},
+    {'date': '2022-03-12', 'total': 1},
+    {'date': '2022-03-11', 'total': 1}
+]
+International Institute for Strategic Studies (IISS) 1870
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-31', 'total': 1}
+]
+Clingendael, Netherlands Institute of International Relations 1849
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': None, 'total': 5}
+]
+J Street 1845
+()
+Social Affairs Unit 1842
+()
+Centre for Local Economic Strategies 1835
+[
+    {'date': '2022-04-13', 'total': 2},
+    {'date': '2022-04-08', 'total': 6},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-31', 'total': 5},
+    {'date': '2022-03-08', 'total': 5},
+    {'date': '0000-00-00', 'total': 509}
+]
+Levy Institute 1829
+()
+Research Institute of the Finnish Economy (ETLA) 1827
+[
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': None, 'total': 9}
+]
+Institute for Security Studies 1815
+()
+Real Instituto Elcano 1811
+()
+Canadian Tax Foundation 1796
+()
+Open Europe 1783
+()
+Development Initiatives 1779
+[
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-08', 'total': 5},
+    {'date': '2022-04-04', 'total': 10},
+    {'date': '2022-03-24', 'total': 5},
+    {'date': '2022-03-22', 'total': 5},
+    {'date': '2022-03-03', 'total': 5},
+    {'date': '2022-03-02', 'total': 5}
+]
+Canada West Foundation 1772
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 1}
+]
+Atlantic Provinces Economic Council 1761
+[
+    {'date': '2022-04-08', 'total': 3},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-03-30', 'total': 3}
+]
+Stockholm International Peace Research Institute 1761
+()
+The Peter G. Peterson Foundation 1757
+[
+    {'date': '2022-05-31', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 9}
+]
+Atlas Network 1743
+[{'date': '0000-00-00', 'total': 1}]
+European Free Trade Association (EFTA) 1722
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': None, 'total': 413}
+]
+Philadelphia Society 1721
+()
+NHH Norwegian School of Economics 1694
+[
+    {'date': '2022-05-23', 'total': 1},
+    {'date': '2022-05-19', 'total': 1},
+    {'date': '2022-05-18', 'total': 1},
+    {'date': '2022-05-11', 'total': 1},
+    {'date': '2022-05-04', 'total': 1},
+    {'date': '2022-04-29', 'total': 1},
+    {'date': '2022-04-28', 'total': 1},
+    {'date': '2022-04-27', 'total': 1},
+    {'date': '2022-04-26', 'total': 1},
+    {'date': '2022-04-22', 'total': 1},
+    {'date': '2022-04-21', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 2}
+]
+Institute for Advanced Sustainability Studies 1692
+()
+School of Public Policy and Governance (SPPG) 1680
+[{'date': '0000-00-00', 'total': 1}]
+Maine Center for Economic Policy 1672
+()
+International Institute for Counter-Terrorism (ICT) 1653
+[{'date': None, 'total': 28}]
+Australian Strategic Policy Institute (ASPI) 1639
+()
+Fondazione Eni Enrico Mattei (FEEM) 1636
+()
+Institute of World Economics and Politics (IWEP) 1619
+()
+The Boston Foundation 1607
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-05', 'total': 2}
+]
+Begin–Sadat Center for Strategic Studies 1602
+()
+Centre for Cities 1600
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-03-28', 'total': 1}
+]
+Ford Foundation 1587
+[{'date': '2022-04-01', 'total': 2}, {'date': '2022-03-28', 'total': 1}]
+Institute for New Economic Thinking (INET) 1570
+()
+Financial Stability Board 1546
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-03-31', 'total': 2}
+]
+Centre for Strategic Studies New Zealand 1540
+[{'date': '0000-00-00', 'total': 361}, {'date': None, 'total': 834}]
+Sejong Institute 1521
+()
+Australian Institute of International Affairs (AIIA) 1518
+()
+Walter Eucken Institut 1477
+[{'date': None, 'total': 1285}]
+Federal Housing Finance Agency 1474
+[{'date': '2022-04-14', 'total': 2}, {'date': '2022-03-31', 'total': 1}]
+Localis 1467
+[{'date': '2022-04-07', 'total': 1}, {'date': '2022-03-31', 'total': 1}]
+New Economics Foundation 1448
+[
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-23', 'total': 1},
+    {'date': '2022-03-22', 'total': 2},
+    {'date': '2022-03-21', 'total': 1}
+]
+Eurasian Development Bank (EDB) 1426
+()
+Tax payers Alliance 1420
+[{'date': None, 'total': 3}]
+Lisbon Council for Economic Competitiveness and Social Renewal 1400
+[{'date': None, 'total': 518}]
+African Centre for the Constructive Resolution of Disputes (ACCORD) 1399
+()
+A.T. Kearney Global Business Policy Council (GBPC) 1396
+[{'date': '0000-00-00', 'total': 7}, {'date': None, 'total': 9}]
+Institute for Research in Economic and Fiscal Issues (IREF) 1390
+[
+    {'date': '2022-09-18', 'total': 2},
+    {'date': '2022-09-17', 'total': 2},
+    {'date': '2022-09-16', 'total': 2},
+    {'date': '2022-09-14', 'total': 2},
+    {'date': '2022-09-13', 'total': 2},
+    {'date': '2022-09-12', 'total': 2},
+    {'date': '2022-09-11', 'total': 2},
+    {'date': '2022-06-18', 'total': 2},
+    {'date': '2022-06-15', 'total': 1},
+    {'date': '2022-06-14', 'total': 1},
+    {'date': '2022-06-13', 'total': 1},
+    {'date': '2022-06-12', 'total': 1},
+    {'date': '2022-06-11', 'total': 1},
+    {'date': '0000-00-00', 'total': 317}
+]
+Jerusalem Center for Public Affairs 1390
+()
+Potsdam Institute for Climate Impact Research 1377
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-05', 'total': 3},
+    {'date': '2022-04-04', 'total': 5},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '0000-00-00', 'total': 1},
+    {'date': None, 'total': 77}
+]
+Jacques Delors Institute 1367
+[{'date': '0000-00-00', 'total': 4}]
+EGMONT – The Royal Institute for International Relations 1353
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-17', 'total': 1}
+]
+Foraus 1336
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+Islamabad Policy Research Institute 1334
+[{'date': None, 'total': 525}]
+Alliance for Financial Inclusion (AFI) 1331
+[{'date': '2022-04-10', 'total': 1}, {'date': None, 'total': 1}]
+McGuinness Institute 1318
+()
+Mackenzie Institute 1315
+()
+Economic Innovation Group 1297
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': None, 'total': 36}
+]
+National Council of Applied Economic Research (NCAER) 1293
+[{'date': '0000-00-00', 'total': 40}, {'date': None, 'total': 132}]
+Nomura Research Institute （NRI） 1281
+[
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-03-30', 'total': 7},
+    {'date': '2022-03-18', 'total': 7},
+    {'date': '0000-00-00', 'total': 1}
+]
+US-China Economic and Security Review Commission (USCC) 1276
+[
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '0000-00-00', 'total': 1}
+]
+Claremont Institute 1274
+()
+Reform 1271
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-14', 'total': 3},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-01', 'total': 5},
+    {'date': '2022-03-25', 'total': 3},
+    {'date': '2022-03-18', 'total': 3},
+    {'date': '2022-03-11', 'total': 3},
+    {'date': '2022-03-04', 'total': 3},
+    {'date': None, 'total': 108}
+]
+Stiftung Neue Verantwortung 1270
+[
+    {'date': '2022-10-05', 'total': 1},
+    {'date': '2022-05-04', 'total': 1},
+    {'date': '2022-05-02', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-23', 'total': 1}
+]
+Institute of Developing Economies, Japan External Trade Organization (IDEJETRO) 
+1268
+()
+Vienna Institute for International Economic Studies (WIIW) 1266
+()
+Analytical Center for the Government of the Russian Federation 1260
+()
+Lowy Institute 1258
+()
+American Security Council Foundation 1246
+()
+Black Sea Trade and Development Bank (BSTDB) 1240
+[{'date': '2022-04-09', 'total': 1}]
+BRICS Policy Center 1240
+[{'date': None, 'total': 306}]
+Council of Europe Development Bank (CEB) 1237
+[
+    {'date': '2022-04-11', 'total': 35},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-07', 'total': 1}
+]
+Foundation for European Progressive Studies (FEPS) 1234
+[
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+Macroeconomic Policy Institute (IMK) 1221
+()
+Daiwa Institute of Research Group (DIR) 1220
+[
+    {'date': '2022-04-13', 'total': 4},
+    {'date': '2022-04-01', 'total': 7},
+    {'date': '2022-03-31', 'total': 7},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '2022-03-23', 'total': 28},
+    {'date': '2022-03-18', 'total': 7},
+    {'date': '2022-03-17', 'total': 7},
+    {'date': '2022-03-16', 'total': 7},
+    {'date': '2022-03-09', 'total': 35},
+    {'date': '2022-03-08', 'total': 7},
+    {'date': '2022-03-03', 'total': 7},
+    {'date': '2022-03-02', 'total': 7}
+]
+Canpaign Finance Institute 1213
+[{'date': None, 'total': 931}]
+Cesran International 1209
+()
+The Centre for Cross Border Studies 1191
+()
+German Council on Foreign Relations 1186
+()
+Institute for International Economic Studies (IIES) 1179
+[{'date': '2022-04-04', 'total': 1}, {'date': None, 'total': 980}]
+Delhi Policy Group (DPG) 1175
+[
+    {'date': '2022-04-04', 'total': 2},
+    {'date': '2022-04-03', 'total': 1},
+    {'date': '2022-03-28', 'total': 1},
+    {'date': '2022-03-27', 'total': 1},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-15', 'total': 2},
+    {'date': '2022-03-08', 'total': 1},
+    {'date': '2022-03-06', 'total': 2},
+    {'date': None, 'total': 14}
+]
+Institute for Strategic Dialogue 1174
+[{'date': '0000-00-00', 'total': 730}, {'date': None, 'total': 4}]
+Hispanic American Center for Economic Research (HACER) 1168
+()
+Per Capita 1168
+()
+Center for Strategic Research (SAM) 1162
+()
+Kansas Policy Institute 1151
+[
+    {'date': '2022-04-15', 'total': 2},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': None, 'total': 371}
+]
+The Takshashila Institution 1134
+()
+Fundación Alternativas 1134
+[
+    {'date': '2022-04-12', 'total': 5},
+    {'date': '2022-04-04', 'total': 6},
+    {'date': '2022-03-29', 'total': 12},
+    {'date': '2022-03-24', 'total': 5},
+    {'date': '2022-03-23', 'total': 6},
+    {'date': '2022-03-22', 'total': 5},
+    {'date': '2022-03-15', 'total': 5},
+    {'date': '2022-03-12', 'total': 5},
+    {'date': '2022-03-11', 'total': 5},
+    {'date': '2022-03-10', 'total': 5},
+    {'date': '2022-03-02', 'total': 5}
+]
+Islands Society 1129
+()
+Centre for Public Policy Research 1129
+()
+Economic Growth Center, Yale University (EGC) 1128
+[{'date': '2022-03-03', 'total': 7}]
+Financial Action Task Force (FATF) 1124
+[
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-05', 'total': 2},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-22', 'total': 2},
+    {'date': '2022-03-16', 'total': 2},
+    {'date': '2022-03-06', 'total': 1},
+    {'date': '2022-03-04', 'total': 2},
+    {'date': '2022-03-04', 'total': 3},
+    {'date': '2022-03-04', 'total': 1}
+]
+Asian Infrastructure Investment Bank (AIIB) 1121
+[
+    {'date': '2022-04-08', 'total': 7},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '0000-00-00', 'total': 213}
+]
+German Institute of Global and Area Studies 1113
+()
+Van Leer Jerusalem Institute (VLJI) 1111
+()
+Moscow State Institute of International Relations (MGIMO) 1088
+[{'date': '2022-03-14', 'total': 2}]
+Sustainable Development Policy Institute 1077
+[{'date': None, 'total': 8}]
+International Republican Institute 1077
+()
+Centre for the Study of Developing Societies (CSDS) 1075
+()
+Center for Social and Economic Research (CASE) 1057
+()
+Corporación de Estudios para Latinoamérica (CIEPLAN) 1041
+()
+European Centre for International Political Economy (ECIPE) 1041
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': None, 'total': 105}
+]
+The Sydney Institute 1038
+()
+Center for Economic and Social Development (CESD) 1034
+()
+Centre for European Policy 1018
+[{'date': None, 'total': 1}]
+Bow Group 1011
+()
+Ratio Institute 1006
+()
+Control Risks Group 997
+[
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-16', 'total': 1},
+    {'date': '2022-03-09', 'total': 1},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': '2022-03-02', 'total': 1},
+    {'date': None, 'total': 9}
+]
+New Development Bank (NDB) 997
+[
+    {'date': '2022-03-25', 'total': 7},
+    {'date': '2022-03-09', 'total': 7},
+    {'date': '0000-00-00', 'total': 70},
+    {'date': None, 'total': 84}
+]
+Development Alternatives (DA) 976
+[
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': None, 'total': 273}
+]
+Carnegie Council for Ethics in International Affairs 974
+()
+Constitution Project 970
+()
+IDEAS 970
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+World Affairs Councils of America 964
+()
+Committee for Economic Development of Australia (CEDA) 960
+()
+Sobieski Institute 952
+()
+Latin American Security and Defence Network (RESDAL) 951
+[{'date': None, 'total': 164}]
+Eco-Fiscal Commission 944
+[{'date': None, 'total': 20}]
+Avinoam Bar, FKA Jewish People Policy Institute (JPPPI) 942
+[
+    {'date': '2022-03-30', 'total': 1},
+    {'date': '2022-03-29', 'total': 2},
+    {'date': '2022-03-28', 'total': 2},
+    {'date': '2022-03-21', 'total': 1},
+    {'date': '2022-03-11', 'total': 1},
+    {'date': '2022-03-09', 'total': 1}
+]
+Centre for Civil Society 933
+()
+Vietnam Institute for American Studies 927
+[{'date': '0000-00-00', 'total': 1}]
+Centro de Implementacion de Politicas Publicas para la Equidad y el Crecimiento 
+(CIPPEC) 923
+()
+Green Alliance 920
+()
+Northeast-Midwest Institute 920
+[{'date': None, 'total': 808}]
+Foreign Policy Centre (FPC) 917
+[{'date': '2022-04-07', 'total': 1}]
+Asan Institute for Policy Studies 915
+[{'date': '2022-04-11', 'total': 1}, {'date': '2022-04-07', 'total': 1}]
+Center for Security Policy 914
+()
+Social Market Foundation 911
+()
+Broadbent Institute 907
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-08', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+Center for International Security and Cooperation 904
+()
+Institut Montaigne 902
+()
+Centre for Poverty Analysis (CEPA) 894
+[{'date': None, 'total': 1}]
+Consejo Argentino para las Relaciones Internacionales (CARI) 878
+()
+Institute for Ecological Economy Research (IÖW) 868
+[{'date': None, 'total': 3}]
+Maurice Falk Institute for Economic Research 864
+[{'date': '0000-00-00', 'total': 192}, {'date': None, 'total': 538}]
+Centre for London 852
+[
+    {'date': '2022-05-26', 'total': 1},
+    {'date': '2022-04-26', 'total': 1},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-07', 'total': 3},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-24', 'total': 10},
+    {'date': '2022-03-23', 'total': 4},
+    {'date': '2022-03-10', 'total': 2},
+    {'date': '2022-03-04', 'total': 2}
+]
+Avenir Suisse 839
+[
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-27', 'total': 1},
+    {'date': '2022-03-25', 'total': 1},
+    {'date': '2022-03-07', 'total': 1}
+]
+Policy Connect 836
+[{'date': '2022-04-04', 'total': 1}]
+Smith Richardson Foundation 835
+[{'date': None, 'total': 40}]
+Center for International Trade and Security 835
+[
+    {'date': '2022-05-16', 'total': 1},
+    {'date': '2022-05-13', 'total': 3},
+    {'date': '2022-05-06', 'total': 3},
+    {'date': '2022-05-05', 'total': 2},
+    {'date': '2022-05-04', 'total': 2},
+    {'date': '2022-05-03', 'total': 2},
+    {'date': '2022-04-29', 'total': 2},
+    {'date': '2022-04-27', 'total': 4},
+    {'date': '2022-04-22', 'total': 4},
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 2},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-02', 'total': 1}
+]
+Asia Pacific Initiative 824
+[
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-11', 'total': 2},
+    {'date': '2022-03-10', 'total': 3},
+    {'date': None, 'total': 127}
+]
+Timbro 822
+()
+Australia China Relations Institute (ACRI) 819
+()
+Itinera Institute 817
+()
+Buckeye Institute 815
+()
+Free Market Foundation 807
+()
+McCain Institute 788
+()
+Centre for Policy Development 786
+()
+Oregon Center for Public Policy 783
+[{'date': '2022-04-15', 'total': 1}, {'date': '2022-04-14', 'total': 1}]
+Caledon Institute of Social Policy 775
+()
+Jerusalem Institute for Market Studies 765
+[{'date': '0000-00-00', 'total': 497}, {'date': None, 'total': 7}]
+Duesseldorf Center for Competition Economics (DICE) 761
+()
+Friedrich Ebert Foundation 755
+()
+Center for European Renewal 747
+[{'date': None, 'total': 26}]
+Policy Network 738
+()
+African Economic Research Consortium (AERC) 733
+()
+Beacon Center of Tennessee 730
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-10', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-31', 'total': 1}
+]
+Centre for Independent Studies (CIS) 727
+()
+Institute for Public Affairs 727
+()
+Istanbul Policy Center 725
+()
+Center for an Urban Future 724
+[{'date': '2022-04-06', 'total': 1}, {'date': '2022-03-02', 'total': 2}]
+Sasakawa Peace Foundation 712
+()
+Center for Governmental Research (CGR) 708
+()
+Foundation for Democratic Reforms 706
+()
+Center for European Policy Analysis 706
+[
+    {'date': '2022-04-07', 'total': 6},
+    {'date': '2022-03-31', 'total': 6},
+    {'date': '2022-03-23', 'total': 6}
+]
+Tokyo Foundation 691
+()
+European Leadership Network 689
+()
+Mowat Center 688
+()
+Institut Choiseul for International Politics and Geoeconomics 683
+[
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-03-17', 'total': 1},
+    {'date': '0000-00-00', 'total': 2}
+]
+Bangladesh Institute of Development Studies (BIDS) 681
+()
+Open Markets Institute 680
+()
+Arctic Institute 675
+()
+Geneva Centre for the Democratic Control of Armed Forces 671
+()
+Integrated Research and Action for Development (IRADe) 666
+[{'date': None, 'total': 497}]
+Institute of Economics 664
+()
+Singapore Institute of International Affairs (SIIA) 662
+()
+Jewish Institute for National Security of America 661
+()
+Henry Jackson Society 661
+()
+Institute of International and European Affairs 653
+()
+Hindu Centre for Politics and Public Policy 653
+()
+Center of Research for Development (CIDAC) 652
+()
+Fundación de Investigaciones Económicas Latinoamericanas (FIEL) 650
+[{'date': None, 'total': 336}]
+Moshe Dayan Center for Middle Eastern and African Studies 636
+()
+Policy Studies Institute 635
+()
+Government Book Talk 623
+()
+Centre for Development and Enterprise 606
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-01', 'total': 1},
+    {'date': '2022-03-30', 'total': 1}
+]
+Arava Institute 605
+[
+    {'date': '2022-10-04', 'total': 1},
+    {'date': '2022-04-17', 'total': 2},
+    {'date': '2022-04-13', 'total': 5},
+    {'date': '2022-04-10', 'total': 6},
+    {'date': '2022-03-24', 'total': 6},
+    {'date': '2022-03-13', 'total': 6},
+    {'date': '2022-03-03', 'total': 6},
+    {'date': None, 'total': 240}
+]
+Next Century Foundation 600
+()
+The Casimir Pulaski Foundation 599
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-03-23', 'total': 1}
+]
+Berggruen Institute 599
+()
+Roubini Global Economics (RGE) 594
+[{'date': None, 'total': 574}]
+Lugar Center 591
+()
+Georgian Foundation for Strategic and International Studies 588
+()
+Asia Society Policy Institute（ASPI） 585
+()
+India Foundation 584
+[{'date': None, 'total': 7}]
+Joint  Center for Housing Studies 584
+()
+Lakshman Kadirgamar Institute of International Relations and Strategic Studies 
+583
+()
+National Venture Capital Association 578
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': None, 'total': 20}
+]
+American Action Network 566
+()
+Rosa Luxemburg Foundation 565
+()
+Canon Institute for Global Studies 564
+()
+Economist Intelligence Unit (EIU) 563
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-03-31', 'total': 1},
+    {'date': '2022-03-30', 'total': 2},
+    {'date': None, 'total': 6}
+]
+Friedrich Naumann Foundation 547
+()
+Israel Policy Forum 545
+()
+Mizuho Research Institute 545
+()
+Mannkal Economic Education Foundation 544
+()
+Deloitte Touche Tohmatsu 542
+[{'date': None, 'total': 388}]
+Show-Me Institute 540
+()
+Public Policy Forum (PPF) 537
+()
+Project for the Study of the 21st Century (PS21) 534
+[{'date': '0000-00-00', 'total': 1}]
+EuroMeSCo 533
+[{'date': '2022-04-11', 'total': 5}, {'date': '2022-03-03', 'total': 1}]
+Adam Smith Centre 531
+()
+Maxim Institute 527
+[{'date': '0000-00-00', 'total': 2}]
+Pamplin College of Business 523
+()
+GovLab, Deloitte 520
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': None, 'total': 6}
+]
+Fondation pour la Recherche Strategique (FRS) 519
+()
+Japan Institute of International Affairs (JIIA) 519
+[
+    {'date': '2022-03-31', 'total': 14},
+    {'date': '2022-03-29', 'total': 7},
+    {'date': '2022-03-22', 'total': 7},
+    {'date': '2022-03-17', 'total': 7}
+]
+Canada 2020 519
+[{'date': '2022-04-10', 'total': 1}]
+Kuhn Foundation 519
+()
+New Zealand Institute of International Affairs (NZIIA) 518
+[
+    {'date': '2022-04-21', 'total': 2},
+    {'date': '2022-04-20', 'total': 1},
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-05', 'total': 1}
+]
+Asia Pacific Foundation of Canada (APF Canada) 514
+[{'date': None, 'total': 28}]
+Daiwa Institute of Research Group (DIR） 514
+()
+Rockefeller Institute of Government 510
+[
+    {'date': '2022-04-14', 'total': 1},
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-06', 'total': 1}
+]
+Strategic and Defence Studies Centre (SDSC) 507
+()
+Employment Policies Institute 506
+[
+    {'date': '2022-04-15', 'total': 1},
+    {'date': '2022-04-06', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+International Finance Corporation (IFC) 504
+[
+    {'date': '2022-04-13', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-06', 'total': 2}
+]
+International Centre for Settlement of Investment Disputes (ICSID) 498
+()
+Netherlands Institute for Multiparty Democracy 498
+[{'date': '2022-04-14', 'total': 1}, {'date': None, 'total': 1}]
+TRT World Research Centre 495
+()
+Polar Research and Policy Initiative 494
+[{'date': '2022-04-12', 'total': 1}]
+China Institute 493
+()
+National Bureau of Asian Research 488
+[
+    {'date': '2022-04-09', 'total': 1},
+    {'date': '2022-04-08', 'total': 4},
+    {'date': '2022-04-02', 'total': 1},
+    {'date': '2022-04-01', 'total': 1}
+]
+The Lugar Center 488
+()
+The Century Foundation 485
+[{'date': '2022-04-05', 'total': 1}, {'date': '2022-03-31', 'total': 1}]
+Egyptian Center for Economic Studies (ECES) 483
+()
+Institute for Defense Analysis 479
+[{'date': None, 'total': 7}]
+Canadian Taxpayers Federation 464
+()
+New Policy Institute 463
+()
+European Union Institute for Security Studies (EUISS) 462
+()
+Jerusalem Institute for Policy Research (JIPR) 462
+[{'date': '2022-04-10', 'total': 1}, {'date': '2022-03-24', 'total': 1}]
+Torino World Affairs Institute 459
+[
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-04-04', 'total': 1},
+    {'date': '2022-03-28', 'total': 1}
+]
+Ifo Institute - Leibniz Institute for Economic Research 454
+[{'date': None, 'total': 7}]
+CANZUK International 452
+[{'date': '2022-04-12', 'total': 1}]
+United Nations University (UNU) 450
+()
+Mitsubishi UFJ Research and Consulting 448
+()
+Senate House 443
+()
+Bertelsmann Foundation 440
+()
+Council On Foundation 437
+[{'date': None, 'total': 1}]
+NLI Research Institute 434
+()
+Centre on Asia and Globalisation 431
+()
+Reut Institute 430
+()
+European Policy Centre (EPC) 426
+()
+The U.S.- China Policy Foundation 421
+()
+European Laboratory of Political Anticipation (LEAP2020) 420
+()
+Seven Pillars Institute 414
+[{'date': None, 'total': 376}]
+Institute of Economic Growth (IEG) 414
+()
+Institute of Economics, Russian Academy of Sciences (RAS) 406
+[{'date': None, 'total': 32}]
+Pakistan Institute of International Affairs 404
+[{'date': '2022-04-13', 'total': 1}]
+WISE Europa 395
+()
+Japan Policy Research Institute (PRI) 387
+()
+Botswana Institute for Development Policy Analysis (BIDPA) 383
+[{'date': '2022-03-30', 'total': 6}, {'date': '2022-03-02', 'total': 5}]
+Razumkov Centre 382
+()
+The North-South Institute (NSI) 382
+()
+Economic Research Institute for Northeast Asia (ERINA) 381
+[{'date': None, 'total': 28}]
+Centre for the Economics of Education (CEE) 378
+()
+Spark Policy Institute 378
+()
+Centre for Progressive Capitalism 370
+[
+    {'date': '2022-04-12', 'total': 2},
+    {'date': '2022-04-11', 'total': 2},
+    {'date': '2022-04-06', 'total': 2},
+    {'date': '2022-03-30', 'total': 1}
+]
+Centre for Economics and Foreign Policy Studies (EDAM) 368
+()
+Center for Economic Analysis (CenEA) 368
+()
+Policy Research Institute of Market Economy 366
+()
+New York Community Trust 366
+[{'date': '2022-04-04', 'total': 1}]
+Institute of Public Affairs (IPA) 366
+()
+Fujitsu Research Institute（FRI） 361
+()
+Development Policy Centre 353
+()
+Centro Brasileiro de Análise e Planejamento (CEBRAP) 337
+[{'date': '2022-03-31', 'total': 1}]
+Roosevelt Institute Campus Network 333
+[{'date': '2022-04-11', 'total': 1}, {'date': '2022-04-01', 'total': 1}]
+Centre for Global Cooperation Research 333
+[
+    {'date': '2022-12-04', 'total': 3},
+    {'date': '2022-07-04', 'total': 1},
+    {'date': '2022-04-13', 'total': 3},
+    {'date': '2022-04-12', 'total': 3},
+    {'date': '2022-04-07', 'total': 2},
+    {'date': '2022-04-01', 'total': 2},
+    {'date': '2022-03-24', 'total': 2},
+    {'date': '2022-03-16', 'total': 6},
+    {'date': '2022-03-09', 'total': 1},
+    {'date': '2022-03-08', 'total': 1},
+    {'date': '2022-03-03', 'total': 1},
+    {'date': None, 'total': 6}
+]
+Project 2049 Institute 331
+()
+Issam Fares Institute for Public Policy and International Affairs (IFI) 328
+()
+WebRoots Democracy 327
+()
+Kettering Foundation 327
+()
+IMANI Center for Policy and Education 325
+()
+New City Initiative 322
+()
+Aegis 322
+()
+Ripon Society 319
+()
+The Arctic Institute – Center for Circumpolar Security Studies 315
+()
+National Institute for Strategic Studies 311
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-03-29', 'total': 1},
+    {'date': '2022-03-09', 'total': 1},
+    {'date': '2022-03-02', 'total': 1}
+]
+Center for the Study of American Business, Washington University in St. Louis 
+(CSAB) 309
+[
+    {'date': '2022-03-06', 'total': 1},
+    {'date': '2022-03-02', 'total': 2},
+    {'date': None, 'total': 24}
+]
+United Nations Association – UK 307
+[{'date': '0000-00-00', 'total': 150}, {'date': None, 'total': 24}]
+Institute of Governance and Policy Studies 297
+()
+Land Policy Institute 296
+[
+    {'date': '2022-04-12', 'total': 1},
+    {'date': '2022-04-11', 'total': 1},
+    {'date': '2022-04-08', 'total': 2},
+    {'date': '2022-04-06', 'total': 1}
+]
+Kohelet Policy Forum 296
+[{'date': None, 'total': 91}]
+Tellus Institute 288
+()
+Bangladesh Institute of Law and International Affairs (BILIA) 287
+()
+Center for the National Interest (CFTNI), FKA Nixon Center 286
+()
+Institute for Jewish Policy Research 276
+()
+LSE IDEAS 274
+()
+Africa Research Institute (ARI) 269
+()
+Economics Institute 268
+()
+Kenya Institute for Public Policy Research and Analysis (KIPPRA) 268
+()
+Legatum Institute 268
+()
+Potomac Institute for Policy Studies 266
+[{'date': None, 'total': 203}]
+Casimir Pulaski Foundation (CPF) 260
+()
+Institute for International Policy Studies (IIPS) 258
+()
+Global Financial Integrity 256
+()
+Polish Institute of International Affairs (PISM) 254
+()
+Trinità dei Monti 254
+[{'date': '2022-03-31', 'total': 1}]
+Centre for Strategic and International Studies 251
+[{'date': '2022-04-13', 'total': 1}, {'date': '2022-04-11', 'total': 1}]
+Thomas B. Fordham Institute 251
+[{'date': '2022-04-13', 'total': 1}]
+Political and Economic Research Council 240
+[{'date': None, 'total': 103}]
+Center for Automotive Research (CAR) 236
+[{'date': None, 'total': 63}]
+John William Pope Foundation 233
+()
+Centro de Estudio de la Realidad Economica y Social (CERES) 229
+[
+    {'date': '2022-04-07', 'total': 1},
+    {'date': '2022-04-05', 'total': 1},
+    {'date': '2022-03-29', 'total': 1}
+]
+Nakasone Yasuhiro Peace Institute 228
+()
+Prosper Australia 227
+[{'date': None, 'total': 126}]
+Egmont Group of Financial Intelligence Units 226
+[{'date': '2022-04-06', 'total': 1}, {'date': '2022-03-08', 'total': 1}]
+Canadian International Council (CIC) 225
+()
+Turkish Economic and Social Studies Foundation 224
+()
+Ateneo Center for Economic Research and Development (ACERD) 223
+()
+GPoT Center 211
+()
+Albanian Institute for International Studies (AIIS) 208
+()
+Streit Council 207
+()
+Silicon Valley Community Foundation 207
+()
+Koerber Foundation 206
+()
+Genron NPO (言論ＮＰＯ) 199
+()
+Arkansas Policy Foundation 198
+()
+International Centre for Black Sea Studies 195
+()
+India, China & America Institute 195
+[{'date': None, 'total': 14}]
+Institute for Urban Economics (IUE) 194
+()
+Bruges Group 194
+()
+Oxford Analytica 193
+()
+The Hampton Institute 189
+()
+John S. Watson Institute for Public Policy 184
+()
+Group of Thirty 180
+()
+Global Trade Analysis Project （GTAP) 179
+[{'date': None, 'total': 1}]
+Future Italy 174
+[{'date': '2022-04-07', 'total': 1}, {'date': '2022-04-06', 'total': 1}]
+Chicago Community Trust 160
+()
+University of Asia and the Pacific 154
+()
+Smith Brandon International Inc. 148
+()
+Alternate Solutions Institute 148
+()
+Joint Center for Political and Economic Studies 145
+()
+Tulsa Community Foundation 142
+[{'date': '0000-00-00', 'total': 14}]
+The Constitution Society 139
+()
+European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE） 139
+()
+The Washington Institute for Near East Policy 139
+()
+Cohen Group 138
+[{'date': None, 'total': 7}]
+Association for Liberal Thinking (ALT) 135
+()
+Institute for Regional Security 135
+()
+The Stimson Center 134
+()
+Gracques 132
+[{'date': '2022-04-14', 'total': 1}, {'date': '2022-04-13', 'total': 1}]
+Center for Development and Strategy 130
+()
+Unlock Democracy 128
+()
+Common Weal 128
+()
+Center for Public Justice 126
+()
+Institute for International Socio-Economic Studies (IISE) 123
+()
+Center on Global Interests 121
+()
+Hansard Society 117
+()
+Nigerian Economic Summit Group 117
+()
+Millennium Institute 116
+[{'date': None, 'total': 42}]
+Kosciuszko Institute 113
+()
+Institute for Applied Economic Studies 113
+()
+Hitachi Research Institute（HRI) 111
+[{'date': '2022-04-06', 'total': 1}]
+Institute for Public Enterprise 108
+()
+East Asian Bureau of Economic Research (EABER) 102
+()
+ResPublica 101
+()
+Institute for National Security Studies 97
+()
+NASW Foundation 96
+[{'date': '2022-04-04', 'total': 2}]
+Yale Center for the Study of Globalization 96
+[{'date': None, 'total': 84}]
+Institute for Economics and Peace (IEP) 94
+()
+Israel Center for Social and Economic Progress (ICSEP) 92
+[{'date': '0000-00-00', 'total': 12}]
+Sumitomo Mitsui Trust Research Institute 87
+()
+Institute for Policy Analysis of Conflict 84
+()
+Participatory Politics Foundation 82
+()
+Amadeus Institute 80
+()
+Center for Fiscal Policy (CFP) 73
+()
+Institute for US and Canadian Studies 70
+()
+Chennai Centre for China Studies 69
+()
+Progress 69
+()
+City Mayors Foundation 69
+()
+The Wilberforce Society 65
+()
+International Centre for Policy Studies 64
+()
+Japan Center for Economic Research (JCER) 62
+[{'date': None, 'total': 42}]
+Brand EU 61
+()
+Area Study Centre for Far East and Southeast Asia (FESEA) 58
+()
+Copenhagen Institute for Futures Studies 56
+()
+Jimmy Reid Foundation 53
+()
+Scottish Constitutional Commission 51
+()
+Kissinger Associates 47
+()
+National Policy Institute 45
+()
+Innovations in Politics Institute 45
+()
+Horowitz Foundation For Social Policy 44
+[{'date': None, 'total': 42}]
+Institut des Relations Internationales et Strategiques (IRIS) 43
+()
+American Iranian Council 40
+()
+GPO 40
+()
+Stanley Foundation 38
+()
+Corporation for Enterprise Development 37
+()
+Centre for Political Studies (CEPOS) 36
+()
+Applied Economics Research Centre 35
+()
+Center for Advanced Defense Studies 33
+()
+National Institute for Research Advancement 29
+()
+Center for Research on Economic and Social Transformation (CREST) 27
+[{'date': None, 'total': 21}]
+Captus 26
+()
+Horasis 26
+()
+Political Risks Assessment Group 23
+()
+Center for Transatlantic Relations 22
+()
+Selsdon Group 21
+()
+Stockholm Network 20
+()
+Nigerian Institute of International Affairs 19
+()
+Citizens Policy Foundation 17
+()
+Center for the National Interest 17
+()
+Adam Smith Foundation 17
+()
+Institute of Regional Studies 15
+[{'date': None, 'total': 7}]
+Demand Progress Education Fund 13
+()
+Netherland-America Foundation 11
+()
+demosEUROPA - Centre for European Strategy 11
+()
+Oxford Council on Good Governance (OCGG) 11
+()
+Drum Major Institute for Public Policy (DMI) 8
+()
+Economic Expert Group (EEG) 8
+()
+Adviser on Strategic Foresight 7
+()
+European Organisation for Security 7
+()
+New Economic School – Georgia 7
+()
+Israel Council on Foreign Relations 7
+()
+Institute for Social and Economic Analyses (ISEA) 6
+()
+Centre for Economic and Social Inclusion 4
+()
+South Asian Center for Reintegration and Independent Research 3
+()
+Scaife Foundations 2
+()
+Center for International Relations (CIR) 1
+()
+Institute of National Capacity Studies (INCS) 1
+()
