@@ -18,3 +18,16 @@ def validate(context):
         if pt > now:
             return False
         return True
+
+def process(text):
+    import re
+    from datetime import datetime
+
+    p = re.compile(r'(?P<day>\d+)\.(?P<month>\d+)\.(?P<year>\d+)')
+    m = p.search(text)
+    if m:
+        day = int(m.group('day'))
+        month = int(m.group('month'))
+        year = int(m.group('year'))
+        return datetime(year, month, day).strftime("%Y-%m-%d")
+    return text

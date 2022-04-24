@@ -1,0 +1,387 @@
+Institute of Economy of the Russian Academy of Sciences (EDIRC)	896720
+Congress	597182
+Organisation for Economic Co-operation and Development (OECD)	277721
+Department of the Interior	86526
+Canadian Global Affairs Institute	70387
+Securities and Exchange Commission (SEC)	55775
+	45196
+Federal Reserve Board (FRB)	31353
+Allegheny Institute for Public Policy	30198
+United Nations (UN)	22187
+Africa Center for Strategic Studies	22091
+Center for European Economic Research (ZEW)	19726
+Federal Reserve Bank of New York	18878
+German Institute for Economic Research (DIW)	17544
+Federal Reserve Bank of Dallas	16048
+Cato Institute	12826
+Federal Reserve Bank of Chicago	11916
+Department of the Treasury	11040
+The National Academies Press	10714
+Eudoxa	9955
+Wilson Center, FKA Woodrow Wilson International Center for Scholars	9377
+AARP Public Policy Institute	9053
+Federal Reserve Bank of Minneapolis	7452
+Federal Reserve Bank of St. Louis	7443
+Centre d'Etudes Prospectives et d'Informations Internationales (CEPII)	7430
+Centre d'Etudes et de Recherches Internationales (CERI)	7067
+Federal Reserve Bank of Philadelphia	7006
+Indira Gandhi Institute of Development Research (IGIDR)	6183
+Economic and Social Research Institute	6055
+Politeia	5974
+Peace Research Institute Frankfurt	5159
+Federal Reserve Bank of Cleveland	4809
+Social Policy and Development Centre	4785
+Federal Reserve Bank of Atlanta	4559
+Federal Trade Commission (FTC)	4221
+Libertad y Desarrollo (LyD)	4188
+Korea Economic Research Institute	3997
+World Trade Organization (WTO)	3777
+Fundacja Forum Obywatelskiego Rozwoju (FOR)	3712
+McKinsey Global Institute (MGI)	3609
+National Credit Union Administration (NCUA)	3473
+Institut de Recherche Strategique de l'Ecole Militaire	3440
+Institute of Energy Economics, Japan (IEEJ)	3337
+Beacon Hill Institute	3150
+Centre of Planning and Economic Research	3149
+Berkeley Roundtable on the International Economy (BRIE)	3078
+Institute for Public Policy Research	2534
+Institute for Strategic and Development Studies (ISDS)	2503
+Walter Eucken Institut	2454
+Federal Deposit Insurance Corporation (FDIC)	2418
+Institute of Southeast Asian Studies (ISEAS)	2367
+Overseas Development Institute (ODI)	2347
+Research Institute of Economy, Trade and Industry (RIETI)	2242
+Fundacao Armando Alvares Penteado (FAAP)	2158
+Institute for Sustainable Development and International Relations	2140
+NORC at the University of Chicago	2119
+New America Foundation	2011
+Federation for American Immigration Reform (FAIR)	1959
+Centre for Strategic Studies New Zealand	1773
+Canpaign Finance Institute	1766
+Institute for International Economic Studies (IIES)	1733
+Institute of World Economy and International Relations (IMEMO RAS)	1728
+Philadelphia Society	1721
+Northeast-Midwest Institute	1664
+Institute for Advanced Sustainability Studies	1489
+CUTS International	1408
+Department of Justice	1365
+Department of Commerce	1331
+Clingendael, Netherlands Institute of International Relations	1310
+Inter-American Dialogue	1266
+Institute of Policy Studies of Sri Lanka (IPS)	1259
+European Bank for Reconstruction and Development (EBRD)	1246
+Latin American Security and Defence Network (RESDAL)	1220
+Hispanic American Center for Economic Research (HACER)	1168
+Federal Reserve Bank of Kansas City	1156
+Jagiellonian Club's Centre of Analysis	1153
+Middle East Forum	1141
+Claremont Institute	1134
+Institute for National Security Studies (INSS)	1126
+Natural Resource Governance Institute	1121
+Institute of Developing Economies, Japan External Trade Organization(IDE-JETRO)	1119
+Institut Molinari	1099
+Economic Growth Center, Yale University (EGC)	1034
+Integrated Research and Action for Development (IRADe)	1003
+Roubini Global Economics (RGE)	985
+Islamabad Policy Research Institute	975
+Ratio Institute	974
+Fundación de Investigaciones Económicas Latinoamericanas (FIEL)	964
+Maurice Falk Institute for Economic Research	963
+Economic Innovation Group	956
+Development Alternatives (DA)	946
+Centro de Implementacion de Politicas Publicas para la Equidad y el Crecimiento (CIPPEC)	923
+Deloitte Touche Tohmatsu	897
+Lisbon Council for Economic Competitiveness and Social Renewal	893
+Centro Brasileiro de Relacoes Internacionais (CEBRI)	891
+IBM Institute ofr Business Value	885
+Commodity Futures Trading Commission(CFTC)	882
+Russian International Affairs Council (RIAC)	867
+German Institute of Global and Area Studies	858
+Seven Pillars Institute	846
+Friends of Europe	843
+A.T. Kearney Global Business Policy Council (GBPC)	839
+European Free Trade Association (EFTA)	822
+Office of the Comptroller of the Currency (OCC)	817
+Department of State	812
+U.S. International Trade Commission (USITC)	775
+Islamic Development Bank (IDB)	766
+Independent Institute	762
+Friedrich Ebert Foundation	755
+Center for European Renewal	755
+Institute for Development Studies	754
+Duesseldorf Center for Competition Economics (DICE)	746
+Centre for European Policy	732
+Istanbul Policy Center	725
+Institute for Ecological Economy Research (IÖW)	715
+Migration Policy Institute	692
+Bangladesh Institute of Development Studies (BIDS)	681
+Geneva Centre for the Democratic Control of Armed Forces	671
+Centre for Poverty Analysis (CEPA)	668
+Federal Reserve Bank of Boston	663
+World Customs Organization (WCO)	658
+Control Risks Group	647
+Kansas Policy Institute	647
+Institute of Developing Economies, Japan External Trade Organization (IDEJETRO)	644
+African Economic Research Consortium (AERC)	630
+School of Public Policy and Governance (SPPG)	616
+Reform	612
+Vivekananda International Foundation	599
+Eco-Fiscal Commission	592
+Centre for the Study of Developing Societies (CSDS)	567
+BRICS Policy Center	562
+Macroeconomic Policy Institute (IMK)	556
+Global Trade Watch	544
+Fundacao Getulio Vargas (FGV)	542
+National Council of Applied Economic Research (NCAER)	541
+Kuhn Foundation	519
+Policy Studies Institute	516
+Small Business Administration	493
+Institute for Defense Analysis	484
+Pioneer Institute	480
+Washington Center for Equitable Growth （WEGC）	469
+McGuinness Institute	468
+Potsdam Institute for Climate Impact Research	467
+Ifo Institute - Leibniz Institute for Economic Research	459
+NUS-East Asian Institute (EAI)	454
+Council On Foundation	448
+Acton Institute	444
+Alliance for Financial Inclusion (AFI)	432
+Institute of Economics, Russian Academy of Sciences (RAS)	426
+International Bank for Reconstruction and Development (IBRD)	418
+Potomac Institute for Policy Studies	411
+Arava Institute	395
+Centre on Asia and Globalisation	390
+Israel Democracy Institute	389
+Smith Richardson Foundation	386
+Center for Economic and Financial Research (CEFIR)	379
+Japan Policy Research Institute (PRI)	379
+Centre for the Economics of Education (CEE)	378
+General Accountability Office (GAO)	368
+Spark Policy Institute	368
+OPEC Fund for International Development (OFID)	356
+Analytical Center for the Government of the Russian Federation	355
+World Bank	353
+European Centre for Development Policy Management (ECDPM)	343
+Centre for Internet and Society (CIS)	342
+Strategic and Defence Studies Centre (SDSC)	341
+IDEAS	337
+Public Citizen	307
+Facultad Latinoamericana de Ciencias Sociales (FLACSO)	295
+Tellus Institute	288
+Center for the National Interest (CFTNI), FKA Nixon Center	286
+New Zealand Initiative	274
+Indian Council of World Affairs (ICWA)	264
+LSE IDEAS	263
+Economist Intelligence Unit (EIU)	247
+Institute of International and European Affairs	242
+Bank for International Settlements (BIS)	241
+European Centre for International Political Economy (ECIPE)	232
+Center for International Development (CID)	231
+Sustainable Development Policy Institute	225
+Ateneo Center for Economic Research and Development (ACERD)	223
+Asia Pacific Initiative	221
+Center for European Policy Analysis	221
+Real Instituto Elcano	218
+Prosper Australia	217
+Amnesty International (AI)	216
+Fondation pour la Recherche Strategique (FRS)	214
+Strategic Foresight Group	213
+Inter-American Development Bank (IADB)	211
+Issam Fares Institute for Public Policy and International Affairs (IFI)	209
+Tax payers Alliance	209
+Streit Council	207
+Pamplin College of Business	198
+Center for Development and Strategy (CDS)	198
+East Asian Institute (EAI)	195
+International Development Association (IDA)	192
+The Hampton Institute	189
+Institute for Strategic Dialogue	188
+GlobalSecurity	187
+Arctic Institute	187
+National Institute of Economic and Social Research	184
+New Development Bank (NDB)	184
+Pacific Council on International Policy	180
+Canadian Taxpayers Federation	180
+Global Trade Analysis Project （GTAP)	179
+Razumkov Centre	176
+Political and Economic Research Council	173
+Mackenzie Institute	171
+Jerusalem Institute for Policy Research (JIPR)	170
+Federal Housing Finance Agency	169
+Kohelet Policy Forum	169
+West African Development Bank (WADB)	168
+Asian Development Bank Institute (ADBI)	161
+Institute for Jewish Policy Research	160
+Pakistan Institute of Development Economics	155
+Yale Center for the Study of Globalization	152
+Millennium Institute	146
+Social Affairs Unit	144
+Centre for Civil Society	142
+Development Policy Centre	141
+International Centre for Settlement of Investment Disputes (ICSID)	140
+Prosperity Now (Corporation for Enterprise Development (CFED))	135
+Association for Liberal Thinking (ALT)	135
+Institute for Regional Security	135
+Policy Connect	134
+Pembina Institute	129
+WebRoots Democracy	126
+India Council for Research on International Economic Relations(ICRIER)	125
+Institute for International Socio-Economic Studies (IISE)	123
+China Institute	121
+United States Institute of Peace	121
+Netherlands Institute for Multiparty Democracy	117
+National Bureau of Economic Research (NBER)	110
+Russell Sage Foundation	110
+Center for Automotive Research (CAR)	108
+Center for Public Justice	106
+Economic Research Institute for Northeast Asia (ERINA)	106
+Egmont Group of Financial Intelligence Units	105
+Centre for Global Cooperation Research	104
+Council of Economic Advisers	103
+Lugar Center	101
+Research Institute of the Finnish Economy (ETLA)	101
+Constitution Unit	100
+Hudson Institute	99
+Jerusalem Center for Public Affairs	96
+United Nations Association – UK	96
+The Sydney Institute	95
+Department of Homeland Security	93
+Japan Center for Economic Research (JCER)	92
+Science Policy Research Unit	89
+India, China & America Institute	88
+Mossavar-Rahmani Center for Business and Government, Harvard University	87
+J Street	84
+Asian Development Bank (ADB)	84
+Henry Jackson Society	81
+Institute of Labor Economics (IZA)	79
+The Centre for Cross Border Studies	79
+Demos	78
+Primakov Institute of World Economy and International Relations (IMEMO)	77
+Horowitz Foundation For Social Policy	74
+Mackinac Center for Public Policy	72
+Fondation Robert Schuman	72
+Turkish Economic and Social Studies Foundation	71
+Institute for US and Canadian Studies	70
+City Mayors Foundation	69
+Center for Fiscal Policy (CFP)	69
+Casimir Pulaski Foundation (CPF)	69
+Unlock Democracy	68
+Center for Economic and Policy Research (CEPR)	68
+India Foundation	67
+Peterson Institute for International Economics (PIIE)	64
+EGMONT – The Royal Institute for International Relations	64
+Transparency International (TI)	63
+Institut Choiseul for International Politics and Geoeconomics	61
+S. Rajaratnam School of International Studies	61
+Concord Coalition	59
+Hitachi Research Institute（HRI)	59
+Centre for Cities	56
+Nigerian Economic Summit Group	56
+Williams Mullen	55
+New Zealand Institute of International Affairs (NZIIA)	55
+Cascade Policy Institute	54
+Fedesarrollo	53
+International Institute for Counter-Terrorism (ICT)	52
+Jerusalem Institute for Market Studies	52
+Scottish Constitutional Commission	51
+McCain Institute	49
+Asia Pacific Foundation of Canada (APF Canada)	48
+Oxford Analytica	47
+Association for Democratic Reforms	47
+Center for Public Integrity (CPI)	47
+National Venture Capital Association	45
+Center for the Study of American Business, Washington University in St. Louis (CSAB)	44
+Gateway House: Indian Council on Global Relations	43
+German Institute for International and Security Affairs (SWP)	43
+Institute of Governance and Policy Studies	43
+Center for Research on Economic and Social Transformation (CREST)	42
+German Council on Foreign Relations	39
+World Economic Forum	38
+Institute for Public Enterprise	34
+Foundation for Democratic Reforms	31
+Arkansas Policy Foundation	30
+Eurasian Development Bank (EDB)	29
+Smith Brandon International Inc.	28
+Begin–Sadat Center for Strategic Studies	28
+Silicon Valley Community Foundation	27
+Delhi Policy Group (DPG)	25
+W.E. Upjohn Institute for Employment Resaerch	25
+The Stimson Center	25
+European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE）	23
+GovLab, Deloitte	23
+Center for Transatlantic Relations	22
+Chennai Centre for China Studies	22
+Institute of Regional Studies	20
+Institute for Economics and Peace (IEP)	19
+Area Study Centre for Far East and Southeast Asia (FESEA)	17
+Center for the National Interest	17
+The Cobden Centre	17
+International Monetary Fund (IMF)	15
+Stockholm International Peace Research Institute	15
+ResPublica	15
+Institute of Economic Affairs (IEA)	15
+Centro de Estudio de la Realidad Economica y Social (CERES)	15
+Economic Policy Institute (EPI)	14
+Observer Research Foundation (ORF)	13
+Center for Governmental Research (CGR)	13
+European Laboratory of Political Anticipation (LEAP2020)	12
+Randolph Foundation	12
+The Washington Institute for Near East Policy	12
+Cohen Group	12
+Finnish Institute of International Affairs (FIIA)	11
+Oxford Council on Good Governance (OCGG)	11
+Macdonald–Laurier Institute (MLI)	11
+Federation of Euro-Asian Stock Exchanges (FEAS)	11
+National Center for Public Policy Research (NCPPR)	10
+Stockholm Network	10
+Demand Progress Education Fund	8
+Economic Policy Institute	8
+Economic Expert Group (EEG)	8
+Information Technology and Innovative Foundation	8
+John William Pope Foundation	7
+World Affairs Councils of America	7
+Adviser on Strategic Foresight	7
+American Civil Rights Union	7
+Israel Council on Foreign Relations	7
+Z/Yen	6
+Centre for Policy Dialogue (CPD)	6
+Nigerian Institute of International Affairs	5
+European Council on Foreign Relations (ECFR)	5
+Centre for Economic and Social Inclusion	4
+Nomura Research Institute （NRI）	4
+European Policy Centre (EPC)	3
+Institute for Democracy and Economic Affairs	3
+International Centre for Black Sea Studies	3
+James A. Baker III Institute for Public Policy	3
+European Organisation for Security	3
+Asian Infrastructure Investment Bank (AIIB)	3
+Centro Studi Internazionali (Ce.S.I.)	2
+Scaife Foundations	2
+East Asian Bureau of Economic Research (EABER)	2
+Global Financial Integrity	2
+Sunlight Foundation	2
+Economics Institute	2
+Center for Economic and Social Development (CESD)	2
+Carnegie Endowment for International Peace (CEIP)	2
+Fondazione Eni Enrico Mattei (FEEM)	1
+Analysis Group	1
+Institute for Applied Economic Studies	1
+Open Markets Institute	1
+Institute of Economics	1
+Jamestown Foundation	1
+Kenya Institute for Public Policy Research and Analysis (KIPPRA)	1
+Applied Economics Research Centre	1
+Institute for Policy Analysis of Conflict	1
+RAND Corporation	1
+Atlantic Council	1
+Canada 2020	1
+Center for Advanced Defense Studies	1
+Pakistan Institute of International Affairs	1
+Samsung Economic Research Institute (SERI)	1
+IMANI Center for Policy and Education	1
+Copenhagen Institute for Futures Studies	1
+Pew Research Center	1
+Buckeye Institute	1
+Mercatus Center	1
+Progress	1
+Center for International Relations (CIR)	1
